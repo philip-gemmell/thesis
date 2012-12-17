@@ -1,0 +1,31 @@
+\documentclass[../thesis-main.tex]{subfiles}
+
+\begin{document}
+ This appendix gives greater detail about the ionic movement theories, and electric theory properties generally, of the modelling of electrically active cells---note that this applies equally well to both cardiac cells and to neurons.
+
+ \section{Diffusion of ions}
+ \label{sec:ion-diffusion}
+ 
+ \subsection{Simple Diffusion}
+ \label{subsec:simple-diff}
+ By simple diffusion, there is a net movement of particles from a region of high concentration to a region of low diffusion with simple thermal movement. This movement is according to Fick's Law,
+ \begin{equation}
+  F_X = -D\frac{\partial C_X}{\partial x},
+ \end{equation}
+ where $F_X$ and $C_X$ represent the flux and concentration of particle $X$ respectively, and $D$ represents the diffusion coefficient. It should be noted that this represents \emph{net} diffusion: there will be movement of particles in both directions. For circumstances where $D$ is constant, this solves to produce
+ \begin{equation}
+  F_X = P(C_{X,o}-C_{X,i}),
+ \end{equation}
+ where $P$ represents the permeability of the membrane, and is equivalent to \nicefrac{D}{d}, where $d$ represents the thickness of the membrane. $C_{X,o}$ and $C_{x,i}$ represent the extracellular and intracellular concentrations of $X$, respectively; thus $F_X$ in this form describes flux from the extra- to the intracellular space. It can be noted that for substances that diffuse through the lipid phase of the membrane, the permeability also depends on the oil/water partition coefficient $\beta$, according to $P = \beta$\nicefrac{D}{d}.
+ 
+ \subsection{Facilitated Diffusion \& Michaelis-Menten Kinetics}
+ \label{subsec:facil-diff}
+ While Fick's Law can describe the movement of small, uncharged particles across a membrane very well, it does not serve particularly well for large molecules or charged substances. Large molecules, such as amino acids and glucose, are impeded by the cell membrane, and instead make use of \emph{carrier-mediated diffusion}, also called \emph{facilitated diffusion}. This mechanism obeys Michaelis-Menten kinetics, and can be views as a catalysed reaction, where the reaction is not a chemical one, but rather a translation of substance across the membrane.
+ 
+ Briefly, Michaelis-Menten (MM) kinetics are used to describe a two-stage reaction, the first section being reversible, the second section irreversible:
+ \begin{equation}
+  
+ \end{equation}
+
+
+\end{document}

@@ -1,0 +1,100 @@
+% Required Packages
+% =================
+
+% Custom definitions
+\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/avlthesis}		% Set chapters, page size, etc.
+\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/avldefs}		% Set maths definitions, etc.
+\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/mydefs}		% Set very personal defs
+
+% Font Packages
+\usepackage{url}			% Allows quoting of websites in BibTeX
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}				% Allows use of colour fonts 
+\usepackage{amsmath}			% Maths fonts
+\usepackage{amsfonts}
+\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/algorithm}
+\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/algorithmic}
+
+% Sans Serif Font Packages & Commands
+\linespread{1.6}
+
+% Figure & Table Packages
+\usepackage{color,graphicx}
+\usepackage{epsfig}		% Graphics Package
+\usepackage[font=small,format=plain,labelfont=bf,up,textfont=it,up]{caption}	% Modifies table/figure captions
+\usepackage{multirow}		% Allows single entries to take multiple rows in tables
+\usepackage{subcaption}		% Allows subcaptions within images
+\usepackage{sidecap}		% Allows side-captions for narrow images
+
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+% Formatting Packages
+\usepackage{parskip}			% Changes paragraph formatting
+\usepackage{fullpage}			% Changes LaTeX page margins
+\usepackage[round,numbers]{natbib}	% Allows adaptation of BibTeX
+\usepackage{citesort}			% Sorts citations alphabetically
+\usepackage{hyperref}			% Allows hyperlinks within the document
+\usepackage{subfiles}			% Allows separate compilation of subfiles
+\usepackage{nicefrac}			% Allows slanted fractions to be used easily
+
+% Chapter heading adjustments
+\usepackage{fix-cm}
+\definecolor{lgray}{rgb}{0.8,0.8,0.8}
+\headsep = 35pt
+
+% Change quotation environment
+\usepackage[T1]{fontenc}
+\def\signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
+  \hbox{}\nobreak\hfil(#1)%
+  \parfillskip=0pt \finalhyphendemerits=0 \endgraf}}
+
+\newsavebox\mybox
+\newenvironment{aquote}[1]
+  {\savebox\mybox{\small#1}\begin{quote}}
+  {\signed{\usebox\mybox}\end{quote}}
+
+\input{/users/philg/Documents/3_2010-2011/thesis/titledata}
+
+% Set out paper specific commands
+% ===============================
+
+\newcommand{\ito}{$I_{\textnormal{to}}$}
+\newcommand{\ica}{$I_{\textnormal{Ca,L}}$}
+\newcommand{\ikr}{$I_{\textnormal{Kr}}$}
+\newcommand{\iks}{$I_{\textnormal{Ks}}$}
+\newcommand{\ikix}{$I_{\textnormal{K}1}$}
+\newcommand{\inak}{$I_{\textnormal{NaK}}$}
+\newcommand{\itof}{$I_{\textnormal{to,f}}$}
+\newcommand{\itos}{$I_{\textnormal{to,s}}$}
+\newcommand{\istim}{$I_{\textnormal{stim}}$}
+\newcommand{\inaca}{$I_{\textnormal{NaCa}}$}
+\newcommand{\ina}{$I_\textnormal{Na}$}
+
+\newcommand{\gto}{$g_{\textnormal{to}}$}
+\newcommand{\gca}{$g_{\textnormal{Ca,L}}$}
+\newcommand{\gkr}{$g_{\textnormal{Kr}}$}
+\newcommand{\gks}{$g_{\textnormal{Ks}}$}
+\newcommand{\gkix}{$g_{\textnormal{K1}}$}
+\newcommand{\gnak}{$g_{\textnormal{NaK}}$}
+
+\newcommand{\aprms}{AP\sub{RMS}}
+\newcommand{\drms}{$\Delta_\textnormal{RMS}$}
+
+\renewcommand{\ca}{Ca$^{2+}$}
+\newcommand{\K}{K$^+$}
+\newcommand{\na}{Na$^+$}
+\newcommand{\nai}{[\na]$_\textnormal{i}$}
+\newcommand{\ki}{[\K]$_\textnormal{i}$}
+
+\newcommand{\catrans}{$\Delta$[\ca]\sub{i}}
+\newcommand{\cai}{[\ca]$_\textnormal{i}$}
+\newcommand{\carms}{$\textnormal{Ca}^{2+}_\textnormal{RMS}$}
+\newcommand{\casys}{[\ca]$_\textnormal{i}^\textnormal{sys}$}
+\newcommand{\cadia}{[\ca]$_\textnormal{i}^\textnormal{dia}$}
+
+\newcommand{\sub}[1]{$_\textnormal{#1}$}
+\newcommand{\super}[1]{$^\textnormal{#1}$}
+\newcommand{\diff}[1]{\frac{\textnormal{d}{#1}}{\textnormal{d}t}}
+\newcommand{\deltasub}[1]{$\Delta_\textnormal{#1}$}
+\newcommand{\eg}{\emph{e.g.}}
+\newcommand{\idest}{\emph{i.e.}}
+\newcommand{\todo}[1]{\textcolor{BrickRed}{(TODO: #1})}

@@ -1,0 +1,89 @@
+\documentclass[a4paper, 12pt, twoside]{report}
+
+\input{/users/philg/Documents/3_2010-2011/thesis/preamble}
+\setcounter{tocdepth}{1}
+
+\begin{document}
+% \subfile{LitReview/litreview.tex}
+
+ \pagestyle{empty}
+ \setcounter{page}{1}
+ \pagenumbering{roman}
+ 
+ % Thesis Preamble
+ % ===============
+ 
+ % Include Title bfseriesPage
+ \def\localpath{ThesisFrontmatter}
+ \subfile{TitlePage/title}
+ 
+ % Include Abstract
+ \sglspace
+ % edit the words in ThesisFrontmatter/abstract.tex
+ \subfile{Abstract/abstract}
+ 
+ % Include Table of Contents (inc. for figures, etc.)
+ \tableofcontents
+ \newpage
+ 
+ \listoffigures
+ \newpage
+ 
+ \listoftables
+ \newpage
+
+ \subfile{acknowledgements}
+ \newpage
+ 
+ % Include section on notation
+ \subfile{notation}
+ \newpage
+
+ % Set up for main thesis body
+ \setcounter{page}{0}
+ \pagenumbering{arabic}
+ \pagestyle{thesisheadings}
+ 
+ % Thesis Body: Chapters
+ % =====================
+ 
+ \def\localpath{Intro}
+ \chapter{Introduction}
+ \dblspace
+ \begin{quote}{\em \input{Intro/intro-quote}}\end{quote}
+ \subfile{Intro/intro.tex}
+ 
+ \def\localpath{LitReview}
+ \chapter{Literature Review}
+ \dblspace
+ \begin{aquote}{\emph{Hamlet}, Act 1, Scene 5}
+  {\fontencoding{T1}\fontfamily{pzc}\selectfont
+   There are more things in heaven and earth, Horatio,\\
+   Than are dreamt of in your philosophy.
+  }
+ \end{aquote}
+ \hlinefill
+ \subfile{LitReview/litreview.tex}
+
+ % Post-thesis details
+ % ===================
+ 
+ % Appendices
+ \appendix
+ \dblspace
+ 
+ \chapter{Electrically Assisted Diffusion}
+ \def\localpath{Appendices}
+ \subfile{Appendices/electric.tex}
+
+ \sglspace
+
+ % Bibliography
+ \pagestyle{bibheadings}
+
+ \bibliographystyle{Setup/JRSS_no_url}   % For just numbers
+% %  \bibliographystyle{alpha}   % For initials+year
+% %  \bibliographystyle{apalike} % For full surname
+ \bibliography{library}
+ 
+\end{document}

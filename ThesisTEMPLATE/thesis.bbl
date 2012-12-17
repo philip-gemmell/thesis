@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Panerai et~al.(2000)Panerai, Simpson, Deverson, Mahony, Hayes and
+  Evans}]{citeulike:1448130}
+Panerai, R.~B., Simpson, D.~M., Deverson, S.~T., Mahony, P., Hayes, P. and
+  Evans, D.~H. (2000) Multivariate dynamic analysis of cerebral blood flow
+  regulation in humans.
+\newblock \textit{Biomedical Engineering, IEEE Transactions on}, \textbf{47},
+  419--423.
+
+\end{thebibliography}

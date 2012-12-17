@@ -1,0 +1,35 @@
+\begin{thebibliography}{5}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Bezanilla(2000)}]{Bezanilla2000}
+Bezanilla, F. (2000) {The voltage sensor in voltage-dependent ion channels.}
+\newblock \textit{Physiological Reviews}, \textbf{80}, 555--92.
+
+\bibitem[{Carmeliet and Vereecke(2002)}]{Carmeliet2002}
+Carmeliet, E. and Vereecke, J. (2002) \textit{{Cardiac Cellular
+  Electrophysiology}}.
+\newblock Springer.
+
+\bibitem[{Cleemann et~al.(1998)Cleemann, Wang and Morad}]{Cleemann1998}
+Cleemann, L., Wang, W. and Morad, M. (1998) {Two-dimensional confocal images of
+  organization, density, and gating of focal Ca2+ release sites in rat cardiac
+  myocytes.}
+\newblock \textit{Proceedings of the National Academy of Sciences of the United
+  States of America}, \textbf{95}, 10984--9.
+
+\bibitem[{Franzini-Armstrong et~al.(2005)Franzini-Armstrong, Protasi and
+  Tijskens}]{Franzini-Armstrong2005}
+Franzini-Armstrong, C., Protasi, F. and Tijskens, P. (2005) {The assembly of
+  calcium release units in cardiac muscle.}
+\newblock \textit{Annals of the New York Academy of Sciences}, \textbf{1047},
+  76--85.
+
+\bibitem[{Greenstein and Winslow(2002)}]{Greenstein2002}
+Greenstein, J.~L. and Winslow, R.~L. (2002) {An integrative model of the
+  cardiac ventricular myocyte incorporating local control of Ca2+ release.}
+\newblock \textit{Biophysical Journal}, \textbf{83}, 2918--45.
+
+\end{thebibliography}
