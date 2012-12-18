@@ -61,7 +61,7 @@
  
  Electrically, the heart can be modelled with great success as an analogue to an electrical circuit \citep{Carmeliet2002}, where the lipid bilayer is represented as a capacitor, and the various ion channels and transporters that span the membrane are represented as resistors, which change their `resistance' depending on their state. By altering the resistance of these channels, ion flow across the membrane is permitted via an ionic current, which changes the membrane potential---the characteristic change in membrane potential associated with, and causing, a contraction is referred to as the \emph{action potential} (AP).
  
- It is a point of nomenclature that an `inward' current represents the movement of positive ions from the extracellular to the intracellular space, and an `outward' current is the reverse. This definition is based on the movement on electrical charge, and not on the movement of ion flow.
+ 
  
  \begin{figure}
   \centering
@@ -79,24 +79,36 @@
  \end{description}
  It should be noted that the above is only an outline---the AP is the result of a complex series of interactions between different currents and channels opening and closing in response to the membrane potential and other inhibitory and activating factors.
  
+ The potential difference across the membrane is maintained and altered during the AP by the action of various membrane-bound proteins, which can be classed as either \emph{channels}, \emph{pumps} or \emph{exchangers}. Most of these proteins present ion-specific openings through the membrane, though different channels have different degrees of selectivity. Most of these channels are also controlled by, amongst other things, the membrane potential itself \citep{Bezanilla2000}. The membrane potential causes a conformational change in the ion channel protein, causing it to `open' or `close', that is to allow ions to be conducted through it or not.
+ 
+ These ion channels are discrete molecular entities, and thus the conformational changes that lead to their open/close state are stochastic; the effects of this stochasticity are discussed in greater detail in \S\ref{sec:param-var}. However, each type of ion channel possesses its own range of attributes, such as the time it takes to inactivate, the time it takes to reactivate, its permeability to different types of ions, and its susceptibility to other gating factors. For the channels examined in this thesis, a brief summary of their action and relevant physiological properties is given; further details are given in the Appendix. A comprehensive summary of the physiological properties is given in \citet{Carmeliet2002}.
+ 
  \subsubsection{Excitation-Contraction Coupling}
  \label{subsubsec:ecc}
  Arguably, the complex electrical activity of the AP just described exists for the sole purpose of ensuring the heart acts as an effective mechanical pump. As such, the linking of the electrical activity of the heart to its mechanical contraction is vital, as is referred to as \emph{excitation-contraction coupling} (ECC). What follows is a brief summary of the mechanism of this link (the reverse side of this mechanism, termed mechanoelectric feedback, shall not be discussed here).
  
  For ECC, the cell may be decomposed into units called calcium release units (CRUs), also known as dyads \citep{Cleemann1998}. These CRUs are spread roughly evenly throughout the cell to allow for a uniform action throughout---the number of CRUs in the cell has been estimated to be between 10,000 and 100,000 \citep{Cleemann1998,Greenstein2002}. Anatomically, the CRU may be considered to be a section of the cell containing a section of the cell membrane, with some L-type \ca{} channels, and a section of the sarcoplasmic reticulum (SR). The primary r\^ole of the SR is to sequester and release \ca{} via ryanodine receptors (RyRs) when the required stimulus is given. This stimulus is the rise in local concentration of \ca{} precipitated by the opening of the L-type \ca{} current channels, and is termed \emph{calcium-induced calcium release}. The result is that a great deal of \ca{} is released into the cytosol of the cell during phase 2 of the AP. The reason this is vital for ECC is due to the interaction between \ca{} and the contractile units of the cell, called the sarcomere. When the cytosolic concentration of \ca{} (\cai{}) rises, the free \ca{} binds to a part of the contractile machinisms of the cell, which then removes the inhibition between the two critical contractile parts of the mechanism, allowing contraction to take place. Subsequently, the \ca{} released from the SR is recovered by the sarco/endoplasmic reticulum \ca{}-ATPase pumps \citep{Franzini-Armstrong2005}.
  
- \subsubsection{Ion Channel Mechanics \& the Repolarisation Reserve}
- \label{subsubsec:channel-mechanics}
- As stated previously, the potential difference across the membrane is maintained and altered by the action of various membrane-bound proteins, which can be classed as either \emph{channels}, \emph{pumps} or \emph{exchangers}. Most of these proteins present ion-specific openings through the membrane, though different channels have different degrees of selectivity. Most of these channels are also controlled by, amongst other things, the membrane potential itself \citep{Bezanilla2000}. The membrane potential causes a conformational change in the ion channel protein, causing it to `open' or `close', that is to allow ions to be conducted through it or not.
+ \subsection{Ion Channel Mechanics}
+ \label{subsec:channel-mechanics}
  
- These ion channels are discrete molecular entities, and thus the conformational changes that lead to their open/close state are stochastic; the effects of this stochasticity are discussed in greater detail in \S\ref{sec:param-var}. However, each type of ion channel possesses its own range of attributes, such as the time it takes to inactivate, the time it takes to reactivate, its permeability to different types of ions, and its susceptibility to other gating factors. For the channels examined in this thesis, a brief summary of their action and relevant physiological properties is given here; further details are given in the Appendix. A comprehensive summary of the physiological properties is given in \citet{Carmeliet2002}.
+ Of key importance in mathematical modelling of electrically active cells is the \emph{Nernst equation}:
+ \begin{equation}
+  E_X = \frac{RT}{z_XF}\ln\frac{[X]_\textnormal{o}}{[X]_\textnormal{i}}
+ \end{equation}
+ In the above equation, $R$ represents the gas constant, $z_X$ represents the valence of ion $X$, $F$ represents the Faraday constant, and $[X]_\textnormal{o}$ and $[X]_\textnormal{o}$ represent the extracellular and intracellular concentrations of $X$ respectively. The quantity of interest, $E_X$ is the \emph{Nernst potential} or \emph{reversal potential}, and represents the membrane potential that would have to be in place to keep the extracellular concentrations constant, \idest, to make the net ionic flux across the cell membrane zero.
  
- \subsubsubsection{L-type \ca{} Channel, \ica{}}
- \label{subsubsubsec:ica}
- As stated previously, the channels responsible for the \ica{} current is an inward current
+ When a channel is entirely selective, the reversal potential (which can now be thought of as the potential at which there will be no net flux of ions) is given by the Nernst equation for the specific ion. However, some ion channels are permeable to more than one type of ion, in which case their reversal potential for channel $\alpha$ is given by the \emph{Goldman-Hodgkin-Katz equation}:
+ \begin{equation}
+  E_\alpha = \frac{RT}{F}\ln\frac{\Sigma_i^N P_{A_i^+}[A_i^+]_\textnormal{o} + \Sigma_j^M P_{B_j^-}[B_j^-]_\textnormal{i}}{\Sigma_i^N P_{A_i^+}[A_i^+]_\textnormal{i} + \Sigma_j^M P_{B_j^-}[B_j^-]_\textnormal{o}}
+ \end{equation}
+ The above equation describes the situation for $N$ different monovalent positive ionic species and $M$ monovalent negative ionic species; different valencies complicate matters further.In it, $E_\alpha$ represents the reversal potential for the channel, \idest, the potential at which, with the given ion concentrations, no net electric flow will occur. The permeability of the membrane is given by $P_X$; as with the concentrations, the terms have been split into positive ($A_i^+$) and negative ($B_i^-$) ionic terms.
  
  \section{Computational Cell Models}
  \label{sec:cell-models}
+ 
+ 
+ At a basic level, in mathematical models of ion channel currents, it is assumed that, instantaneously, they behave like Ohmic resistors, \idest
  
  \section{Variation}
  \label{sec:param-var}

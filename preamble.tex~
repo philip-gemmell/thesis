@@ -35,6 +35,7 @@
 \usepackage{hyperref}			% Allows hyperlinks within the document
 \usepackage{subfiles}			% Allows separate compilation of subfiles
 \usepackage{nicefrac}			% Allows slanted fractions to be used easily
+\usepackage[version=3]{mhchem}		% Makes it a heck of a lot easier to write chemical reaction equations
 
 % Chapter heading adjustments
 \usepackage{fix-cm}

@@ -1,4 +1,5 @@
 \documentclass[a4paper, 12pt, twoside]{report}
+\special{papersize=210mm,297mm}
 
 \input{/users/philg/Documents/3_2010-2011/thesis/preamble}
 \setcounter{tocdepth}{1}
@@ -50,7 +51,6 @@
  \def\localpath{Intro}
  \chapter{Introduction}
  \dblspace
- \begin{quote}{\em \input{Intro/intro-quote}}\end{quote}
  \subfile{Intro/intro.tex}
  
  \def\localpath{LitReview}
@@ -62,6 +62,7 @@
    Than are dreamt of in your philosophy.
   }
  \end{aquote}
+ \rule{\linewidth}{0.25mm}
  \subfile{LitReview/litreview.tex}
 
  % Post-thesis details
@@ -71,7 +72,7 @@
  \appendix
  \dblspace
  
- \chapter{Electrically Assisted Diffusion}
+ \chapter{Diffusion}
  \def\localpath{Appendices}
  \subfile{Appendices/electric.tex}
 

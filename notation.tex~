@@ -1,18 +1,17 @@
 \documentclass[../thesis-main.tex]{subfiles}
 
 \begin{document}
- \vspace*{20mm}
+ \vspace*{10mm}
  {
   \Large\em
-  \begin{flushleft}
+  \begin{flushright}
    Notation \& Nomenclature
-  \end{flushleft}
-
-   
+  \end{flushright}
+  \rule{\linewidth}{0.25mm}
  }
  \label{sec:Notation}
  
- \begin{tabular}{ll}
+ \begin{tabular}{p{2.5cm}p{17cm}}
   AP		& Action Potential \\
   \aprms	& Root mean square difference between `test' and `training' data for $V_m$ data \\
   APD$_x$	& Action potential duration to $x\%$ repolarisation \\

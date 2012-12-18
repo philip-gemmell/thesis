@@ -2,13 +2,16 @@
 \contentsline {chapter}{\numberline {2}Literature Review}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}Cardiac Physiology}{2}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Structure of the Mammalian Heart}{3}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Electrophysiological Properties of Cardiomyocytes}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Electrophysiological Properties of Cardiomyocytes}{5}{subsection.2.1.2}
 \contentsline {subsubsection}{Excitation-Contraction Coupling}{8}{section*.8}
-\contentsline {subsubsection}{Ion Channel Mechanics \& the Repolarisation Reserve}{9}{section*.9}
+\contentsline {subsection}{\numberline {2.1.3}Ion Channel Mechanics \& the Repolarisation Reserve}{9}{subsection.2.1.3}
 \contentsline {section}{\numberline {2.2}Computational Cell Models}{10}{section.2.2}
 \contentsline {section}{\numberline {2.3}Variation}{10}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Experimental \& Physiological Variation}{10}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Computational Modelling of Variation}{10}{subsection.2.3.2}
 \contentsline {section}{\numberline {2.4}Isch\ae mia}{10}{section.2.4}
-\contentsline {chapter}{\numberline {A}Electrically Assisted Diffusion}{11}{appendix.A}
-\contentsline {section}{\numberline {A.1}Diffusion of ions}{11}{section.A.1}
+\contentsline {chapter}{\numberline {A}Diffusion}{11}{appendix.A}
+\contentsline {section}{\numberline {A.1}Simple Diffusion}{11}{section.A.1}
+\contentsline {section}{\numberline {A.2}Facilitated Diffusion, Michaelis-Menten Kinetics}{12}{section.A.2}
+\contentsline {section}{\numberline {A.3}Electrodiffusion}{13}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}The Nernst Equeation}{13}{subsection.A.3.1}
