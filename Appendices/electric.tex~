@@ -23,7 +23,7 @@
  
  This mechanism obeys Michaelis-Menten kinetics, and can be views as a catalysed reaction, where the reaction is not a chemical one, but rather a translation of substance across the membrane.
  
- Briefly, Michaelis-Menten (MM) kinetics are used to describe a two-stage reaction, the first section being reversible, the second section irreversible:
+ Briefly, Michaelis-Menten kinetics are used to describe a two-stage reaction, the first stage being reversible, the second stage irreversible:
  \begin{center}
   \ce{C + X_o <=> CX -> C + X_i}
  \end{center}

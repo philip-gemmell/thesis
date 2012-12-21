@@ -51,7 +51,6 @@
  \def\localpath{Intro}
  \chapter{Introduction}
  \dblspace
- \begin{quote}{\em \input{Intro/intro-quote}}\end{quote}
  \subfile{Intro/intro.tex}
  
  \def\localpath{LitReview}
