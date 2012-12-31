@@ -4,18 +4,19 @@
 \contentsline {subsection}{\numberline {2.1.1}Structure of the Mammalian Heart}{3}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Electrophysiological Properties of Cardiomyocytes}{5}{subsection.2.1.2}
 \contentsline {subsubsection}{Ion Channel Dynamics}{10}{section*.8}
-\contentsline {subsubsection}{Excitation-Contraction Coupling}{13}{section*.9}
-\contentsline {section}{\numberline {2.2}Computational Cell Models}{14}{section.2.2}
+\contentsline {subsubsection}{Excitation-Contraction Coupling}{14}{section*.9}
+\contentsline {section}{\numberline {2.2}Computational Cell Models}{15}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Development}{15}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Key Concepts}{15}{subsection.2.2.2}
-\contentsline {subsubsection}{Nernst Potential}{15}{section*.10}
-\contentsline {subsubsection}{Hodgkin-Huxley Current}{16}{section*.11}
-\contentsline {section}{\numberline {2.3}Variation}{17}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Experimental \& Physiological Variation}{17}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Computational Modelling of Variation}{17}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Isch\ae mia}{17}{section.2.4}
-\contentsline {chapter}{\numberline {A}Diffusion}{18}{appendix.A}
-\contentsline {section}{\numberline {A.1}Simple Diffusion}{18}{section.A.1}
-\contentsline {section}{\numberline {A.2}Facilitated Diffusion, Michaelis-Menten Kinetics}{19}{section.A.2}
-\contentsline {section}{\numberline {A.3}Electrodiffusion}{20}{section.A.3}
-\contentsline {subsection}{\numberline {A.3.1}The Nernst Equeation}{20}{subsection.A.3.1}
+\contentsline {subsection}{\numberline {2.2.2}Key Concepts}{18}{subsection.2.2.2}
+\contentsline {subsubsection}{Nernst Potential}{19}{section*.10}
+\contentsline {subsubsection}{Hodgkin-Huxley Current}{20}{section*.11}
+\contentsline {subsubsection}{Markov Models}{20}{section*.12}
+\contentsline {section}{\numberline {2.3}Variation}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Experimental \& Physiological Variation}{21}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Computational Modelling of Variation}{21}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Isch\ae mia}{21}{section.2.4}
+\contentsline {chapter}{\numberline {A}Diffusion}{22}{appendix.A}
+\contentsline {section}{\numberline {A.1}Simple Diffusion}{22}{section.A.1}
+\contentsline {section}{\numberline {A.2}Facilitated Diffusion, Michaelis-Menten Kinetics}{23}{section.A.2}
+\contentsline {section}{\numberline {A.3}Electrodiffusion}{24}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}The Nernst Equeation}{24}{subsection.A.3.1}

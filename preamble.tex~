@@ -2,9 +2,12 @@
 % =================
 
 % Custom definitions
-\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/avlthesis}		% Set chapters, page size, etc.
-\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/avldefs}		% Set maths definitions, etc.
-\usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/mydefs}		% Set very personal defs
+% \usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/avlthesis}		% Set chapters, page size, etc.
+% \usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/avldefs}		% Set maths definitions, etc.
+% \usepackage{/users/philg/Documents/3_2010-2011/thesis/Setup/mydefs}		% Set very personal defs
+\usepackage{avlthesis}		% Set chapters, page size, etc.
+\usepackage{avldefs}		% Set maths definitions, etc.
+\usepackage{mydefs}		% Set very personal defs
 
 % Font Packages
 \usepackage{url}			% Allows quoting of websites in BibTeX
@@ -30,7 +33,7 @@
 % Formatting Packages
 \usepackage{parskip}			% Changes paragraph formatting
 \usepackage{fullpage}			% Changes LaTeX page margins
-\usepackage[round,numbers]{natbib}	% Allows adaptation of BibTeX
+\usepackage[round]{natbib}		% Allows adaptation of BibTeX
 \usepackage{citesort}			% Sorts citations alphabetically
 \usepackage{hyperref}			% Allows hyperlinks within the document
 \usepackage{subfiles}			% Allows separate compilation of subfiles
@@ -60,6 +63,7 @@
 
 \newcommand{\ito}{$I_{\textnormal{to}}$}
 \newcommand{\ica}{$I_{\textnormal{Ca,L}}$}
+\newcommand{\ik}{$I_{\textnormal{K}}$}
 \newcommand{\ikr}{$I_{\textnormal{Kr}}$}
 \newcommand{\iks}{$I_{\textnormal{Ks}}$}
 \newcommand{\ikix}{$I_{\textnormal{K}1}$}
@@ -71,6 +75,8 @@
 \newcommand{\incx}{$I_{\textnormal{NCX}}$}
 \newcommand{\ina}{$I_\textnormal{Na}$}
 \newcommand{\icacl}{$I_\textnormal{CaCl}$}
+\newcommand{\iF}{$I_\textnormal{F}$}
+\newcommand{\ikatp}{$I_\textnormal{K(ATP)}$}
 
 \newcommand{\gto}{$g_{\textnormal{to}}$}
 \newcommand{\gca}{$g_{\textnormal{Ca,L}}$}

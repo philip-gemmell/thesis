@@ -119,13 +119,29 @@
  
  \subsection{Development}
  \label{subsec:model-development}
- The precursor to all computational models of cardiac cells was the model developed in \citet{Hodgkin1952}. This model described the electrical acitivity of a giant squid axon. It described the ionic currents required to explain the change in membrane potential, using a model for each current of a series of activation and inactivation gating variables (details given in \S\ref{subsec:model-concepts}). This model was able to sufficiently model the AP of the neuron using only three ionic currents: a \K{} current, a \na{} current, and a `leak' current of other ions.
+ What follows is a summary of the progression and development of computational cardiac models. For further details of the models themselves, the reader is referred to the original papers, and for more in depth summaries of the development, the reader is referred to the reviews given in \citet{Noble2001, Noble2012, Noble2011, Puglisi2004, Rudy2006, Niederer2009}.
  
- The Hodgkin-Huxley model was hugely successful, and paved the way for the extension of the computational modelling approach to cardiac cells. Preliminary work was shown in \citet{Noble1960}, which presented an adaptation of the Hodgkin-Huxley model for the AP of cardiac pacemaker cells. The same 3 currents were used, with adaptations in \ik{} to reproduce the longer AP of cardiac cells. The model was subsequently refined and expanded to reproduce the AP of Purkinje fibre cells \citep{Noble1962}, and this was followed by a model designed to reproduce the AP of a ventricular myocyte \citep{Krause1966}. These models were both based on the Hodgkin-Huxley model, with the Noble model being used as the seed for future developments in the computational cardiac modelling field. The next major refinement of the model came with that proposed by \citet{McAllister1975}. In response to experimental data, this model greatly expanded the number of ion channels that were being modelled
+ The precursor to all computational models of cardiac cells was the model developed in \citet{Hodgkin1952}. This model described the electrical acitivity of a giant squid axon. It described the ionic currents required to explain the change in membrane potential, using a model for each current of a series of activation and inactivation gating variables (details given in \S\ref{subsec:model-concepts}). This model was able to sufficiently model the AP of the neuron using only three ionic currents: a \K{} current, a \na{} current, and a `leak' current of other ions. It was further developed by \citet{Fitzhugh1960}, which even then recognised that, while the `truth' of the model was not universally accepted, the model nonetheless was successful in reproducing experimental results. However, FitzHugh was able to demonstrate that, with the correct adaptations of the model equations, the output could be altered to reproduce the longer APs of cardiac cells.
+ 
+ The Hodgkin-Huxley model was hugely successful, and paved the way for the extension of the computational modelling approach to cardiac cells. Preliminary work was shown in \citet{Noble1960}, which presented an adaptation of the Hodgkin-Huxley model for the AP of cardiac pacemaker cells. The same 3 currents were used, with adaptations in \ik{} to reproduce the longer AP of cardiac cells. The model was subsequently refined and expanded to reproduce the AP of Purkinje fibre cells \citep{Noble1962}, taking into account experimental data demonstrating the existence of at least two \K{} currents (labelled $I$\sub{K}~and $I$\sub{K1}) with the resulting change in \K{} permeabilities of the cell membrane \citep{Hutter1960, Carmeliet1961, Hall1963}.
+ 
+ This model was followed by a model designed to reproduce the AP of a ventricular myocyte \citep{Krause1966}. The Noble and Krause models were both based on the Hodgkin-Huxley model, with the Noble model being used as the seed for future developments in the computational cardiac modelling field. The next major refinement of the model came with that proposed by \citet{McAllister1975}. In response to experimental data, this model greatly expanded the number of ion channels that were being modelled---the previous 4 ODEs of the Noble model were now replaced with 10. This included modelling the componenets of \ik{} separately as \ikr{} and \iks{}, as well as incorporating a \ca{} current based on experimental recordings from patch clamp experiments. This model, despite its success in reproducing experimental data, also contained an impressive flaw, in that it posited the slow conductance changes near the resting potential to an outward current, activated by depolarisation. In fact, the change was due to an inward current activated by hyperpolarisation (the so-called `pacemaker current' (\iF)). Despite this flaw, the overall model remained sound, and iterations of the current continued through to \citet{DiFrancesco1985}, which was the first model to incorporate a formulation for the \na{}-\K{} exchanger, and made most intracellular ion concentrations dynamics. It also managed to model SR \ca{} release, and demonstrated the stoichiometry of the \na{}-\ca{} exchanger had to be 3:1, not 2:1 as had previously been supposed---consequently, the resulting current from this exchange (\inaca{}) was incorporated into future models.
+ 
+ While this progress was still being made in the modelling of Purkinje fibre APs, a new focus was found in modelling the AP of ventricular myocytes. While this had already been achieved to some extent in \citet{Krause1966}, the first widely used ventricular model was that proposed in the work of \citet{Beeler1977}. This model was also the first to make more explicit mention of the internal calcium dynamics of the cell, by simulating the \ca{} release from the sarcoplasmic reticulum. Of particular note in the further development of the field is the so-called Luo-Rudy model, first published in \citet{Luo1991}. This model was originally designed to study arrhythmias in guinea pig ventricular cells, but has been subsequently developed for a wide variety of different tasks, and key components have been adapted into other models for other species \citep{Shaw1997a, Shaw1997b, Wagner1999, Viswanathan1999, Garfinkel2000, Shannon2004, Mahajan2008}. Specifically, the model was further adapted in two papers \citep{Luo1994, Luo1994a} to include dynamic intracellular ion concentrations, and \ica{} was reformulated. Significantly, \ik{} was separated into the two constituent currents of \ikr{} and \iks{} in \citet{Zeng1995}, based on experimental evidence for this separation \citep{Sanguinetti1990}. The Luo-Rudy model was also adapted to be able to model isch\ae mia by the incorporation of \ikatp{} \citep{Shaw1997} (further details of the modelling of isch\ae mia can be found in \S\ref{sec:ischaemia}). A further significant advance came with \citet{Clancy1999}, which for the first time incorporated Markov modelling into a cell model (Markov modelling is described in greater detail in \S\ref{subsubsec:markov}).
+ 
+ It should be noted that almost all currents in the models described above still use the some basic model form as that given in \citet{Hodgkin1952}---details and nuances have been added to some equations, and other equations have been formulated using entirely different methods (\eg, Markov modelling), but the underlying modelling philosophy has remained rather steady, and been found sufficient to the present day.
+ 
+ It is through this evolution of models from relatively humble beginnings that we have reached the point where we are today---computational models of cardiac systems can be used to model anything from the subcellular to the full organ level, with specialisations depending on species, location and situation. In this thesis, focus is mainly devoted to the models presented in \citet{Shannon2004} and \citet{Mahajan2008}. These are both models for rabbit ventricular myocytes, with the latter model being itself based on the former---they are both in turn based in large part on the Luo-Rudy model. However, it should not be thought that it is a direct lineage from the Luo-Rudy model to the Shannon model to the Mahajan model---there are numerous intervening steps \citep{Zeng1995, Puglisi2001, Bassani2004}.
  
  \subsection{Key Concepts}
  \label{subsec:model-concepts}
- In biophysically detailed models of electrically excitable cells, all ionic currents can be modelled according to:
+ The model's purpose defines what variables are considered, and how these variables are determined. Some models (\eg, citet{Restrepo2008}) define a certain section of the cellular mechanism as of interest, and thus the output is defined accordingly. However, most models are trained according to the membrane potential, and thus that is considered the primary output. In modelling the cell as an electrical circuit with the membrane considered as a capacitor, the instantaneous change in membrane potential is calculated according to
+ \begin{equation}
+  \frac{\textnormal{d}V_m}{\textnormal{d}t} = -\frac{1}{C_m}(I_{ion}+I_{stim}),
+ \end{equation}
+ where $C_m$ is the membrane capacitance, $I_{ion}$ is the sum of all ionic currents in and out of the cell, and $I_{stim}$ is the stimulus current, if applied, to initiate an AP.
+ 
+ In biophysically detailed models of electrically excitable cells, most ionic currents are modelled according to:
  \begin{equation}
   I_X = g_X(\mathbf{x})(V_m-E_X),
  \end{equation}
@@ -146,30 +162,49 @@
  The above equation describes the situation for $N$ different monovalent positive ionic species and $M$ monovalent negative ionic species; different valencies complicate matters further.In it, $E_\alpha$ represents the reversal potential for the channel, \idest, the potential at which, with the given ion concentrations, no net electric flow will occur. The permeability of the membrane is given by $P_X$; as with the concentrations, the terms have been split into positive ($A_i^+$) and negative ($B_i^-$) ionic terms.
  
  \subsubsection{Hodgkin-Huxley Current}
- As previously stated, the seminal work presented in \citet{Hodgkin1952} modelled currents as being composed of one of more activation/inactivation gates. As such, the current conductance can be modelled according to
+ As previously stated, the seminal work presented in \citet{Hodgkin1952} modelled currents as being composed of one of more activation/inactivation gates. It should be noted that the original paper was at pains to emphasise that this was not intended as a description of the actual, physical channel, but was to be used as is: as a mathematical equation that provides a fidelity to the experimental data.
+ 
+ Within this framework, the current conductance can be modelled according to
  \begin{equation}
   g_X = \overline{g}_Xm^a h^b,
  \end{equation}
- where $\overline{g}_X$ represents the maximum conductance through the channel, $a$ and $b$ are constants, $m$ represents the activation gate and $h$ the inactivation gate. These vary according to the following pattern (the same is true for $h$):
+ where $\overline{g}_X$ represents the maximum conductance through the channel, $a$ and $b$ are constants, $m$ represents the activation gate and $h$ the inactivation gate. In \citet{Hodgkin1952}, a physical basis was given to $m$ and $h$ by describing them as proportions of `activating molecules' and `inactivating molecules', respectively---the conductance through the channel is thus proportional to the proportion of these molecules that are within and outwith the cell. The variation can thus be described according to
  \begin{equation}
   \frac{\textnormal{d}m}{\textnormal{d}t} = \alpha_m(1-m)-\beta_m,
  \end{equation}
- where $\alpha_m$ and $\beta_m$ are functions of $V_m$. It can be noted that this can be expressed alternatively:
+ where $\alpha_m$ and $\beta_m$ are functions of $V_m$. It can be noted that this is often expressed as
  \begin{equation}
   \frac{\textnormal{d}m}{\textnormal{d}t} = \frac{m_\infty-m}{\tau_m}
  \end{equation}
- where $m_\infty=\frac{\alpha_m}{\alpha_m+\beta_m}$ and $\tau_m=\frac{1}{\alpha_m+\beta_m}$.
+ where $m_\infty=\frac{\alpha_m}{\alpha_m+\beta_m}$ and $\tau_m=\frac{1}{\alpha_m+\beta_m}$, and are the steady state value of $m$ and the time constant, respectively.
  
  At a basic level, in mathematical models of ion channel currents, it is assumed that, instantaneously, they behave like Ohmic resistors, \idest
  
+ \subsubsection{Markov Models}
+ \label{subsubsec:markov}
+ The Hodgkin-Huxley formulation is computationally efficient, but does not represent a physical reality of the channel state. As such, it is poorly suited to model state specific processes, such as mutation effects or stochasticity. To overcome this, \emph{Markov modelling} can be used (it should be noted that in the formalism presented here, it is not suited to modelling stochastic processes, but can be adapted to do so). Markov modelling works by assuming that the channel can exist in any one of $n$ discrete states. These states can be open, closed or inactivated, and there can be multiple types of each state. The simplest form is a two state system, such as
+ \begin{center}
+  \ce{C <=>[\ce{$k_\textnormal{on}$}][\ce{$k_\textnormal{off}$}] O},
+ \end{center}
+ where $k_\textnormal{on}$ and $k_\textnormal{off}$ represent the transition rates between these two states---in cardiac modelling, these transition rates typically depend only on the membrane potential. The key requirement for a Markov model is the \emph{Markov property}, which states that the transition to the next state depends only on the current state, and there is no cumulative history of the system that influences its future. Thus, if $x_i(t)$ represents the proportion of channels in state $i$ at time $t$, and $k_{ij}$ represents the transition rate from state $i$ to state $j$, the transition rates for a system containing $m$ different states may be modelled according to
+ \begin{equation}
+  \frac{\textnormal{d}x_i}{\textnormal{d}t} = \sum_{j=1}^m (k_{ji}x_j - k_{ij}x_i).
+ \end{equation}
+ The conductance of the channels for a particular current is thus calculated by multiplying the maximum conductance by the proportion of the channels that currently exist in an open state.
+ 
  \section{Variation}
  \label{sec:param-var}
+ Stochasticity has been mentioned in passing already in this dissertation. Stochasticity, and more generally variation, is now being recognised as being of key importance in many biological questions. Variation exists at all ranges, and at all scales---if one wished to be pedantic, one could point to the probabilistic collapse of the quantim wavefunction as the seed for all uncertainty, but there is no current evidence that quantum effects play any r\^ole in cardiac function. However, variation does exist, and accounting for it is becoming an increasingly important aspect of cardiac modelling.
+ 
+ In \S\ref{subsec:experimental-var}, the various possible sources and problems of variation in biological settings are discussed, and in \S\ref{subsec:comp-var}, the various methods used so far to address this variation in computational models are outlined.
  
  \subsection{Experimental \& Physiological Variation}
  \label{subsec:experimental-var}
+ As stated, variation exists at all scales: from individual ion channels
  
  \subsection{Computational Modelling of Variation}
  \label{subsec:comp-var}
+ Computationally, how much account of the variation at which scale must be made depends on the question being made, and the model being constructed to answer this question; in constructing a whole organ model of the heart to simulate the spread of the AP when considering fibre effects, there is likely little to no benefit in incorporating stochasticity at the level of ion channels.
  
  \section{Isch\ae mia}
  \label{sec:ischaemia}

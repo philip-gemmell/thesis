@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  20 DEC 2012 19:38
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  31 DEC 2012 15:02
 entering extended mode
  %&-line parsing enabled.
 **thesis-main.tex
@@ -30,7 +30,7 @@ File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (/users/philg/Documents/3_2010-2011/thesis/preamble.tex
-(/users/philg/Documents/3_2010-2011/thesis/Setup/avlthesis.sty
+(/users/philg/texmf/tex/latex/commonstuff/Setup/avlthesis.sty
 \chaplen=\skip43
 \chaptitlewidth=\skip44
 \pagewidth=\skip45
@@ -40,14 +40,10 @@ File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 \imwidththree=\skip49
 \imwidthfour=\skip50
 )
-(/users/philg/Documents/3_2010-2011/thesis/Setup/avldefs.sty
-
-LaTeX Warning: You have requested package `/users/philg/Documents/3_2010-2011/t
-hesis/Setup/avldefs',
-               but the package provides `avldefs'.
-
+(/users/philg/texmf/tex/latex/commonstuff/Setup/avldefs.sty
 Package: avldefs 
-) (/users/philg/Documents/3_2010-2011/thesis/Setup/mydefs.sty)
+)
+(/users/philg/texmf/tex/latex/commonstuff/Setup/mydefs.sty)
 (/usr/share/texmf/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip10
 Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
@@ -164,18 +160,14 @@ Package: amsfonts 2001/10/25 v2.2f
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
 )
-(/users/philg/Documents/3_2010-2011/thesis/Setup/algorithm.sty
+(/users/philg/texmf/tex/latex/commonstuff/Setup/algorithm.sty
 \c@algorithm=\count102
 \Blockindent=\skip57
 \algorithmindent=\skip58
 )
-(/users/philg/Documents/3_2010-2011/thesis/Setup/algorithmic.sty
-
-LaTeX Warning: You have requested package `/users/philg/Documents/3_2010-2011/t
-hesis/Setup/algorithmic',
-               but the package provides `algorithmic'.
-
+(/users/philg/texmf/tex/latex/commonstuff/Setup/algorithmic.sty
 Package: algorithmic 2005/07/05
+
 Document Style `algorithmic' - environment
 (/usr/share/texmf/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
@@ -582,7 +574,7 @@ Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
 [6 </users/philg/Documents/3_2010-2011/thesis/LitReview/cardiac_conduction.png 
-(PNG copy)>] <ap-structure-full.png, id=171, 1148.29pt x 645.41125pt>
+(PNG copy)>] <ap-structure-full.png, id=175, 1148.29pt x 645.41125pt>
 File: ap-structure-full.png Graphic file (type png)
 
 <use ap-structure-full.png>
@@ -609,6 +601,9 @@ Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
 [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
@@ -620,10 +615,16 @@ Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
 [12]
+Underfull \vbox (badness 4328) has occurred while \output is active []
+
+
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
 [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
@@ -635,13 +636,32 @@ Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[16])
+[16]
+Underfull \vbox (badness 4328) has occurred while \output is active []
+
+
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
 [17]
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[18]
+Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+
+
+[19]
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[20])
+Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+
+
+[21]
 Appendix A.
-(./Appendices/electric.tex [18
+(./Appendices/electric.tex [22
 
 ]
 LaTeX Info: Redefining \bond on input line 28.
@@ -669,11 +689,11 @@ LaTeX Info: Redefining \tbond on input line 28.
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
-[19]
+[23]
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[20]
+[24]
 LaTeX Info: Redefining \bond on input line 52.
 LaTeX Info: Redefining \dbond on input line 52.
 LaTeX Info: Redefining \tbond on input line 52.
@@ -684,26 +704,34 @@ LaTeX Info: Redefining \tbond on input line 52.
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[21] [22
+[25] [26
 
-])
+]
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[23] (./thesis-main.aux)
+[27]
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[28])
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[29] (./thesis-main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 11.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 7041 strings out of 256216
- 102998 string characters out of 1917072
- 178940 words of memory out of 1500000
- 10024 multiletter control sequences out of 10000+200000
+ 7117 strings out of 256216
+ 103245 string characters out of 1917072
+ 179848 words of memory out of 1500000
+ 10060 multiletter control sequences out of 10000+200000
  34664 words of font info for 80 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 43i,17n,57p,1588b,549s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 43i,17n,57p,1796b,549s stack positions out of 5000i,500n,6000p,200000b,15000s
  </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.65
 7pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.
 600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm100
@@ -728,9 +756,9 @@ y/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/t
 exmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/
 cmsy8.pfb></usr/share/texmf/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/tex
 mf/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on thesis-main.pdf (30 pages, 1702779 bytes).
+Output written on thesis-main.pdf (36 pages, 1753254 bytes).
 PDF statistics:
- 894 PDF objects out of 1000 (max. 8388607)
- 100 named destinations out of 1000 (max. 131072)
+ 1096 PDF objects out of 1200 (max. 8388607)
+ 140 named destinations out of 1000 (max. 131072)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 

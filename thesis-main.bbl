@@ -1,9 +1,26 @@
 \begin{thebibliography}{}
 
+\bibitem[Bassani et~al., 2004]{Bassani2004}
+Bassani, R.~A., Altamirano, J., Puglisi, J.~L., and Bers, D.~M. (2004).
+\newblock {Action potential duration determines sarcoplasmic reticulum Ca2+
+  reloading in mammalian ventricular myocytes.}
+\newblock {\em The Journal of Physiology}, 559(Pt 2):593--609.
+
+\bibitem[Beeler and Reuter, 1977]{Beeler1977}
+Beeler, G.~W. and Reuter, H. (1977).
+\newblock {Reconstruction of the Action Potential of Ventricular Myocardial
+  Fibres}.
+\newblock {\em The Journal of Physiology}, 268:177--210.
+
 \bibitem[Bezanilla, 2000]{Bezanilla2000}
 Bezanilla, F. (2000).
 \newblock {The voltage sensor in voltage-dependent ion channels.}
 \newblock {\em Physiological Reviews}, 80(2):555--92.
+
+\bibitem[Carmeliet, 1961]{Carmeliet1961}
+Carmeliet, E. (1961).
+\newblock {Chloride ions and the membrane potential of Purkinje fibres}.
+\newblock {\em The Journal of Physiology}, 156:375--388.
 
 \bibitem[Carmeliet, 2006]{Carmeliet2006}
 Carmeliet, E. (2006).
@@ -15,6 +32,12 @@ Carmeliet, E. and Vereecke, J. (2002).
 \newblock {\em {Cardiac Cellular Electrophysiology}}.
 \newblock Springer.
 
+\bibitem[Clancy and Rudy, 1999]{Clancy1999}
+Clancy, C.~E. and Rudy, Y. (1999).
+\newblock {Linking a genetic defect to its cellular phenotype in a cardiac
+  arrhythmia.}
+\newblock {\em Nature}, 400(6744):566--9.
+
 \bibitem[Cleemann et~al., 1998]{Cleemann1998}
 Cleemann, L., Wang, W., and Morad, M. (1998).
 \newblock {Two-dimensional confocal images of organization, density, and gating
@@ -22,16 +45,42 @@ Cleemann, L., Wang, W., and Morad, M. (1998).
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 95(18):10984--9.
 
+\bibitem[DiFrancesco and Noble, 1985]{DiFrancesco1985}
+DiFrancesco, D. and Noble, D. (1985).
+\newblock {A Model of Cardiac Electrical Activity Incorporating Ionic Pumps and
+  Concentration Changes}.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 307(1133):353--398.
+
+\bibitem[Fitzhugh, 1960]{Fitzhugh1960}
+Fitzhugh, R. (1960).
+\newblock {Thresholds and plateaus in the Hodgkin-Huxley nerve equations.}
+\newblock {\em The Journal of general physiology}, 43:867--96.
+
 \bibitem[Franzini-Armstrong et~al., 2005]{Franzini-Armstrong2005}
 Franzini-Armstrong, C., Protasi, F., and Tijskens, P. (2005).
 \newblock {The assembly of calcium release units in cardiac muscle.}
 \newblock {\em Annals of the New York Academy of Sciences}, 1047:76--85.
+
+\bibitem[Garfinkel et~al., 2000]{Garfinkel2000}
+Garfinkel, A., Kim, Y.~H., Voroshilovsky, O., Qu, Z., Kil, J.~R., Lee, M.~H.,
+  Karagueuzian, H.~S., Weiss, J.~N., and Chen, P.~S. (2000).
+\newblock {Preventing ventricular fibrillation by flattening cardiac
+  restitution.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 97(11):6061--6.
 
 \bibitem[Greenstein and Winslow, 2002]{Greenstein2002}
 Greenstein, J.~L. and Winslow, R.~L. (2002).
 \newblock {An integrative model of the cardiac ventricular myocyte
   incorporating local control of Ca2+ release.}
 \newblock {\em Biophysical Journal}, 83(6):2918--45.
+
+\bibitem[Hall et~al., 1963]{Hall1963}
+Hall, A.~E., Hutter, O.~F., and Noble, D. (1963).
+\newblock {Current-Voltage Relations of Purkinje Fibres in Sodium Deficient
+  Solutions}.
+\newblock {\em The Journal of Physiology}, 166:225--240.
 
 \bibitem[Haverkamp et~al., 2000]{Haverkamp2000}
 Haverkamp, W., Breithardt, G., Camm, a.~J., Janse, M.~J., Rosen, M.~R.,
@@ -48,6 +97,11 @@ Hodgkin, A.~L. and Huxley, A.~F. (1952).
   conduction and excitation in nerve}.
 \newblock {\em The Journal of Physiology}, 117:500--544.
 
+\bibitem[Hutter and Noble, 1960]{Hutter1960}
+Hutter, O.~F. and Noble, D. (1960).
+\newblock {Rectifying properties of heart muscle.}
+\newblock {\em Nature}, 188:495.
+
 \bibitem[Jost et~al., 2005]{Jost2005}
 Jost, N., Vir\'{a}g, L., Bitay, M., Tak\'{a}cs, J., Lengyel, C., Biliczki, P.,
   Nagy, Z., Bog\'{a}ts, G., Lathrop, D.~a., Papp, J.~G., and Varr\'{o}, A.
@@ -56,6 +110,14 @@ Jost, N., Vir\'{a}g, L., Bitay, M., Tak\'{a}cs, J., Lengyel, C., Biliczki, P.,
   a vital role for IKs in human ventricular muscle.}
 \newblock {\em Circulation}, 112(10):1392--9.
 
+\bibitem[Krause et~al., 1966]{Krause1966}
+Krause, H., Antoni, H., and Fleckenstein, A. (1966).
+\newblock {[An electronic model for the formation of local and transmitted
+  stimuli on the myocardium fibers based upon variable current-voltage
+  characteristics for potassium and sodium ions].}
+\newblock {\em Pfl\"{u}gers Archiv f\"{u}r die gesamte Physiologie des Menschen
+  und der Tiere}, 289(1):12--36.
+
 \bibitem[Lengyel et~al., 2001]{Lengyel2001}
 Lengyel, C., Iost, N., Vir\'{a}g, L., Varr\'{o}, A., Lathrop, D.~A., and Papp,
   J.~G. (2001).
@@ -63,6 +125,86 @@ Lengyel, C., Iost, N., Vir\'{a}g, L., Varr\'{o}, A., Lathrop, D.~A., and Papp,
   rectifier current (I(Ks)) fails to lengthen rabbit ventricular muscle QT(c)
   and action potential duration.}
 \newblock {\em British journal of pharmacology}, 132(1):101--10.
+
+\bibitem[Luo and Rudy, 1991]{Luo1991}
+Luo, C.-H. and Rudy, Y. (1991).
+\newblock {A Model of the Ventricular Cardiac Action Potential: Depolarization,
+  Repolarization and Their Interaction}.
+\newblock {\em Circulation Research}, 68:1501--1526.
+
+\bibitem[Luo and Rudy, 1994a]{Luo1994a}
+Luo, C.-H. and Rudy, Y. (1994a).
+\newblock {A dynamic model of the cardiac ventricular action potential. I.
+  Simulations of ionic currents and concentration changes.}
+\newblock {\em Circulation Research}, 74(6):1071--96.
+
+\bibitem[Luo and Rudy, 1994b]{Luo1994}
+Luo, C.-H. and Rudy, Y. (1994b).
+\newblock {A dynamic model of the cardiac ventricular action potential. II.
+  Afterdepolarizations, triggered activity, and potentiation.}
+\newblock {\em Circulation Research}, 74(6):1097--113.
+
+\bibitem[Mahajan et~al., 2008]{Mahajan2008}
+Mahajan, A., Shiferaw, Y., Sato, D., Baher, A., Olcese, R., Xie, L.-H., Yang,
+  M.-J., Chen, P.-S., Restrepo, J.~G., Karma, A., Garfinkel, A., Qu, Z., and
+  Weiss, J.~N. (2008).
+\newblock {A rabbit ventricular action potential model replicating cardiac
+  dynamics at rapid heart rates.}
+\newblock {\em Biophysical Journal}, 94(2):392--410.
+
+\bibitem[McAllister et~al., 1975]{McAllister1975}
+McAllister, R.~E., Noble, D., and Tsien, R.~W. (1975).
+\newblock {Reconstruction of the electrical activity of cardiac Purkinje
+  fibres.}
+\newblock {\em The Journal of Physiology}, 251(1):1--59.
+
+\bibitem[Niederer et~al., 2009]{Niederer2009}
+Niederer, S.~A., Fink, M., Noble, D., and Smith, N.~P. (2009).
+\newblock {A meta-analysis of cardiac electrophysiology computational models}.
+\newblock {\em Experimental Physiology}, 94(5):486--95.
+
+\bibitem[Noble, 1960]{Noble1960}
+Noble, D. (1960).
+\newblock {Cardiac Action and Pacemaker Potentials based on the Hodgkin-Huxley
+  Equations}.
+\newblock {\em Nature}, 4749:495--497.
+
+\bibitem[Noble, 1962]{Noble1962}
+Noble, D. (1962).
+\newblock {A modification of the Hodgkin-Huxley equations applicable to
+  Purkinje fibre action and pace-maker potentials.}
+\newblock {\em The Journal of Physiology}, 160:317--52.
+
+\bibitem[Noble, 2011]{Noble2011}
+Noble, D. (2011).
+\newblock {Successes and failures in modeling heart cell electrophysiology.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 8(11):1798--803.
+
+\bibitem[Noble et~al., 2012]{Noble2012}
+Noble, D., Garny, A., and Noble, P.~J. (2012).
+\newblock {How the Hodgkin-Huxley equations inspired the Cardiac Physiome
+  Project.}
+\newblock {\em The Journal of Physiology}, 590(Pt 11):2613--28.
+
+\bibitem[Noble and Rudy, 2001]{Noble2001}
+Noble, D. and Rudy, Y. (2001).
+\newblock {Models of cardiac ventricular action potentials: iterative
+  interaction between experiment and simulation}.
+\newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}, 359(1783):1127--1142.
+
+\bibitem[Puglisi and Bers, 2001]{Puglisi2001}
+Puglisi, J.~L. and Bers, D.~M. (2001).
+\newblock {LabHEART: an interactive computer model of rabbit ventricular
+  myocyte ion channels and Ca transport.}
+\newblock {\em American Journal of Physiology. Cell Physiology},
+  281(6):C2049--60.
+
+\bibitem[Puglisi et~al., 2004]{Puglisi2004}
+Puglisi, J.~L., Wang, F., and Bers, D.~M. (2004).
+\newblock {Modeling the isolated cardiac myocyte.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 85(2-3):163--78.
 
 \bibitem[Roden, 1998]{Roden1998}
 Roden, D.~M. (1998).
@@ -75,12 +217,51 @@ Roden, D.~M., Balser, J.~R., George, A.~L., and Anderson, M.~E. (2002).
 \newblock {Cardiac ion channels.}
 \newblock {\em Annual Review of Physiology}, 64:431--75.
 
+\bibitem[Rudy and Silva, 2006]{Rudy2006}
+Rudy, Y. and Silva, J.~R. (2006).
+\newblock {Computational biology in the study of cardiac ion channels and cell
+  electrophysiology.}
+\newblock {\em Quarterly Reviews of Biophysics}, 39(1):57--116.
+
+\bibitem[Sanguinetti and Jurkiewicz, 1990]{Sanguinetti1990}
+Sanguinetti, M.~C. and Jurkiewicz, N.~K. (1990).
+\newblock {Two components of cardiac delayed rectifier K+ current. Differential
+  sensitivity to block by class III antiarrhythmic agents.}
+\newblock {\em The Journal of General Physiology}, 96(1):195--215.
+
 \bibitem[Sanguinetti and Jurkiewicz, 1992]{Sanguinetti1992}
 Sanguinetti, M.~C. and Jurkiewicz, N.~K. (1992).
 \newblock {Role of external Ca2+ and K+ in gating of cardiac delayed rectifier
   K+ currents.}
 \newblock {\em Pfl\"{u}gers Archiv : European journal of physiology},
   420(2):180--6.
+
+\bibitem[Shannon et~al., 2004]{Shannon2004}
+Shannon, T.~R., Wang, F., Puglisi, J.~L., Weber, C., and Bers, D.~M. (2004).
+\newblock {A mathematical treatment of integrated Ca dynamics within the
+  ventricular myocyte.}
+\newblock {\em Biophysical Journal}, 87(5):3351--71.
+
+\bibitem[Shaw and Rudy, 1997a]{Shaw1997a}
+Shaw, R.~M. and Rudy, Y. (1997a).
+\newblock {Electrophysiologic effects of acute myocardial ischemia. A
+  mechanistic investigation of action potential conduction and conduction
+  failure.}
+\newblock {\em Circulation Research}, 80(1):124--38.
+
+\bibitem[Shaw and Rudy, 1997b]{Shaw1997}
+Shaw, R.~M. and Rudy, Y. (1997b).
+\newblock {Electrophysiologic effects of acute myocardial ischemia: a
+  theoretical study of altered cell excitability and action potential
+  duration.}
+\newblock {\em Cardiovascular Research}, 35(2):256--72.
+
+\bibitem[Shaw and Rudy, 1997c]{Shaw1997b}
+Shaw, R.~M. and Rudy, Y. (1997c).
+\newblock {Ionic mechanisms of propagation in cardiac tissue. Roles of the
+  sodium and L-type calcium currents during reduced excitability and decreased
+  gap junction coupling.}
+\newblock {\em Circulation research}, 81(5):727--41.
 
 \bibitem[Silva and Rudy, 2005]{Silva2005}
 Silva, J. and Rudy, Y. (2005).
@@ -120,6 +301,21 @@ Vir\'{a}g, L., Acsai, K., H\'{a}la, O., Zaza, A., Bitay, M., Bog\'{a}ts, G.,
   dependency.}
 \newblock {\em British journal of pharmacology}, 156(7):1076--84.
 
+\bibitem[Viswanathan and Rudy, 1999]{Viswanathan1999}
+Viswanathan, P.~C. and Rudy, Y. (1999).
+\newblock {Pause induced early afterdepolarizations in the long QT syndrome: a
+  simulation study.}
+\newblock {\em Cardiovascular research}, 42(2):530--42.
+
+\bibitem[Wagner et~al., 1999]{Wagner1999}
+Wagner, M.~B., Namiki, T., Wilders, R., Joyner, R.~W., Jongsma, H.~J.,
+  Verheijck, E.~E., Kumar, R., Golod, D.~A., Goolsby, W.~N., and van Ginneken,
+  A. C.~G. (1999).
+\newblock {Electrical interactions among real cardiac cells and cell models in
+  a linear strand}.
+\newblock {\em American Journal of Physiology. Heart and Circulatory
+  Physiology}, 276:H391--H400.
+
 \bibitem[Xiao et~al., 2008]{Xiao2008}
 Xiao, L., Xiao, J., Luo, X., Lin, H., Wang, Z., and Nattel, S. (2008).
 \newblock {Feedback remodeling of cardiac potassium current expression: a novel
@@ -131,5 +327,12 @@ Yang, T., Snyders, D.~J., and Roden, D.~M. (1997).
 \newblock {Rapid inactivation determines the rectification and [K+]o dependence
   of the rapid component of the delayed rectifier K+ current in cardiac cells.}
 \newblock {\em Circulation research}, 80(6):782--9.
+
+\bibitem[Zeng et~al., 1995]{Zeng1995}
+Zeng, J., Laurita, K.~R., Rosenbaum, D.~S., and Rudy, Y. (1995).
+\newblock {Two Components of the Delayed Rectifier K+ Current in Ventricular
+  Myocytes of the Guinea Pig Type : Theoretical Formulation and Their Role in
+  Repolarization}.
+\newblock {\em Circulation Research}, 77(1):140--152.
 
 \end{thebibliography}
