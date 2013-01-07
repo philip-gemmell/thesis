@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  31 DEC 2012 16:40
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  3 JAN 2013 16:02
 entering extended mode
  %&-line parsing enabled.
 **litreview.tex
@@ -626,316 +626,368 @@ n input line 114.
 [8]
 
 Package natbib Warning: Citation `Noble2001' on page 9 undefined on input line 
-122.
+120.
+
+
+Package natbib Warning: Citation `Noble2001' on page 9 undefined on input line 
+126.
 
 
 Package natbib Warning: Citation `Noble2012' on page 9 undefined on input line 
-122.
+126.
 
 
 Package natbib Warning: Citation `Noble2011' on page 9 undefined on input line 
-122.
+126.
 
 
 Package natbib Warning: Citation `Puglisi2004' on page 9 undefined on input lin
-e 122.
+e 126.
 
 
 Package natbib Warning: Citation `Rudy2006' on page 9 undefined on input line 1
-22.
+26.
 
 
 Package natbib Warning: Citation `Niederer2009' on page 9 undefined on input li
-ne 122.
+ne 126.
 
 
 Package natbib Warning: Citation `Hodgkin1952' on page 9 undefined on input lin
-e 124.
+e 128.
 
 
 Package natbib Warning: Citation `Fitzhugh1960' on page 9 undefined on input li
-ne 124.
+ne 128.
 
 
 Package natbib Warning: Citation `Noble1960' on page 9 undefined on input line 
-126.
+130.
 
 
 Package natbib Warning: Citation `Noble1962' on page 9 undefined on input line 
-126.
+130.
 
 
 Package natbib Warning: Citation `Hutter1960' on page 9 undefined on input line
- 126.
+ 130.
 
 
 Package natbib Warning: Citation `Carmeliet1961' on page 9 undefined on input l
-ine 126.
+ine 130.
 
 
 Package natbib Warning: Citation `Hall1963' on page 9 undefined on input line 1
-26.
+30.
 
 [9]
 
 Package natbib Warning: Citation `Krause1966' on page 10 undefined on input lin
-e 128.
+e 132.
 
 
 Package natbib Warning: Citation `McAllister1975' on page 10 undefined on input
- line 128.
+ line 132.
 
 
 Package natbib Warning: Citation `DiFrancesco1985' on page 10 undefined on inpu
-t line 128.
+t line 132.
 
 
 Package natbib Warning: Citation `Krause1966' on page 10 undefined on input lin
-e 130.
+e 134.
 
 
 Package natbib Warning: Citation `Beeler1977' on page 10 undefined on input lin
-e 130.
+e 134.
 
 
 Package natbib Warning: Citation `Luo1991' on page 10 undefined on input line 1
-30.
+34.
 
 
 Package natbib Warning: Citation `Shaw1997a' on page 10 undefined on input line
- 130.
+ 134.
 
 
 Package natbib Warning: Citation `Shaw1997b' on page 10 undefined on input line
- 130.
+ 134.
 
 
 Package natbib Warning: Citation `Wagner1999' on page 10 undefined on input lin
-e 130.
+e 134.
 
 
 Package natbib Warning: Citation `Viswanathan1999' on page 10 undefined on inpu
-t line 130.
+t line 134.
 
 
 Package natbib Warning: Citation `Garfinkel2000' on page 10 undefined on input 
-line 130.
+line 134.
 
 
 Package natbib Warning: Citation `Shannon2004' on page 10 undefined on input li
-ne 130.
+ne 134.
 
 
 Package natbib Warning: Citation `Mahajan2008' on page 10 undefined on input li
-ne 130.
+ne 134.
 
 
 Package natbib Warning: Citation `Luo1994' on page 10 undefined on input line 1
-30.
+34.
 
 
 Package natbib Warning: Citation `Luo1994a' on page 10 undefined on input line 
-130.
-
-
-Package natbib Warning: Citation `Zeng1995' on page 10 undefined on input line 
-130.
-
-
-Package natbib Warning: Citation `Sanguinetti1990' on page 10 undefined on inpu
-t line 130.
-
-
-Package natbib Warning: Citation `Shaw1997' on page 10 undefined on input line 
-130.
-
-
-Package natbib Warning: Citation `Clancy1999' on page 10 undefined on input lin
-e 130.
-
-
-Package natbib Warning: Citation `Hodgkin1952' on page 10 undefined on input li
-ne 132.
-
-
-Package natbib Warning: Citation `Shannon2004' on page 10 undefined on input li
-ne 134.
-
-
-Package natbib Warning: Citation `Mahajan2008' on page 10 undefined on input li
-ne 134.
+134.
 
 
 Package natbib Warning: Citation `Zeng1995' on page 10 undefined on input line 
 134.
 
 
+Package natbib Warning: Citation `Sanguinetti1990' on page 10 undefined on inpu
+t line 134.
+
+
+Package natbib Warning: Citation `Shaw1997' on page 10 undefined on input line 
+134.
+
+
+Package natbib Warning: Citation `Clancy1999' on page 10 undefined on input lin
+e 134.
+
+
+Package natbib Warning: Citation `Hodgkin1952' on page 10 undefined on input li
+ne 136.
+
+
+Package natbib Warning: Citation `Shannon2004' on page 10 undefined on input li
+ne 138.
+
+
+Package natbib Warning: Citation `Mahajan2008' on page 10 undefined on input li
+ne 138.
+
+
+Package natbib Warning: Citation `Zeng1995' on page 10 undefined on input line 
+138.
+
+
 Package natbib Warning: Citation `Puglisi2001' on page 10 undefined on input li
-ne 134.
+ne 138.
 
 
 Package natbib Warning: Citation `Bassani2004' on page 10 undefined on input li
-ne 134.
+ne 138.
 
 [10] [11]
 
 Package natbib Warning: Citation `Hodgkin1952' on page 12 undefined on input li
-ne 165.
+ne 169.
 
 
 Package natbib Warning: Citation `Hodgkin1952' on page 12 undefined on input li
-ne 171.
+ne 175.
 
 [12]
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
-LaTeX Info: Redefining \bond on input line 187.
-LaTeX Info: Redefining \dbond on input line 187.
-LaTeX Info: Redefining \tbond on input line 187.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
+LaTeX Info: Redefining \bond on input line 191.
+LaTeX Info: Redefining \dbond on input line 191.
+LaTeX Info: Redefining \tbond on input line 191.
 
 
-Package natbib Warning: Citation `Sanguinetti1992' on page 13 undefined on inpu
-t line 202.
+Package natbib Warning: Citation `Gaborit2007' on page 13 undefined on input li
+ne 207.
 
 
-Package natbib Warning: Citation `Yang1997' on page 13 undefined on input line 
-202.
+Package natbib Warning: Citation `Edelman2001' on page 13 undefined on input li
+ne 207.
+
+
+Package natbib Warning: Citation `Nattel2010' on page 13 undefined on input lin
+e 207.
+
+
+Package natbib Warning: Citation `Walmsley2013' on page 13 undefined on input l
+ine 207.
+
+
+Package natbib Warning: Citation `Marder2011' on page 13 undefined on input lin
+e 207.
+
+
+Package natbib Warning: Citation `Goaillard2009' on page 13 undefined on input 
+line 207.
+
+
+Underfull \vbox (badness 3049) has occurred while \output is active []
+
+ [13]
+
+Package natbib Warning: Citation `Carmeliet2002' on page 14 undefined on input 
+line 209.
+
+
+Package natbib Warning: Citation `Antzelevitch1991' on page 14 undefined on inp
+ut line 209.
+
+
+Package natbib Warning: Citation `Walmsley2010' on page 14 undefined on input l
+ine 209.
+
+
+Package natbib Warning: Citation `Taylor1997' on page 14 undefined on input lin
+e 209.
+
+
+Package natbib Warning: Citation `Kannankeril2010' on page 14 undefined on inpu
+t line 209.
 
 
 Package natbib Warning: There were undefined citations.
 
-[13] (/users/philg/Documents/3_2010-2011/thesis/LitReview/litreview.aux) ) 
+[14] (/users/philg/Documents/3_2010-2011/thesis/LitReview/litreview.aux) ) 
 Here is how much of TeX's memory you used:
- 6909 strings out of 256216
- 100625 string characters out of 1917072
+ 6925 strings out of 256216
+ 100870 string characters out of 1917072
  177302 words of memory out of 1500000
- 9997 multiletter control sequences out of 10000+200000
- 20876 words of font info for 55 fonts, out of 1200000 for 2000
+ 10009 multiletter control sequences out of 10000+200000
+ 21642 words of font info for 56 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 54i,27n,82p,1759b,467s stack positions out of 5000i,500n,6000p,200000b,15000s
- </us
-ers/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.657pk> </
-users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> 
-</users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk
-> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.720
-pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.6
-00pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200
-.864pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti12
-00.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti
-1000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
-bx1000.657pk></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/te
-xmf/fonts/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/
-cmmi6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/
-fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.
-pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/t
-ype1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb><
-/usr/share/texmf/fonts/type1/bluesky/cm/cmsy8.pfb>
-Output written on litreview.pdf (13 pages, 1551059 bytes).
+ 54i,28n,82p,1759b,467s stack positions out of 5000i,500n,6000p,200000b,15000s
+pdfTe
+X warning (dest): name{subsection.0.3.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.0.4} has been referenced but does not exist
+, replaced by a fixed one
+
+ </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.600p
+k> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.65
+7pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.
+600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm080
+0.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+200.720pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecr
+m1200.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+cbx1200.864pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecti1200.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecti1000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecbx1000.657pk></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/s
+hare/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/blue
+sky/cm/cmmi12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/shar
+e/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/
+cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texm
+f/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy
+10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fon
+ts/type1/bluesky/cm/cmsy8.pfb>
+Output written on litreview.pdf (14 pages, 1560197 bytes).
 PDF statistics:
- 528 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 131072)
+ 549 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 131072)
  74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

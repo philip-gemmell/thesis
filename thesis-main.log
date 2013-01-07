@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  31 DEC 2012 15:02
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  7 JAN 2013 20:06
 entering extended mode
  %&-line parsing enabled.
 **thesis-main.tex
@@ -526,60 +526,52 @@ LaTeX Font Warning: Font shape `U/msb/m/n' in size <18> not available
 ]
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <12> not available
-(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 60.
+(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 59.
 (./LitReview/litreview.tex
-Underfull \hbox (badness 10000) in paragraph at lines 65--2
+Underfull \hbox (badness 10000) in paragraph at lines 64--2
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2
-
-]
 <heart_labels.png, id=126, 1135.24126pt x 692.5875pt>
 File: heart_labels.png Graphic file (type png)
  <use heart_labels.png>
+[2
+
+] <myocytes.png, id=138, 4341.21875pt x 2930.95pt>
+File: myocytes.png Graphic file (type png)
+ <use myocytes.png>
+<myocyte-image.jpg, id=139, 1284.8pt x 1027.84pt>
+File: myocyte-image.jpg Graphic file (type jpg)
+ <use myocyte-image.jpg>
+Underfull \vbox (badness 1127) has occurred while \output is active []
+
+
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
-[3 </users/philg/Documents/3_2010-2011/thesis/LitReview/heart_labels.png>]
-<myocytes.png, id=137, 4341.21875pt x 2930.95pt>
-File: myocytes.png Graphic file (type png)
- <use myocytes.png>
-<myocyte-image.jpg, id=138, 1284.8pt x 1027.84pt>
-File: myocyte-image.jpg Graphic file (type jpg)
- <use myocyte-image.jpg>
-Underfull \vbox (badness 6300) has occurred while \output is active []
-
-
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[4 </users/philg/Documents/3_2010-2011/thesis/LitReview/myocytes.png> </users/p
-hilg/Documents/3_2010-2011/thesis/LitReview/myocyte-image.jpg>]
-<cardiac_conduction.png, id=152, 485.815pt x 318.18875pt>
+[3 </users/philg/Documents/3_2010-2011/thesis/LitReview/heart_labels.png> </use
+rs/philg/Documents/3_2010-2011/thesis/LitReview/myocytes.png> </users/philg/Doc
+uments/3_2010-2011/thesis/LitReview/myocyte-image.jpg>]
+<cardiac_conduction.png, id=155, 485.815pt x 318.18875pt>
 File: cardiac_conduction.png Graphic file (type png)
 
 <use cardiac_conduction.png>
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[4 </users/philg/Documents/3_2010-2011/thesis/LitReview/cardiac_conduction.png 
+(PNG copy)>] <ap-structure-full.png, id=172, 1148.29pt x 645.41125pt>
+File: ap-structure-full.png Graphic file (type png)
+
+<use ap-structure-full.png>
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
 [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[6 </users/philg/Documents/3_2010-2011/thesis/LitReview/cardiac_conduction.png 
-(PNG copy)>] <ap-structure-full.png, id=175, 1148.29pt x 645.41125pt>
-File: ap-structure-full.png Graphic file (type png)
-
-<use ap-structure-full.png>
-Underfull \vbox (badness 4328) has occurred while \output is active []
-
+[6 </users/philg/Documents/3_2010-2011/thesis/LitReview/ap-structure-full.png>]
 
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
@@ -588,11 +580,7 @@ Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[8 </users/philg/Documents/3_2010-2011/thesis/LitReview/ap-structure-full.png>]
-
-Underfull \vbox (badness 4328) has occurred while \output is active []
-
-
+[8]
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
@@ -601,30 +589,127 @@ Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
 [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
+LaTeX Info: Redefining \bond on input line 173.
+LaTeX Info: Redefining \dbond on input line 173.
+LaTeX Info: Redefining \tbond on input line 173.
 
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
 [11]
-Underfull \vbox (badness 4328) has occurred while \output is active []
-
-
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
 [12]
-Underfull \vbox (badness 4328) has occurred while \output is active []
-
-
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
 [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
@@ -637,9 +722,8 @@ Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
 [16]
-Underfull \vbox (badness 4328) has occurred while \output is active []
-
-
+File: cardiac_conduction.png Graphic file (type png)
+ <use cardiac_conduction.png>
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
@@ -651,17 +735,13 @@ Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 Overfull \vbox (7.78143pt too high) has occurred while \output is active []
 
 
-[19]
+[19])
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[20])
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
-
-
-[21]
+[20]
 Appendix A.
-(./Appendices/electric.tex [22
+(./Appendices/electric.tex [21
 
 ]
 LaTeX Info: Redefining \bond on input line 28.
@@ -686,14 +766,10 @@ LaTeX Info: Redefining \bond on input line 28.
 LaTeX Info: Redefining \dbond on input line 28.
 LaTeX Info: Redefining \tbond on input line 28.
 
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
-
-
-[23]
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[24]
+[22]
 LaTeX Info: Redefining \bond on input line 52.
 LaTeX Info: Redefining \dbond on input line 52.
 LaTeX Info: Redefining \tbond on input line 52.
@@ -704,9 +780,17 @@ LaTeX Info: Redefining \tbond on input line 52.
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[25] [26
+[23] [24
 
 ]
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[25]
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[26]
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
@@ -714,51 +798,61 @@ Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[28])
+[28]
 Overfull \vbox (8.28131pt too high) has occurred while \output is active []
 
 
-[29] (./thesis-main.aux)
+[29]
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[30])
+Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+
+
+[31] (./thesis-main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 11.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 7117 strings out of 256216
- 103245 string characters out of 1917072
- 179848 words of memory out of 1500000
- 10060 multiletter control sequences out of 10000+200000
- 34664 words of font info for 80 fonts, out of 1200000 for 2000
+ 7268 strings out of 256216
+ 105412 string characters out of 1917072
+ 183295 words of memory out of 1500000
+ 10138 multiletter control sequences out of 10000+200000
+ 38240 words of font info for 92 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 43i,17n,57p,1796b,549s stack positions out of 5000i,500n,6000p,200000b,15000s
- </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.65
-7pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.
-600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm100
-0.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1
-000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecc
-c1728.1250pk>{/usr/share/texmf/fonts/enc/dvips/base/8r.enc} </users/philg/.texl
-ive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </users/philg/.te
-xlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1728.600pk> </users/philg/.
-texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.720pk> </users/philg
-/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.1037pk> </users/ph
-ilg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk> </users/
-philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </user
-s/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </us
-ers/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.864pk> </
-users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.1244pk>
-</usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/typ
-e1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi12.pfb></
-usr/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/share/texmf/fonts/type1/
-bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/s
-hare/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesk
-y/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/t
-exmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/
-cmsy8.pfb></usr/share/texmf/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/tex
-mf/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on thesis-main.pdf (36 pages, 1753254 bytes).
+ 57i,28n,83p,1799b,606s stack positions out of 5000i,500n,6000p,200000b,15000s
+ </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.60
+0pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.
+657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti120
+0.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
+000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ect
+i1000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+ccc1728.1250pk>{/usr/share/texmf/fonts/enc/dvips/base/8r.enc} </users/philg/.te
+xlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </users/philg/.
+texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1728.600pk> </users/philg
+/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.720pk> </users/phi
+lg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.1037pk> </users/
+philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk> </user
+s/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </us
+ers/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </
+users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.864pk> 
+</users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.1244p
+k></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/t
+ype1/bluesky/cm/cmbx8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb><
+/usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type
+1/bluesky/cm/cmmi12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></us
+r/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bl
+uesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr/shar
+e/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/c
+m/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/tex
+mf/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/urw/helvetic/
+uhvr8a.pfb></usr/share/texmf/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on thesis-main.pdf (38 pages, 1853952 bytes).
 PDF statistics:
- 1096 PDF objects out of 1200 (max. 8388607)
- 140 named destinations out of 1000 (max. 131072)
+ 1418 PDF objects out of 1440 (max. 8388607)
+ 208 named destinations out of 1000 (max. 131072)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 

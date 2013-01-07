@@ -1,22 +1,26 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Literature Review}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Cardiac Physiology}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Structure of the Mammalian Heart}{3}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Electrophysiological Properties of Cardiomyocytes}{5}{subsection.2.1.2}
-\contentsline {subsubsection}{Ion Channel Dynamics}{10}{section*.8}
-\contentsline {subsubsection}{Excitation-Contraction Coupling}{14}{section*.9}
-\contentsline {section}{\numberline {2.2}Computational Cell Models}{15}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Development}{15}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Key Concepts}{18}{subsection.2.2.2}
-\contentsline {subsubsection}{Nernst Potential}{19}{section*.10}
-\contentsline {subsubsection}{Hodgkin-Huxley Current}{20}{section*.11}
-\contentsline {subsubsection}{Markov Models}{20}{section*.12}
-\contentsline {section}{\numberline {2.3}Variation}{21}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Experimental \& Physiological Variation}{21}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Computational Modelling of Variation}{21}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Isch\ae mia}{21}{section.2.4}
-\contentsline {chapter}{\numberline {A}Diffusion}{22}{appendix.A}
-\contentsline {section}{\numberline {A.1}Simple Diffusion}{22}{section.A.1}
-\contentsline {section}{\numberline {A.2}Facilitated Diffusion, Michaelis-Menten Kinetics}{23}{section.A.2}
-\contentsline {section}{\numberline {A.3}Electrodiffusion}{24}{section.A.3}
-\contentsline {subsection}{\numberline {A.3.1}The Nernst Equeation}{24}{subsection.A.3.1}
+\contentsline {section}{\numberline {2.1}Cardiac Physiology}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Structure of the Mammalian Heart}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Electrophysiological Properties of Cardiomyocytes}{4}{subsection.2.1.2}
+\contentsline {subsubsection}{Ion Channel Dynamics}{7}{section*.8}
+\contentsline {subsubsection}{Excitation-Contraction Coupling}{9}{section*.9}
+\contentsline {section}{\numberline {2.2}Computational Cell Models}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Key Concepts}{10}{subsection.2.2.1}
+\contentsline {subsubsection}{Nernst Potential}{10}{section*.10}
+\contentsline {subsubsection}{Hodgkin-Huxley Current}{11}{section*.11}
+\contentsline {subsubsection}{Markov Models}{11}{section*.12}
+\contentsline {subsection}{\numberline {2.2.2}Development}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Difficulties in Model Construction}{13}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Variation}{14}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Experimental \& Physiological Variation}{14}{subsection.2.3.1}
+\contentsline {subsubsection}{Action Potential Variation}{15}{section*.13}
+\contentsline {subsubsection}{Ion Channel Variation}{15}{section*.14}
+\contentsline {subsection}{\numberline {2.3.2}Computational Modelling of Variation}{16}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Cardiac Disease}{19}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Isch\ae mia}{20}{subsection.2.4.1}
+\contentsline {chapter}{\numberline {A}Diffusion}{21}{appendix.A}
+\contentsline {section}{\numberline {A.1}Simple Diffusion}{21}{section.A.1}
+\contentsline {section}{\numberline {A.2}Facilitated Diffusion, Michaelis-Menten Kinetics}{21}{section.A.2}
+\contentsline {section}{\numberline {A.3}Electrodiffusion}{22}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}The Nernst Equeation}{22}{subsection.A.3.1}
