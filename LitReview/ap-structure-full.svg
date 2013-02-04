@@ -14,8 +14,8 @@
    height="642.44257"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="ap-structure-full.png">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ap-structure-full.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -181,7 +181,8 @@
        y1="708.86218"
        x2="64"
        y2="164.6947"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86501907,0,0,1.0008838,2.1596949,-0.14526577)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5973"
@@ -190,7 +191,8 @@
        y1="707.74463"
        x2="125.71856"
        y2="163.95956"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7383978,0,0,1.0006677,-100.07684,-0.10973891)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5985"
@@ -199,7 +201,8 @@
        y1="707.86218"
        x2="149.125"
        y2="164.84456"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.000892,0,-0.14660983)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5995"
@@ -208,7 +211,8 @@
        y1="706.86218"
        x2="308.5"
        y2="168.10461"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0009067,0,-0.1490353)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6005"
@@ -217,7 +221,8 @@
        y1="708.79968"
        x2="520.5"
        y2="164.7666"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0008513,0,-0.13980725)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5963-1"
@@ -240,7 +245,7 @@
          id="stop5967-4" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(1.5784605,0,0,1,540.80712,-0.15624051)"
+       gradientTransform="matrix(1.5784605,0,0,1.0011758,540.80712,-0.34949892)"
        y2="164.6947"
        x2="64"
        y1="708.86218"
@@ -607,9 +612,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.516095"
-     inkscape:cx="332.53142"
-     inkscape:cy="176.37093"
+     inkscape:zoom="1"
+     inkscape:cx="370.8432"
+     inkscape:cy="349.98022"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -630,7 +635,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -642,8 +647,8 @@
     <rect
        style="fill:url(#linearGradient5969);fill-opacity:1;stroke:none"
        id="rect5961"
-       width="101"
-       height="545"
+       width="87.36692"
+       height="545.48169"
        x="16"
        y="164.36218" />
     <path
@@ -654,30 +659,30 @@
     <rect
        style="fill:url(#linearGradient5979);fill-opacity:1;stroke:none"
        id="rect5971"
-       width="18.506256"
-       height="545.10815"
-       x="117.02617"
+       width="32.171234"
+       height="545.47211"
+       x="103.36119"
        y="164.36865"
        ry="0" />
     <rect
        style="fill:url(#linearGradient5991);fill-opacity:1;stroke:none"
        id="rect5983"
        width="29.375"
-       height="545"
+       height="545.48615"
        x="135.625"
        y="164.36218" />
     <rect
        style="fill:url(#linearGradient6011);fill-opacity:1;stroke:none"
        id="rect6003"
        width="87"
-       height="545.125"
+       height="545.58905"
        x="479"
        y="164.23718" />
     <rect
        style="fill:url(#linearGradient6028);fill-opacity:1;stroke:none"
        id="rect5961-3"
        width="159.42451"
-       height="545"
+       height="545.64081"
        x="566.0625"
        y="164.20593" />
     <path
@@ -690,7 +695,7 @@
        style="fill:url(#linearGradient6001);fill-opacity:1;stroke:none"
        id="rect5993"
        width="314"
-       height="545"
+       height="545.4942"
        x="165"
        y="164.36218" />
     <text
@@ -777,25 +782,25 @@
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
-       x="55.179688"
+       x="48.363148"
        y="697.50378"
        id="text6149"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6151"
-         x="55.179688"
+         x="48.363148"
          y="697.50378"
          style="font-size:36px;fill:#000080">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
-       x="114.83594"
+       x="108.00345"
        y="696.99402"
        id="text6153"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6155"
-         x="114.83594"
+         x="108.00345"
          y="696.99402"
          style="font-size:36px;fill:#000080">0</tspan></text>
     <text
@@ -858,7 +863,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend)"
-       d="m 126.2793,336.13722 c 0,79.46637 0,79.46637 0,79.46637"
+       d="m 119.44681,418.13722 c 0,79.46637 0,79.46637 0,79.46637"
        id="path6173-3-1"
        inkscape:connector-curvature="0" />
     <path
@@ -941,14 +946,14 @@
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
-       x="117.65234"
-       y="446.34982"
+       x="113.38458"
+       y="528.34985"
        id="text7298-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7300-0"
-         x="117.65234"
-         y="446.34982"
+         x="113.38458"
+         y="528.34985"
          style="font-size:28px"><tspan
            style="font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique"
            id="tspan7328-8">I</tspan><tspan

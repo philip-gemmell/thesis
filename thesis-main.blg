@@ -2,46 +2,48 @@ This is BibTeX, Version 0.99c (Web2C 7.5.6)
 The top-level auxiliary file: thesis-main.aux
 The style file: apalike.bst
 Database file #1: library.bib
+Warning--there's a number but no volume in Kurokawa2012
 Warning--there's a number but no volume in Sarkar2012
-You've used 111 entries,
+Warning--there's a number but no volume in Weiss1992
+You've used 153 entries,
             1935 wiz_defined-function locations,
-            1217 strings with 29311 characters,
-and the built_in function-call counts, 51324 in all, are:
-= -- 4985
-> -- 2679
-< -- 42
-+ -- 946
-- -- 942
-* -- 4928
-:= -- 8966
-add.period$ -- 334
-call.type$ -- 111
-change.case$ -- 1025
-chr.to.int$ -- 107
-cite$ -- 112
-duplicate$ -- 1576
-empty$ -- 3247
-format.name$ -- 1115
-if$ -- 9713
-int.to.chr$ -- 5
+            1472 strings with 38717 characters,
+and the built_in function-call counts, 70156 in all, are:
+= -- 6820
+> -- 3632
+< -- 54
++ -- 1279
+- -- 1274
+* -- 6743
+:= -- 12261
+add.period$ -- 459
+call.type$ -- 153
+change.case$ -- 1400
+chr.to.int$ -- 148
+cite$ -- 156
+duplicate$ -- 2160
+empty$ -- 4457
+format.name$ -- 1507
+if$ -- 13271
+int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 112
-newline$ -- 558
-num.names$ -- 333
-pop$ -- 784
+missing$ -- 154
+newline$ -- 767
+num.names$ -- 459
+pop$ -- 1072
 preamble$ -- 1
-purify$ -- 1026
+purify$ -- 1402
 quote$ -- 0
-skip$ -- 1163
+skip$ -- 1587
 stack$ -- 0
-substring$ -- 3840
-swap$ -- 127
+substring$ -- 5262
+swap$ -- 168
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 664
-warning$ -- 1
-while$ -- 435
+type$ -- 914
+warning$ -- 3
+while$ -- 598
 width$ -- 0
-write$ -- 1445
-(There was 1 warning)
+write$ -- 1987
+(There were 3 warnings)

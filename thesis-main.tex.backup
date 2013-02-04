@@ -1,9 +1,11 @@
 \documentclass[a4paper, 12pt, twoside]{report}
+\special{papersize=210mm,297mm}
 
 \input{/users/philg/Documents/3_2010-2011/thesis/preamble}
 \setcounter{tocdepth}{1}
 
 \begin{document}
+
  \pagestyle{empty}
  \setcounter{page}{1}
  \pagenumbering{roman}
@@ -23,6 +25,12 @@
  % Include Table of Contents (inc. for figures, etc.)
  \tableofcontents
  \newpage
+ 
+ \listoffigures
+ \newpage
+ 
+ \listoftables
+ \newpage
 
  \subfile{acknowledgements}
  \newpage
@@ -41,21 +49,19 @@
  
  \def\localpath{Intro}
  \chapter{Introduction}
- \dblspace
- \begin{quote}{\em \input{Intro/intro-quote}}\end{quote}
+%  \dblspace
  \subfile{Intro/intro.tex}
  
  \def\localpath{LitReview}
- \chapter{Literature Review}
- \dblspace
-%  \begin{aquote}{--\emph{Hamlet}, Act 1, Scene 5}
+%  \chapter{Literature Review}
+%  \begin{aquote}{\emph{Hamlet}, Act 1, Scene 5}
 %   {\fontencoding{T1}\fontfamily{pzc}\selectfont
 %    There are more things in heaven and earth, Horatio,\\
 %    Than are dreamt of in your philosophy.
 %   }
-%  \end{aquote}
- \begin{aquote}{\include{LitReview/quote}{Testsource}
  \end{aquote}
+ \rule{\linewidth}{0.25mm}
+%  \dblspace
  \subfile{LitReview/litreview.tex}
 
  % Post-thesis details
@@ -63,11 +69,11 @@
  
  % Appendices
  \appendix
- \dblspace
+%  \dblspace
  
- \chapter{Dull stuff in the Appendix}
+ \chapter{Diffusion}
  \def\localpath{Appendices}
- \subfile{Appendices/appendixa.tex}
+ \subfile{Appendices/electric.tex}
 
  \sglspace
 
@@ -75,8 +81,8 @@
  \pagestyle{bibheadings}
 
 %  \bibliographystyle{Setup/JRSS_no_url}   % For just numbers
- \bibliographystyle{alpha}   % For initials+year
-%  \bibliographystyle{apalike} % For full surname
+%  \bibliographystyle{alpha}   % For initials+year
+ \bibliographystyle{apalike} % For full surname
  \bibliography{library}
  
 \end{document}
