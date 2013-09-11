@@ -2,57 +2,61 @@
 \special{papersize=210mm,297mm}
 
 \input{/users/philg/Documents/3_2010-2011/thesis/preamble}
-\setcounter{tocdepth}{1}
+\setcounter{tocdepth}{4}
 
 \begin{document}
 
- \pagestyle{empty}
- \setcounter{page}{1}
- \pagenumbering{roman}
- 
- % Thesis Preamble
- % ===============
- 
- % Include Title bfseriesPage
- \def\localpath{ThesisFrontmatter}
- \subfile{TitlePage/title}
- 
- % Include Abstract
- \sglspace
- % edit the words in ThesisFrontmatter/abstract.tex
- \subfile{Abstract/abstract}
- 
- % Include Table of Contents (inc. for figures, etc.)
- \tableofcontents
- \newpage
- 
- \listoffigures
- \newpage
- 
- \listoftables
- \newpage
+\garamond
 
- \subfile{acknowledgements}
- \newpage
- 
- % Include section on notation
- \subfile{notation}
- \newpage
+\def \biblio{}
 
- % Set up for main thesis body
- \setcounter{page}{0}
- \pagenumbering{arabic}
- \pagestyle{thesisheadings}
- 
- % Thesis Body: Chapters
- % =====================
- 
- \def\localpath{Intro}
- \chapter{Introduction}
+\pagestyle{empty}
+\setcounter{page}{1}
+\pagenumbering{roman}
+
+% Thesis Preamble
+% ===============
+
+% Include Title bfseriesPage
+\def \localpath{ThesisFrontmatter}
+\subfile{TitlePage/title}
+
+% Include Abstract
+\sglspace
+% edit the words in ThesisFrontmatter/abstract.tex
+\subfile{Abstract/abstract}
+
+% Include Table of Contents (inc. for figures, etc.)
+\tableofcontents
+\newpage
+
+\listoffigures
+\newpage
+
+\listoftables
+\newpage
+
+\subfile{acknowledgements}
+\newpage
+
+% Include section on notation
+\subfile{notation}
+\newpage
+
+% Set up for main thesis body
+\setcounter{page}{0}
+\pagenumbering{arabic}
+\pagestyle{thesisheadings}
+
+% Thesis Body: Chapters
+% =====================
+
+\def \localpath{Intro}
+\chapter{Introduction}
 %  \dblspace
- \subfile{Intro/intro.tex}
- 
- \def\localpath{LitReview}
+\subfile{Intro/intro.tex}
+
+\def \localpath{LitReview}
 %  \chapter{Literature Review}
 %  \begin{aquote}{\emph{Hamlet}, Act 1, Scene 5}
 %   {\fontencoding{T1}\fontfamily{pzc}\selectfont
@@ -62,27 +66,30 @@
 %  \end{aquote}
 %  \rule{\linewidth}{0.25mm}
 %  \dblspace
- \subfile{LitReview/litreview.tex}
+\subfile{LitReview/litreview.tex}
 
- % Post-thesis details
- % ===================
- 
- % Appendices
- \appendix
+\def \localpath{ParamSpace}
+\subfile{ParamSpace/paramSpace.tex}
+
+% Post-thesis details
+% ===================
+
+% Appendices
+\appendix
 %  \dblspace
- 
- \chapter{Diffusion}
- \def\localpath{Appendices}
- \subfile{Appendices/electric.tex}
 
- \sglspace
+\def\localpath{Appendices}
+\subfile{Appendices/electric.tex}
+\subfile{Appendices/models.tex}
 
- % Bibliography
- \pagestyle{bibheadings}
+\sglspace
+
+% Bibliography
+\pagestyle{bibheadings}
 
 %  \bibliographystyle{Setup/JRSS_no_url}   % For just numbers
 %  \bibliographystyle{alpha}   % For initials+year
- \bibliographystyle{apalike} % For full surname
- \bibliography{library}
+\bibliographystyle{apalike} % For full surname
+\bibliography{library}
  
 \end{document}

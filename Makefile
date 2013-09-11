@@ -41,15 +41,17 @@ $(MAINDOC).pdf : $(TEXSRC) $(FIGSRC) $(STYSRC) $(BBLSRC)
 	@echo "===========================PDFLATEX PASS================================"
 	@pdflatex $(MAINDOC)
 clean:
-	rm -f $(MAINDOC).aux 
-	rm -f $(MAINDOC).bbl 
-	rm -f $(MAINDOC).blg 
-	rm -f $(MAINDOC).log 
-	rm -f $(MAINDOC).pdf 
-	rm -f $(MAINDOC).toc 
-	rm -f $(MAINDOC).out
-	rm -f $(MAINDOC)*~
-	rm -f $(MAINDOC)*.backup
+	rm -f *.aux 
+	rm -f *.bbl 
+	rm -f *.blg 
+	rm -f *.log 
+	rm -f *.pdf 
+	rm -f *.toc 
+	rm -f *.out
+	rm -f *~
+	rm -f *.backup
+	rm -f *.lof
+	rm -f *.lot
 wordcount:
 	@echo "===========================WORDCOUNT ================================"
 	@ps2ascii $(MAINDOC).pdf | wc -w

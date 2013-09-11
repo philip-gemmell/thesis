@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  4 FEB 2013 14:02
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  10 SEP 2013 14:32
 entering extended mode
  %&-line parsing enabled.
 **litreview.tex
@@ -204,6 +204,55 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \ALC@tlm=\skip62
 \algorithmicindent=\skip63
 )
+(/users/philg/texmf/tex/latex/commonstuff/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/users/philg/texmf/tex/latex/garamond/garamond.sty{/usr/share/texmf/fonts/map/
+pdftex/updmap/pdftex.map}{/users/philg/texmf/fonts/map/dvips/urw/ggm.map})
+LaTeX Font Info:    Try loading font information for T1+ggm on input line 20.
+
+(/users/philg/texmf/tex/latex/garamond/t1ggm.fd
+File: t1ggm.fd 2005/01/13 Fontinst v1.927 font definitions for T1/ggm.
+)
 (/usr/share/texmf/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -260,7 +309,7 @@ Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 (/usr/share/texmf/tex/latex/ltxmisc/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(/usr/share/texmf/tex/latex/preprint/fullpage.sty
+(/users/philg/texmf/tex/latex/commonstuff/fullpage/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip64
 )
@@ -271,7 +320,7 @@ Package: natbib 2007/02/05 8.0 (PWD)
 LaTeX Info: Redefining \cite on input line 602.
 \c@NAT@ctr=\count113
 )
-(/users/philg/texmf/tex/latex/commonstuff/citesort.sty
+(/users/philg/texmf/tex/latex/citesort.sty
 \@minsofar=\count114
 \@min=\count115
 \@cite@temp=\count116
@@ -361,6 +410,35 @@ Package: twoopt 2006/02/20 v1.4 Definitions with two optional arguments (HO)
 \mhchem@option@minussidebearingleft=\skip83
 \mhchem@option@minussidebearingright=\skip84
 )
+(/users/philg/texmf/tex/latex/IEEEtrantools.sty
+Package: IEEEtrantools 2012/12/27 V1.3 by Michael Shell
+
+-- See the "IEEEtrantools_doc.txt" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/tools/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpcountA=\count124
+\@IEEEtrantmpcountB=\count125
+\@IEEEtrantmptoksA=\toks35
+\IEEEnormaljot=\dimen136
+\IEEEilabelindentA=\dimen137
+\IEEEilabelindentB=\dimen138
+\IEEEilabelindent=\dimen139
+\IEEEelabelindent=\dimen140
+\IEEEdlabelindent=\dimen141
+\IEEElabelindent=\dimen142
+\IEEEiednormlabelsep=\dimen143
+\IEEEiedmathlabelsep=\dimen144
+\IEEEiedtopsep=\skip85
+\c@IEEEsubequation=\count126
+\@IEEEeqnnumcols=\count127
+\@IEEEeqncolcnt=\count128
+\@IEEEsubeqnnumrollback=\count129
+\IEEEPARstartletwidth=\dimen145
+) (/usr/share/texmf/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
 (/usr/share/texmf/tex/latex/base/fix-cm.sty
 Package: fix-cm 2006/03/24 v1.1n fixes to LaTeX
 
@@ -408,20 +486,20 @@ Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
 Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
 LaTeX Info: Redefining \selectfont on input line 125.
 )
-\CenteringLeftskip=\skip85
-\RaggedLeftLeftskip=\skip86
-\RaggedRightLeftskip=\skip87
-\CenteringRightskip=\skip88
-\RaggedLeftRightskip=\skip89
-\RaggedRightRightskip=\skip90
-\CenteringParfillskip=\skip91
-\RaggedLeftParfillskip=\skip92
-\RaggedRightParfillskip=\skip93
-\JustifyingParfillskip=\skip94
-\CenteringParindent=\skip95
-\RaggedLeftParindent=\skip96
-\RaggedRightParindent=\skip97
-\JustifyingParindent=\skip98
+\CenteringLeftskip=\skip86
+\RaggedLeftLeftskip=\skip87
+\RaggedRightLeftskip=\skip88
+\CenteringRightskip=\skip89
+\RaggedLeftRightskip=\skip90
+\RaggedRightRightskip=\skip91
+\CenteringParfillskip=\skip92
+\RaggedLeftParfillskip=\skip93
+\RaggedRightParfillskip=\skip94
+\JustifyingParfillskip=\skip95
+\CenteringParindent=\skip96
+\RaggedLeftParindent=\skip97
+\RaggedRightParindent=\skip98
+\JustifyingParindent=\skip99
 )
 Package hyperref Info: Link coloring OFF on input line 3.
 
@@ -431,7 +509,7 @@ Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
 (/usr/share/texmf/tex/latex/oberdiek/refcount.sty
 Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
 )
-\c@section@level=\count124
+\c@section@level=\count130
 )
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
@@ -450,16 +528,34 @@ File: t1pzc.fd 2001/06/04 font definitions for T1/pzc.
 LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <150> not available
 (Font)              Font shape `T1/pzc/mb/it' tried instead on input line 5.
 LaTeX Font Info:    Calculating math sizes for size <36> on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 5.
 
+(/users/philg/texmf/tex/latex/commonstuff/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
 
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <36> not available
-(Font)              size <24.88> substituted on input line 5.
+(/users/philg/texmf/tex/latex/commonstuff/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 5.
 
+(/users/philg/texmf/tex/latex/commonstuff/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 5.
 
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 5.
-
+(/users/philg/texmf/tex/latex/commonstuff/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <36> on input line 5.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <25.19989> on input line 5.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <18> on input line 5.
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
 (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
@@ -483,1109 +579,307 @@ LaTeX Font Warning: Font shape `U/msb/m/n' in size <36> not available
 LaTeX Font Warning: Font shape `U/msb/m/n' in size <18> not available
 (Font)              size <17.28> substituted on input line 5.
 
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 5.
+(/usr/share/texmf/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <36> not available
+(Font)              size <24.88> substituted on input line 5.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 5.
+
 LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <12> not available
 (Font)              Font shape `T1/pzc/mb/it' tried instead on input line 9.
-<heart_labels.png, id=27, 1135.24126pt x 692.5875pt>
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 21.
+
+Overfull \hbox (6.53238pt too wide) in paragraph at lines 23--24
+\T1/ggm/m/n/12 de-liver nu-tri-ents and re-move waste prod-ucts. It does this b
+y rhyth-mic, or-gan-ised contraction---
+ []
+
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 25.
+<heart_labels.png, id=127, 1135.24126pt x 692.5875pt>
 File: heart_labels.png Graphic file (type png)
  <use heart_labels.png>
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 30.
+
 [1
 
 
 Non-PDF special ignored!
 
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<myocytes.png, id=46, 4341.21875pt x 2930.95pt>
+] <myocytes.png, id=141, 4341.21875pt x 2930.95pt>
 File: myocytes.png Graphic file (type png)
- <use myocytes.png>
-<myocyte-image.jpg, id=47, 1284.8pt x 1027.84pt>
-File: myocyte-image.jpg Graphic file (type jpg)
- <use myocyte-image.jpg>
 
-Package natbib Warning: Citation `Saffitz1994' on page 2 undefined on input lin
-e 57.
+<use myocytes.png> <myocyte-image.jpg, id=142, 1284.8pt x 1027.84pt>
+File: myocyte-image.jpg Graphic file (type jpg)
+
+<use myocyte-image.jpg>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 57.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 57.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 57.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 57.
 
 [2 </users/philg/Documents/3_2010-2011/thesis/LitReview/heart_labels.png>]
-<cardiac_conduction.png, id=65, 485.815pt x 318.18875pt>
+<cardiac_conduction.png, id=177, 485.815pt x 318.18875pt>
 File: cardiac_conduction.png Graphic file (type png)
 
-<use cardiac_conduction.png> [3 </users/philg/Documents/3_2010-2011/thesis/LitR
-eview/myocytes.png> </users/philg/Documents/3_2010-2011/thesis/LitReview/myocyt
-e-image.jpg>]
+<use cardiac_conduction.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `Bezanilla2000' on page 4 undefined on input l
-ine 73.
+ [3 </users/philg/Documents/3_2010-2011/thesis/LitReview/myocytes.png> </users/
+philg/Documents/3_2010-2011/thesis/LitReview/myocyte-image.jpg>] [4 </users/phi
+lg/Documents/3_2010-2011/thesis/LitReview/cardiac_conduction.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 81.
 
-
-Package natbib Warning: Citation `Carmeliet2002' on page 4 undefined on input l
-ine 75.
-
-
-Package natbib Warning: Citation `Roden2002' on page 4 undefined on input line 
-75.
-
-
-Package natbib Warning: Citation `Carmeliet2002' on page 4 undefined on input l
-ine 77.
-
-
-Underfull \vbox (badness 1270) has occurred while \output is active []
-
- [4 </users/philg/Documents/3_2010-2011/thesis/LitReview/cardiac_conduction.png
- (PNG copy)>] <ap-structure-full.png, id=85, 1148.29pt x 645.41125pt>
+<ap-structure-full.png, id=207, 1148.29pt x 645.41125pt>
 File: ap-structure-full.png Graphic file (type png)
 
-<use ap-structure-full.png> [5 </users/philg/Documents/3_2010-2011/thesis/LitRe
-view/ap-structure-full.png>]
+<use ap-structure-full.png>
+Overfull \hbox (0.66766pt too wide) in paragraph at lines 83--90
+\T1/ggm/m/n/12 The changes in in-ter-nal/external ion con-cen-tra-tions which r
+e-sult from these cur-rents changes
+ []
 
-Package natbib Warning: Citation `Carmeliet2006' on page 6 undefined on input l
-ine 91.
+[5] [6 </users/philg/Documents/3_2010-2011/thesis/LitReview/ap-structure-full.p
+ng>] [7] <alternans-restitutionCurve.png, id=270, 188.20313pt x 270.25969pt>
+File: alternans-restitutionCurve.png Graphic file (type png)
 
+<use alternans-restitutionCurve.png> [8 </users/philg/Documents/3_2010-2011/the
+sis/LitReview/alternans-restitutionCurve.png (PNG copy)>]
+Underfull \vbox (badness 4634) has occurred while \output is active []
 
-Package natbib Warning: Citation `Roden1998' on page 6 undefined on input line 
-95.
-
-
-Package natbib Warning: Citation `Varro2000' on page 6 undefined on input line 
-95.
-
-
-Package natbib Warning: Citation `Xiao2008' on page 6 undefined on input line 9
-5.
-
-
-Package natbib Warning: Citation `Varro2011' on page 6 undefined on input line 
-95.
-
-
-Package natbib Warning: Citation `Carmeliet2006' on page 6 undefined on input l
-ine 95.
-
-
-Package natbib Warning: Citation `Varro2011' on page 6 undefined on input line 
-99.
-
-
-Package natbib Warning: Citation `Spector1996' on page 6 undefined on input lin
-e 99.
-
-
-Package natbib Warning: Citation `Carmeliet2006' on page 6 undefined on input l
-ine 99.
-
-
-Package natbib Warning: Citation `Virag2009' on page 6 undefined on input line 
-99.
+ [9]
+[10] [11]
+Overfull \hbox (14.12067pt too wide) in paragraph at lines 164--165
+[]\T1/ggm/m/n/12 Subsequent to con-trac-tion, the Ca$[]$ re-leased from the SR 
+is re-cov-ered by the sarco/endoplasmic
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
-
-Package natbib Warning: Citation `Varro2000' on page 7 undefined on input line 
-101.
-
-
-Package natbib Warning: Citation `Lengyel2001' on page 7 undefined on input lin
-e 101.
-
-
-Package natbib Warning: Citation `Jost2005' on page 7 undefined on input line 1
-01.
-
-
-Package natbib Warning: Citation `Vandenberg2001' on page 7 undefined on input 
-line 101.
-
-
-Package natbib Warning: Citation `Haverkamp2000' on page 7 undefined on input l
-ine 101.
-
-
-Package natbib Warning: Citation `Sanguinetti1992' on page 7 undefined on input
- line 101.
-
-
-Package natbib Warning: Citation `Yang1997' on page 7 undefined on input line 1
-01.
-
-
-Package natbib Warning: Citation `Jost2005' on page 7 undefined on input line 1
-03.
-
-
-Package natbib Warning: Citation `Varro2011' on page 7 undefined on input line 
-103.
-
-
-Package natbib Warning: Citation `Silva2005' on page 7 undefined on input line 
-103.
-
-
-Package natbib Warning: Citation `Varro2000' on page 7 undefined on input line 
-105.
-
-
-Package natbib Warning: Citation `Lengyel2001' on page 7 undefined on input lin
-e 105.
-
-
-Package natbib Warning: Citation `Jost2005' on page 7 undefined on input line 1
-05.
-
-
-Package natbib Warning: Citation `Varro2011' on page 7 undefined on input line 
-105.
-
-
-Package natbib Warning: Citation `Jost2005' on page 7 undefined on input line 1
-05.
-
-
-Package natbib Warning: Citation `Carmeliet2006' on page 7 undefined on input l
-ine 105.
-
-
-Package natbib Warning: Citation `Vandenberg2001' on page 7 undefined on input 
-line 107.
-
-
-Package natbib Warning: Citation `Carmeliet2006' on page 7 undefined on input l
-ine 107.
-
-
-Package natbib Warning: Citation `Xiao2008' on page 7 undefined on input line 1
-07.
-
-[7]
-
-Package natbib Warning: Citation `Carmeliet2006' on page 8 undefined on input l
-ine 115.
-
-
-Package natbib Warning: Citation `Eisner2004' on page 8 undefined on input line
- 119.
-
-
-Package natbib Warning: Citation `Henderson2004' on page 8 undefined on input l
-ine 119.
-
-[8]
-
-Package natbib Warning: Citation `Cleemann1998' on page 9 undefined on input li
-ne 125.
-
-
-Package natbib Warning: Citation `Cleemann1998' on page 9 undefined on input li
-ne 125.
-
-
-Package natbib Warning: Citation `Greenstein2002' on page 9 undefined on input 
-line 125.
-
-
-Package natbib Warning: Citation `Franzini-Armstrong2005' on page 9 undefined o
-n input line 125.
-
-[9]
-
-Package natbib Warning: Citation `Noble2001' on page 10 undefined on input line
- 131.
-
-[10]
-
-Package natbib Warning: Citation `Hodgkin1952' on page 11 undefined on input li
-ne 162.
-
-
-Package natbib Warning: Citation `Hodgkin1952' on page 11 undefined on input li
-ne 168.
-
-[11]
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-
-
-Package natbib Warning: Citation `Noble2001' on page 12 undefined on input line
- 192.
-
-
-Package natbib Warning: Citation `Noble2012' on page 12 undefined on input line
- 192.
-
-
-Package natbib Warning: Citation `Noble2011' on page 12 undefined on input line
- 192.
-
-
-Package natbib Warning: Citation `Puglisi2004' on page 12 undefined on input li
-ne 192.
-
-
-Package natbib Warning: Citation `Rudy2006' on page 12 undefined on input line 
-192.
-
-
-Package natbib Warning: Citation `Niederer2009' on page 12 undefined on input l
-ine 192.
-
-
-Package natbib Warning: Citation `Hodgkin1952' on page 12 undefined on input li
-ne 194.
-
-
-Package natbib Warning: Citation `Fitzhugh1960' on page 12 undefined on input l
-ine 194.
-
-
-Package natbib Warning: Citation `Noble1960' on page 12 undefined on input line
- 196.
-
-
-Package natbib Warning: Citation `Noble1962' on page 12 undefined on input line
- 196.
-
-
-Package natbib Warning: Citation `Hutter1960' on page 12 undefined on input lin
-e 196.
-
-
-Package natbib Warning: Citation `Carmeliet1961' on page 12 undefined on input 
-line 196.
-
-
-Package natbib Warning: Citation `Hall1963' on page 12 undefined on input line 
-196.
-
-[12]
-
-Package natbib Warning: Citation `Krause1966' on page 13 undefined on input lin
-e 198.
-
-
-Package natbib Warning: Citation `McAllister1975' on page 13 undefined on input
- line 198.
-
-
-Package natbib Warning: Citation `DiFrancesco1985' on page 13 undefined on inpu
-t line 198.
-
-
-Package natbib Warning: Citation `Krause1966' on page 13 undefined on input lin
-e 200.
-
-
-Package natbib Warning: Citation `Beeler1977' on page 13 undefined on input lin
-e 200.
-
-
-Package natbib Warning: Citation `Luo1991' on page 13 undefined on input line 2
-00.
-
-
-Package natbib Warning: Citation `Shaw1997a' on page 13 undefined on input line
- 200.
-
-
-Package natbib Warning: Citation `Shaw1997b' on page 13 undefined on input line
- 200.
-
-
-Package natbib Warning: Citation `Wagner1999' on page 13 undefined on input lin
-e 200.
-
-
-Package natbib Warning: Citation `Viswanathan1999' on page 13 undefined on inpu
-t line 200.
-
-
-Package natbib Warning: Citation `Garfinkel2000' on page 13 undefined on input 
-line 200.
-
-
-Package natbib Warning: Citation `Shannon2004' on page 13 undefined on input li
-ne 200.
-
-
-Package natbib Warning: Citation `Mahajan2008' on page 13 undefined on input li
-ne 200.
-
-
-Package natbib Warning: Citation `Luo1994' on page 13 undefined on input line 2
-00.
-
-
-Package natbib Warning: Citation `Luo1994a' on page 13 undefined on input line 
-200.
-
-
-Package natbib Warning: Citation `Zeng1995' on page 13 undefined on input line 
-200.
-
-
-Package natbib Warning: Citation `Sanguinetti1990' on page 13 undefined on inpu
-t line 200.
-
-
-Package natbib Warning: Citation `Shaw1997' on page 13 undefined on input line 
-200.
-
-
-Package natbib Warning: Citation `Clancy1999' on page 13 undefined on input lin
-e 200.
-
-
-Package natbib Warning: Citation `Hodgkin1952' on page 13 undefined on input li
-ne 202.
-
-[13]
-
-Package natbib Warning: Citation `Shannon2004' on page 14 undefined on input li
-ne 204.
-
-
-Package natbib Warning: Citation `Mahajan2008' on page 14 undefined on input li
-ne 204.
-
-
-Package natbib Warning: Citation `Zeng1995' on page 14 undefined on input line 
-204.
-
-
-Package natbib Warning: Citation `Puglisi2001' on page 14 undefined on input li
-ne 204.
-
-
-Package natbib Warning: Citation `Bassani2004' on page 14 undefined on input li
-ne 204.
-
-
-Package natbib Warning: Citation `Viswanathan2000' on page 14 undefined on inpu
-t line 206.
-
-
-Package natbib Warning: Citation `Marder2011' on page 14 undefined on input lin
-e 210.
-
-
-Package natbib Warning: Citation `Golowasch2002' on page 14 undefined on input 
-line 210.
-
-
-Package natbib Warning: Citation `Marder2011' on page 14 undefined on input lin
-e 210.
-
-[14]
-
-Package natbib Warning: Citation `Gaborit2007' on page 15 undefined on input li
-ne 224.
-
-
-Package natbib Warning: Citation `Edelman2001' on page 15 undefined on input li
-ne 224.
-
-
-Package natbib Warning: Citation `Nattel2010' on page 15 undefined on input lin
-e 224.
-
-
-Package natbib Warning: Citation `Walmsley2013' on page 15 undefined on input l
-ine 224.
-
-
-Package natbib Warning: Citation `Marder2011' on page 15 undefined on input lin
-e 224.
-
-
-Package natbib Warning: Citation `Goaillard2009' on page 15 undefined on input 
-line 224.
-
-
-Package natbib Warning: Citation `Schulz2006' on page 15 undefined on input lin
-e 224.
-
-
-Package natbib Warning: Citation `Carmeliet2002' on page 15 undefined on input 
-line 226.
-
-
-Package natbib Warning: Citation `Antzelevitch1991' on page 15 undefined on inp
-ut line 226.
-
-
-Package natbib Warning: Citation `Walmsley2010' on page 15 undefined on input l
-ine 226.
-
-
-Package natbib Warning: Citation `Taylor1997' on page 15 undefined on input lin
-e 226.
-
-
-Package natbib Warning: Citation `Kannankeril2010' on page 15 undefined on inpu
-t line 226.
-
-
-Package natbib Warning: Citation `Yang2012' on page 15 undefined on input line 
-226.
-
-
-Package natbib Warning: Citation `Kurokawa2012' on page 15 undefined on input l
-ine 226.
-
-[15]
-
-Package natbib Warning: Citation `Biagetti2006' on page 16 undefined on input l
-ine 234.
-
-
-Package natbib Warning: Citation `Szigligeti1996' on page 16 undefined on input
- line 234.
-
-
-Package natbib Warning: Citation `Yan2001' on page 16 undefined on input line 2
-34.
-
-
-Package natbib Warning: Citation `Jung2011' on page 16 undefined on input line 
-234.
-
-
-Package natbib Warning: Citation `Goldhaber2005' on page 16 undefined on input 
-line 234.
-
-
-Package natbib Warning: Citation `Wu2011' on page 16 undefined on input line 23
-4.
-
-
-Package natbib Warning: Citation `Chen2006' on page 16 undefined on input line 
-234.
-
-
-Package natbib Warning: Citation `Kirchhof2003' on page 16 undefined on input l
-ine 234.
-
-
-Package natbib Warning: Citation `Eckardt1998' on page 16 undefined on input li
-ne 234.
-
-
-Package natbib Warning: Citation `Zabel1997' on page 16 undefined on input line
- 234.
-
-
-Package natbib Warning: Citation `Zabel1997a' on page 16 undefined on input lin
-e 234.
-
-
-Package natbib Warning: Citation `Kurz1993' on page 16 undefined on input line 
-234.
-
-
-Package natbib Warning: Citation `McIntosh2000' on page 16 undefined on input l
-ine 234.
-
-
-Package natbib Warning: Citation `Fulop2004' on page 16 undefined on input line
- 238.
-
-
-Package natbib Warning: Citation `Li1999' on page 16 undefined on input line 23
-8.
-
-
-Package natbib Warning: Citation `Fink2008' on page 16 undefined on input line 
-238.
-
-
-Package natbib Warning: Citation `Szentadrassy2005' on page 16 undefined on inp
-ut line 240.
-
-
-Package natbib Warning: Citation `Szentadrassy2005' on page 16 undefined on inp
-ut line 258.
-
-
-Package natbib Warning: Citation `Szentadrassy2005' on page 16 undefined on inp
-ut line 258.
-
-
-Package natbib Warning: Citation `Verkerk2005' on page 16 undefined on input li
-ne 262.
-
-
-Package natbib Warning: Citation `Sims2008' on page 16 undefined on input line 
-262.
-
-
-Package natbib Warning: Citation `Sims2008' on page 16 undefined on input line 
-262.
-
-[16]
-
-Package natbib Warning: Citation `Davies2012' on page 17 undefined on input lin
-e 268.
-
-
-Package natbib Warning: Citation `Schulz2006' on page 17 undefined on input lin
-e 268.
-
-
-Package natbib Warning: Citation `Sarkar2010' on page 17 undefined on input lin
-e 270.
-
-
-Package natbib Warning: Citation `Cherry2007' on page 17 undefined on input lin
-e 270.
-
-
-Package natbib Warning: Citation `Romero2011' on page 17 undefined on input lin
-e 270.
-
-
-Package natbib Warning: Citation `Terkildsen2008' on page 17 undefined on input
- line 270.
-
-
-Package natbib Warning: Citation `Cooper2011' on page 17 undefined on input lin
-e 270.
-
-[17]
-
-Package natbib Warning: Citation `Sarkar2012' on page 18 undefined on input lin
-e 274.
-
-File: cardiac_conduction.png Graphic file (type png)
-<use cardiac_conduction.png>
-
-Package natbib Warning: Citation `Sarkar2012' on page 18 undefined on input lin
-e 278.
-
-
-Package natbib Warning: Citation `Sarkar2012' on page 18 undefined on input lin
-e 278.
-
-
-Package natbib Warning: Citation `Nygren1998' on page 18 undefined on input lin
-e 282.
-
-
-Package natbib Warning: Citation `Romero2009' on page 18 undefined on input lin
-e 282.
-
-
-Package natbib Warning: Citation `Romero2010' on page 18 undefined on input lin
-e 282.
-
-
-Package natbib Warning: Citation `Corrias2011' on page 18 undefined on input li
-ne 282.
-
-
-Package natbib Warning: Citation `Romero2011' on page 18 undefined on input lin
-e 282.
-
-[18]
-
-Package natbib Warning: Citation `Sobie2009' on page 19 undefined on input line
- 284.
-
-
-Package natbib Warning: Citation `Sobie2009' on page 19 undefined on input line
- 290.
-
-
-Package natbib Warning: Citation `Sarkar2011' on page 19 undefined on input lin
-e 290.
-
-
-Package natbib Warning: Citation `Sarkar2010' on page 19 undefined on input lin
-e 290.
-
-
-Package natbib Warning: Citation `Kherlopian2011' on page 19 undefined on input
- line 294.
-
-
-Package natbib Warning: Citation `Achard2006' on page 19 undefined on input lin
-e 294.
-
-
-Package natbib Warning: Citation `Syed2005' on page 19 undefined on input line 
-294.
-
-[19]
-
-Package natbib Warning: Citation `Schulz2006' on page 20 undefined on input lin
-e 296.
-
-
-Package natbib Warning: Citation `Abramson2000' on page 20 undefined on input l
-ine 296.
-
-
-Package natbib Warning: Citation `Abramson1997' on page 20 undefined on input l
-ine 296.
-
-
-Package natbib Warning: Citation `Abramson2010' on page 20 undefined on input l
-ine 296.
-
-
-Package natbib Warning: Citation `Prinz2003' on page 20 undefined on input line
- 298.
-
-
-Package natbib Warning: Citation `Sobie2009b' on page 20 undefined on input lin
-e 298.
-
-
-Package natbib Warning: Citation `Davies2012' on page 20 undefined on input lin
-e 298.
-
-
-Package natbib Warning: Citation `Taylor2009' on page 20 undefined on input lin
-e 298.
-
-
-Package natbib Warning: Citation `Prinz2003' on page 20 undefined on input line
- 298.
-
-
-Package natbib Warning: Citation `Marder2011' on page 20 undefined on input lin
-e 298.
-
-
-Package natbib Warning: Citation `Townsend2012' on page 20 undefined on input l
-ine 302.
-
-
-Package natbib Warning: Citation `Inoue2006a' on page 20 undefined on input lin
-e 304.
-
-
-Package natbib Warning: Citation `Kurz1993' on page 20 undefined on input line 
-304.
-
-
-Package natbib Warning: Citation `Rodriguez2006' on page 20 undefined on input 
-line 304.
-
-
-Package natbib Warning: Citation `Dumaine1996' on page 20 undefined on input li
-ne 304.
-
-
-Package natbib Warning: Citation `Nattel2010' on page 20 undefined on input lin
-e 304.
-
-
-Package natbib Warning: Citation `Jurkat-Rott2005' on page 20 undefined on inpu
-t line 304.
-
-
-Package natbib Warning: Citation `Biagetti2006' on page 20 undefined on input l
-ine 304.
-
-
-Package natbib Warning: Citation `Sarkar2012' on page 20 undefined on input lin
-e 306.
-
-
-Package natbib Warning: Citation `Sarkar2012' on page 20 undefined on input lin
-e 308.
-
-
-Package natbib Warning: Citation `John2012' on page 20 undefined on input line 
-308.
-
-[20]
-
-Package natbib Warning: Citation `Kannankeril2010' on page 21 undefined on inpu
-t line 310.
-
-
-Package natbib Warning: Citation `Varro2011' on page 21 undefined on input line
- 310.
-
-
-Package natbib Warning: Citation `Sarkar2011' on page 21 undefined on input lin
-e 310.
-
-
-Package natbib Warning: Citation `Carmeliet1999' on page 21 undefined on input 
-line 314.
-
-
-Package natbib Warning: Citation `Harris1954' on page 21 undefined on input lin
-e 314.
-
-
-Package natbib Warning: Citation `Panfilov2006' on page 21 undefined on input l
-ine 316.
-
-
-Package natbib Warning: Citation `Chen1998' on page 21 undefined on input line 
-318.
-
-[21]
-
-Package natbib Warning: Citation `Rodriguez2006' on page 22 undefined on input 
-line 320.
-
-
-Package natbib Warning: Citation `Carmeliet1999' on page 22 undefined on input 
-line 322.
-
-
-Package natbib Warning: Citation `Weiss1982' on page 22 undefined on input line
- 322.
-
-
-Package natbib Warning: Citation `Weiss1992' on page 22 undefined on input line
- 322.
-
-
-Package natbib Warning: Citation `Kleber1987a' on page 22 undefined on input li
-ne 322.
-
-
-Package natbib Warning: Citation `Rodriguez2002' on page 22 undefined on input 
-line 322.
-
-
-Package natbib Warning: Citation `Shaw1997' on page 22 undefined on input line 
-324.
-
-
-Package natbib Warning: Citation `Shaw1997a' on page 22 undefined on input line
- 324.
-
-
-Package natbib Warning: Citation `Ferrero1996' on page 22 undefined on input li
-ne 324.
-
-
-Package natbib Warning: Citation `Ferrero1996' on page 22 undefined on input li
-ne 333.
-
-
-Package natbib Warning: Citation `Trenor2007' on page 22 undefined on input lin
-e 333.
-
-
-Package natbib Warning: Citation `Michailova2005' on page 22 undefined on input
- line 333.
-
-
-Package natbib Warning: Citation `Terkildsen2007' on page 22 undefined on input
- line 333.
-
-
-Package natbib Warning: Citation `Michailova2007' on page 22 undefined on input
- line 333.
-
-[22]
-
-Package natbib Warning: Citation `Cook1988' on page 23 undefined on input line 
-335.
-
-
-Package natbib Warning: Citation `Rodriguez2002' on page 23 undefined on input 
-line 335.
-
-
-Package natbib Warning: Citation `Weiss1992' on page 23 undefined on input line
- 335.
-
-
-Package natbib Warning: Citation `Ferrero1996' on page 23 undefined on input li
-ne 335.
-
-
-Package natbib Warning: Citation `Trenor2007' on page 23 undefined on input lin
-e 335.
-
-
-Package natbib Warning: Citation `Ferrero2003a' on page 23 undefined on input l
-ine 335.
-
-
-Package natbib Warning: Citation `Trenor2005' on page 23 undefined on input lin
-e 335.
-
-
-Package natbib Warning: Citation `Trenor2007' on page 23 undefined on input lin
-e 335.
-
-
-Package natbib Warning: Citation `Tice2007' on page 23 undefined on input line 
-335.
-
-
-Package natbib Warning: Citation `Rodriguez2002' on page 23 undefined on input 
-line 339.
-
-
-Package natbib Warning: Citation `Rodriguez2002' on page 23 undefined on input 
-line 341.
-
-
-Package natbib Warning: Citation `Ferrero2003a' on page 23 undefined on input l
-ine 341.
-
-
-Package natbib Warning: Citation `Trenor2007' on page 23 undefined on input lin
-e 341.
-
-
-Package natbib Warning: Citation `Kleber2004' on page 23 undefined on input lin
-e 343.
-
-
-Package natbib Warning: Citation `Walton1983' on page 23 undefined on input lin
-e 343.
-
-
-Package natbib Warning: Citation `Tasaki1957' on page 23 undefined on input lin
-e 343.
-
-[23]
-
-Package natbib Warning: Citation `Coronel2012' on page 24 undefined on input li
-ne 345.
-
-LaTeX Info: Redefining \bond on input line 349.
-LaTeX Info: Redefining \dbond on input line 349.
-LaTeX Info: Redefining \tbond on input line 349.
-
-Package natbib Warning: Citation `Chen1998' on page 24 undefined on input line 
-349.
-
-
-Package natbib Warning: Citation `Shaw1997' on page 24 undefined on input line 
-349.
-
-
-Package natbib Warning: Citation `Kagiyama1982' on page 24 undefined on input l
-ine 349.
-
-
-Package natbib Warning: Citation `Trenor2007' on page 24 undefined on input lin
-e 349.
-
-
-Package natbib Warning: Citation `Haissaguerre1998' on page 24 undefined on inp
-ut line 356.
-
-
-Package natbib Warning: Citation `Tobon2010' on page 24 undefined on input line
- 356.
-
-
-Package natbib Warning: Citation `Zhang2011' on page 24 undefined on input line
- 356.
-
-
-Package natbib Warning: Citation `Jalife2003' on page 24 undefined on input lin
-e 356.
-
-
-Package natbib Warning: Citation `Mandapati2000' on page 24 undefined on input 
-line 356.
-
-
-Package natbib Warning: Citation `Allessie1977' on page 24 undefined on input l
-ine 356.
-
-
-Package natbib Warning: Citation `Allessie1976' on page 24 undefined on input l
-ine 356.
-
-[24]
-
-Package natbib Warning: Citation `Tice2007' on page 25 undefined on input line 
-360.
-
-
-Package natbib Warning: Citation `Tice2007' on page 25 undefined on input line 
-360.
-
-
-Package natbib Warning: Citation `Coronel2012' on page 25 undefined on input li
-ne 360.
-
-<spatial-ischaemia.png, id=222, 374.39874pt x 338.26375pt>
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14] [15]
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+LaTeX Info: Redefining \bond on input line 240.
+LaTeX Info: Redefining \dbond on input line 240.
+LaTeX Info: Redefining \tbond on input line 240.
+ [16] [17] [18] [19]
+Underfull \vbox (badness 7151) has occurred while \output is active []
+
+ [20]
+[21] [22] <param-var-effect.png, id=846, 888.31876pt x 319.1925pt>
+File: param-var-effect.png Graphic file (type png)
+
+<use param-var-effect.png>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 348.
+ [23 </users/philg/Documents/3_2010-2011/thesis/LitReview/param-var-effect.png>
+] [24] [25] [26] [27] [28]
+<spatial-ischaemia.png, id=1095, 374.39874pt x 338.26375pt>
 File: spatial-ischaemia.png Graphic file (type png)
 
-<use spatial-ischaemia.png>
+<use spatial-ischaemia.png> [29 </users/philg/Documents/3_2010-2011/thesis/LitR
+eview/spatial-ischaemia.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OMS+ggm on input line 432.
 
-Package natbib Warning: Citation `Tice2007' on page 25 undefined on input line 
-366.
-
-
-Package natbib Warning: Citation `Tice2007' on page 25 undefined on input line 
-366.
+LaTeX Font Info:    No file OMSggm.fd. on input line 432.
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 366--366
-\T1/cmr/m/it/10.95 kalemia, anoxia and aci-do-sis in a
- []
+LaTeX Font Warning: Font shape `OMS/ggm/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 432.
 
+<ca-ischaemia.png, id=1136, 301.125pt x 213.04594pt>
+File: ca-ischaemia.png Graphic file (type png)
+ <use ca-ischaemia.png>
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 1622) in paragraph at lines 366--366
-\T1/cmr/m/it/10.95 trans-mu-ral is-chæmic tis-sue sim-u-la-
- []
+ [31 </users/philg/Documents/3_2010-2011/thesis/LitReview/ca-ischaemia.png (PNG
+ copy)>]
+[32]
 
+LaTeX Warning: Reference `sec:ikatp' on page 33 undefined on input line 473.
 
-Package natbib Warning: There were undefined citations.
+[33]
+LaTeX Info: Redefining \bond on input line 489.
+LaTeX Info: Redefining \dbond on input line 489.
+LaTeX Info: Redefining \tbond on input line 489.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 489.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 489.
+ [34] [35] [36] <alternans.png, id=1506, 371.13657pt x 297.36093pt>
+File: alternans.png Graphic file (type png)
 
-[25 </users/philg/Documents/3_2010-2011/thesis/LitReview/spatial-ischaemia.png 
-(PNG copy)>] (/users/philg/Documents/3_2010-2011/thesis/LitReview/litreview.aux
-)
+<use alternans.png> [37 </users/philg/Documents/3_2010-2011/thesis/LitReview/al
+ternans.png (PNG copy)>] [38] [39]
+(/users/philg/Documents/3_2010-2011/thesis/LitReview/litreview.bbl [40]
+[41
+
+] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]
+[56] [57] [58] [59] [60] [61]) [62]
+(/users/philg/Documents/3_2010-2011/thesis/LitReview/litreview.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 11.12pt have occurred.
 
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 7121 strings out of 256216
- 103634 string characters out of 1917072
- 178530 words of memory out of 1500000
- 10169 multiletter control sequences out of 10000+200000
- 33763 words of font info for 85 fonts, out of 1200000 for 2000
+ 8193 strings out of 256216
+ 121782 string characters out of 1917072
+ 200001 words of memory out of 1500000
+ 10833 multiletter control sequences out of 10000+200000
+ 156384 words of font info for 123 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 54i,28n,82p,1762b,509s stack positions out of 5000i,500n,6000p,200000b,15000s
- </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.60
-0pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.
-600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx120
-0.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
-000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
-x1200.720pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-cbx1200.864pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec
-/ecti1200.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm1000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappe
-n/ec/ecti1000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1200.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jkn
-appen/ec/eccc1728.1250pk>{/usr/share/texmf/fonts/enc/dvips/base/8r.enc}</usr/sh
-are/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/blues
-ky/cm/cmbx8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share
-/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/
-cm/cmmi12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/share/te
-xmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/c
-mr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf/fo
-nts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.p
-fb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/t
-ype1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/urw/zapfchan/uzcmi8a.pf
-b>
-Output written on litreview.pdf (25 pages, 1704044 bytes).
+ 54i,28n,82p,1788b,956s stack positions out of 5000i,500n,6000p,200000b,15000s
+{/usr/share/texmf/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvi
+ps/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/
+texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-
+mathsy.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></users/philg/te
+xmf/fonts/type1/urw/garamond/ggmm8a.pfb></users/philg/texmf/fonts/type1/urw/gar
+amond/ggmr8a.pfb></users/philg/texmf/fonts/type1/urw/garamond/ggmri8a.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmbx8.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/hoekwater/rsfs/rsfs10.pfb></usr/s
+hare/texmf/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf/fonts/type1/ur
+w/zapfchan/uzcmi8a.pfb>
+Output written on litreview.pdf (62 pages, 2323280 bytes).
 PDF statistics:
- 692 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 131072)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1856 PDF objects out of 2073 (max. 8388607)
+ 401 named destinations out of 1000 (max. 131072)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
 

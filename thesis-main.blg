@@ -1,49 +1,53 @@
-This is BibTeX, Version 0.99c (Web2C 7.5.6)
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis-main.aux
 The style file: apalike.bst
 Database file #1: library.bib
+Warning--I didn't find a database entry for "Aistrup2006"
+Warning--I didn't find a database entry for "Sato2006"
+Warning--can't use both author and editor fields in Keener2009
 Warning--there's a number but no volume in Kurokawa2012
 Warning--there's a number but no volume in Sarkar2012
 Warning--there's a number but no volume in Weiss1992
-You've used 153 entries,
+You've used 225 entries,
             1935 wiz_defined-function locations,
-            1472 strings with 38717 characters,
-and the built_in function-call counts, 70156 in all, are:
-= -- 6820
-> -- 3632
-< -- 54
-+ -- 1279
-- -- 1274
-* -- 6743
-:= -- 12261
-add.period$ -- 459
-call.type$ -- 153
-change.case$ -- 1400
-chr.to.int$ -- 148
-cite$ -- 156
-duplicate$ -- 2160
-empty$ -- 4457
-format.name$ -- 1507
-if$ -- 13271
-int.to.chr$ -- 6
+            1881 strings with 55098 characters,
+and the built_in function-call counts, 105178 in all, are:
+= -- 10201
+> -- 5488
+< -- 86
++ -- 1936
+- -- 1930
+* -- 10114
+:= -- 18290
+add.period$ -- 678
+call.type$ -- 225
+change.case$ -- 2085
+chr.to.int$ -- 219
+cite$ -- 229
+duplicate$ -- 3263
+empty$ -- 6675
+format.name$ -- 2265
+if$ -- 19983
+int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 154
-newline$ -- 767
-num.names$ -- 459
-pop$ -- 1072
+missing$ -- 227
+newline$ -- 1127
+num.names$ -- 677
+pop$ -- 1623
 preamble$ -- 1
-purify$ -- 1402
+purify$ -- 2087
 quote$ -- 0
-skip$ -- 1587
+skip$ -- 2411
 stack$ -- 0
-substring$ -- 5262
-swap$ -- 168
-text.length$ -- 2
+substring$ -- 7854
+swap$ -- 315
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 914
-warning$ -- 3
-while$ -- 598
+type$ -- 1344
+warning$ -- 4
+while$ -- 886
 width$ -- 0
-write$ -- 1987
-(There were 3 warnings)
+write$ -- 2934
+(There were 6 warnings)

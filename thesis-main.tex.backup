@@ -59,8 +59,8 @@
 %    There are more things in heaven and earth, Horatio,\\
 %    Than are dreamt of in your philosophy.
 %   }
- \end{aquote}
- \rule{\linewidth}{0.25mm}
+%  \end{aquote}
+%  \rule{\linewidth}{0.25mm}
 %  \dblspace
  \subfile{LitReview/litreview.tex}
 

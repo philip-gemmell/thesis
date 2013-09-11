@@ -1,7 +1,7 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  4 FEB 2013 16:34
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  28 AUG 2013 19:00
 entering extended mode
  %&-line parsing enabled.
-**thesis-main.tex
+**thesis-main
 (./thesis-main.tex
 LaTeX2e <2005/12/01>
 Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
@@ -195,6 +195,49 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \ALC@tlm=\skip62
 \algorithmicindent=\skip63
 )
+(/users/philg/texmf/tex/latex/commonstuff/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)) (./garamond.sty{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}{ggm.map
+})
 (/usr/share/texmf/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -251,7 +294,7 @@ Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 (/usr/share/texmf/tex/latex/ltxmisc/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(/usr/share/texmf/tex/latex/preprint/fullpage.sty
+(/users/philg/texmf/tex/latex/commonstuff/fullpage/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip64
 )
@@ -262,7 +305,7 @@ Package: natbib 2007/02/05 8.0 (PWD)
 LaTeX Info: Redefining \cite on input line 602.
 \c@NAT@ctr=\count113
 )
-(/users/philg/texmf/tex/latex/commonstuff/citesort.sty
+(/users/philg/texmf/tex/latex/citesort.sty
 \@minsofar=\count114
 \@min=\count115
 \@cite@temp=\count116
@@ -358,6 +401,35 @@ Package: twoopt 2006/02/20 v1.4 Definitions with two optional arguments (HO)
 \mhchem@option@minussidebearingleft=\skip83
 \mhchem@option@minussidebearingright=\skip84
 )
+(/users/philg/texmf/tex/latex/IEEEtrantools.sty
+Package: IEEEtrantools 2012/12/27 V1.3 by Michael Shell
+
+-- See the "IEEEtrantools_doc.txt" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/tools/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpcountA=\count124
+\@IEEEtrantmpcountB=\count125
+\@IEEEtrantmptoksA=\toks35
+\IEEEnormaljot=\dimen136
+\IEEEilabelindentA=\dimen137
+\IEEEilabelindentB=\dimen138
+\IEEEilabelindent=\dimen139
+\IEEEelabelindent=\dimen140
+\IEEEdlabelindent=\dimen141
+\IEEElabelindent=\dimen142
+\IEEEiednormlabelsep=\dimen143
+\IEEEiedmathlabelsep=\dimen144
+\IEEEiedtopsep=\skip85
+\c@IEEEsubequation=\count126
+\@IEEEeqnnumcols=\count127
+\@IEEEeqncolcnt=\count128
+\@IEEEsubeqnnumrollback=\count129
+\IEEEPARstartletwidth=\dimen145
+) (/usr/share/texmf/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
 (/usr/share/texmf/tex/latex/base/fix-cm.sty
 Package: fix-cm 2006/03/24 v1.1n fixes to LaTeX
 
@@ -392,6 +464,11 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 7.
+
+(/users/philg/texmf/tex/latex/commonstuff/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: sidecap package is loaded.
@@ -404,20 +481,20 @@ Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
 Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
 LaTeX Info: Redefining \selectfont on input line 125.
 )
-\CenteringLeftskip=\skip85
-\RaggedLeftLeftskip=\skip86
-\RaggedRightLeftskip=\skip87
-\CenteringRightskip=\skip88
-\RaggedLeftRightskip=\skip89
-\RaggedRightRightskip=\skip90
-\CenteringParfillskip=\skip91
-\RaggedLeftParfillskip=\skip92
-\RaggedRightParfillskip=\skip93
-\JustifyingParfillskip=\skip94
-\CenteringParindent=\skip95
-\RaggedLeftParindent=\skip96
-\RaggedRightParindent=\skip97
-\JustifyingParindent=\skip98
+\CenteringLeftskip=\skip86
+\RaggedLeftLeftskip=\skip87
+\RaggedRightLeftskip=\skip88
+\CenteringRightskip=\skip89
+\RaggedLeftRightskip=\skip90
+\RaggedRightRightskip=\skip91
+\CenteringParfillskip=\skip92
+\RaggedLeftParfillskip=\skip93
+\RaggedRightParfillskip=\skip94
+\JustifyingParfillskip=\skip95
+\CenteringParindent=\skip96
+\RaggedLeftParindent=\skip97
+\RaggedRightParindent=\skip98
+\JustifyingParindent=\skip99
 )
 Package hyperref Info: Link coloring OFF on input line 7.
 
@@ -427,7 +504,7 @@ Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
 (/usr/share/texmf/tex/latex/oberdiek/refcount.sty
 Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
 )
-\c@section@level=\count124
+\c@section@level=\count130
 )
 LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
@@ -436,19 +513,60 @@ LaTeX Info: Redefining \pageref on input line 7.
 \@outlinefile=\write3
 \openout3 = `thesis-main.out'.
 
- (./TitlePage/title.tex
-</auto/users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest
-_blue_mod.png, id=47, 116.45795pt x 139.4811pt>
-File: /auto/users/philg/Documents/Presentation_Images/oxford_logos/png_files/ox
-crest_blue_mod.png Graphic file (type png)
+LaTeX Font Info:    Try loading font information for T1+ggm on input line 9.
+ (./t1ggm.fd
+File: t1ggm.fd 2005/01/13 Fontinst v1.927 font definitions for T1/ggm.
+) (./TitlePage/title.tex
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 10.
 
-<use /auto/users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxc
-rest_blue_mod.png> (./affiliation.tex) (./declaration.tex) [1
+</users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest_blue
+_mod.png, id=171, 116.45795pt x 139.4811pt>
+File: /users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest
+_blue_mod.png Graphic file (type png)
+
+<use /users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest_
+blue_mod.png> (./affiliation.tex)
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 23.
+ (./declaration.tex) [1
 
 
-Non-PDF special ignored!{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <
-/auto/users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest_
-blue_mod.png (PNG copy)>]) (./Abstract/abstract.tex) [2] (./thesis-main.toc
+Non-PDF special ignored! </users/philg/Documents/Presentation_Images/oxford_log
+os/png_files/oxcrest_blue_mod.png (PNG copy)>]) (./Abstract/abstract.tex
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 21.
+)
+[2] (./thesis-main.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3.
+ (/users/philg/texmf/tex/latex/commonstuff/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 3.
+
+(/users/philg/texmf/tex/latex/commonstuff/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 3.
+
+(/users/philg/texmf/tex/latex/commonstuff/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 3.
+
+(/users/philg/texmf/tex/latex/commonstuff/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 3.
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
@@ -458,68 +576,70 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
-))
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 3.
+
+(/usr/share/texmf/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [3
+
+])
 \tf@toc=\write4
 \openout4 = `thesis-main.toc'.
 
- [3
-
-] (./thesis-main.lof)
+ [4] (./thesis-main.lof)
 \tf@lof=\write5
 \openout5 = `thesis-main.lof'.
 
- [4
 
-]
-(./thesis-main.lot)
+[5
+
+] (./thesis-main.lot)
 \tf@lot=\write6
 \openout6 = `thesis-main.lot'.
 
- [5
+ [6
 
-] (./acknowledgements.tex) [6] (./notation.tex)
-Overfull \hbox (68.95532pt too wide) in paragraph at lines 14--40
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--40
-
- []
-
-[7]
+] (./acknowledgements.tex) [7] (./notation.tex)
+[8]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for T1+pzc on input line 51.
+LaTeX Font Info:    Try loading font information for T1+pzc on input line 55.
 (/usr/share/texmf/tex/latex/psnfss/t1pzc.fd
 File: t1pzc.fd 2001/06/04 font definitions for T1/pzc.
 )
 LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <150> not available
-(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 51.
-LaTeX Font Info:    Calculating math sizes for size <36> on input line 51.
-
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <36> not available
-(Font)              size <24.88> substituted on input line 51.
-
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 51.
+(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 55.
+LaTeX Font Info:    Calculating math sizes for size <36> on input line 55.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <36> on input line 55.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <25.19989> on input line 55.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <18> on input line 55.
 
 
 LaTeX Font Warning: Font shape `U/msa/m/n' in size <36> not available
-(Font)              size <24.88> substituted on input line 51.
+(Font)              size <24.88> substituted on input line 55.
 
 
 LaTeX Font Warning: Font shape `U/msa/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 51.
+(Font)              size <17.28> substituted on input line 55.
 
 
 LaTeX Font Warning: Font shape `U/msb/m/n' in size <36> not available
-(Font)              size <24.88> substituted on input line 51.
+(Font)              size <24.88> substituted on input line 55.
 
 
 LaTeX Font Warning: Font shape `U/msb/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 51.
+(Font)              size <17.28> substituted on input line 55.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <36> not available
+(Font)              size <24.88> substituted on input line 55.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 55.
 
 (./Intro/intro.tex) (./LitReview/litreview.tex [1
 
@@ -527,383 +647,1113 @@ LaTeX Font Warning: Font shape `U/msb/m/n' in size <18> not available
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <12> not available
 (Font)              Font shape `T1/pzc/mb/it' tried instead on input line 9.
-<heart_labels.png, id=128, 1135.24126pt x 692.5875pt>
-File: heart_labels.png Graphic file (type png)
- <use heart_labels.png>
-[2
 
-] <myocytes.png, id=140, 4341.21875pt x 2930.95pt>
-File: myocytes.png Graphic file (type png)
- <use myocytes.png>
-<myocyte-image.jpg, id=141, 1284.8pt x 1027.84pt>
-File: myocyte-image.jpg Graphic file (type jpg)
- <use myocyte-image.jpg>
-<cardiac_conduction.png, id=155, 485.815pt x 318.18875pt>
-File: cardiac_conduction.png Graphic file (type png)
+Overfull \hbox (6.53238pt too wide) in paragraph at lines 23--24
+\T1/ggm/m/n/12 de-liver nu-tri-ents and re-move waste prod-ucts. It does this b
+y rhyth-mic, or-gan-ised contraction---
+ []
 
-<use cardiac_conduction.png>
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+<LitReview/heart_labels.png, id=291, 1135.24126pt x 692.5875pt>
+File: LitReview/heart_labels.png Graphic file (type png)
 
+<use LitReview/heart_labels.png>
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 30.
+ [2
 
-[3 </users/philg/Documents/3_2010-2011/thesis/LitReview/heart_labels.png>]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+]
+<LitReview/myocytes.png, id=299, 4341.21875pt x 2930.95pt>
+File: LitReview/myocytes.png Graphic file (type png)
 
+<use LitReview/myocytes.png>
+<LitReview/myocyte-image.jpg, id=300, 1284.8pt x 1027.84pt>
+File: LitReview/myocyte-image.jpg Graphic file (type jpg)
 
-[4 </users/philg/Documents/3_2010-2011/thesis/LitReview/myocytes.png> </users/p
-hilg/Documents/3_2010-2011/thesis/LitReview/myocyte-image.jpg>]
-<ap-structure-full.png, id=183, 1148.29pt x 645.41125pt>
-File: ap-structure-full.png Graphic file (type png)
+<use LitReview/myocyte-image.jpg>
 
-<use ap-structure-full.png>
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+LaTeX Warning: Command \r invalid in math mode on input line 57.
 
 
-[5 </users/philg/Documents/3_2010-2011/thesis/LitReview/cardiac_conduction.png 
-(PNG copy)>]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [3 <./LitReview/heart_labels.png>]
+<LitReview/cardiac_conduction.png, id=330, 485.815pt x 318.18875pt>
+File: LitReview/cardiac_conduction.png Graphic file (type png)
+
+<use LitReview/cardiac_conduction.png>
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
-[6 </users/philg/Documents/3_2010-2011/thesis/LitReview/ap-structure-full.png>]
+[4 <./LitReview/myocytes.png> <./LitReview/myocyte-image.jpg>]
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
 
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+ [5 <./LitReview/cardiac_conduction.png (PNG copy)>]
+<LitReview/ap-structure-full.png, id=357, 1148.29pt x 645.41125pt>
+File: LitReview/ap-structure-full.png Graphic file (type png)
+
+<use LitReview/ap-structure-full.png>
+Overfull \hbox (0.66766pt too wide) in paragraph at lines 83--90
+\T1/ggm/m/n/12 The changes in in-ter-nal/external ion con-cen-tra-tions which r
+e-sult from these cur-rents changes
+ []
 
 
-[7]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
+
+
+[6 <./LitReview/ap-structure-full.png>]
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [7]
+<LitReview/alternans-restitutionCurve.png, id=404, 188.20313pt x 270.25969pt>
+File: LitReview/alternans-restitutionCurve.png Graphic file (type png)
+
+<use LitReview/alternans-restitutionCurve.png>
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
 [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
 
-
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
-
-
-[9]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+ [9 <./LitReview/alternans-restitutionCurve.png (PNG copy)>]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
 [10]
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
 
-
-[11]
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-LaTeX Info: Redefining \bond on input line 182.
-LaTeX Info: Redefining \dbond on input line 182.
-LaTeX Info: Redefining \tbond on input line 182.
-
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+ [11]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
 [12]
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
 
-
-[13]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+ [13]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
 [14]
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+LaTeX Info: Redefining \bond on input line 236.
+LaTeX Info: Redefining \dbond on input line 236.
+LaTeX Info: Redefining \tbond on input line 236.
+
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [15]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
-[15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[16]
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [17]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+[18]
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
 
-
-[16] <param-var-effect.png, id=627, 888.31876pt x 319.1925pt>
-File: param-var-effect.png Graphic file (type png)
-
-<use param-var-effect.png>
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
-
-
-[17]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[18 </users/philg/Documents/3_2010-2011/thesis/LitReview/param-var-effect.png>]
-
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
-
-
-[19]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+ [19]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
 [20]
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [21]
+<LitReview/param-var-effect.png, id=943, 888.31876pt x 319.1925pt>
+File: LitReview/param-var-effect.png Graphic file (type png)
+
+<use LitReview/param-var-effect.png>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 344.
+
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
-[21]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+[22 <./LitReview/param-var-effect.png>]
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [23]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
-[22]
-LaTeX Info: Redefining \bond on input line 349.
-LaTeX Info: Redefining \dbond on input line 349.
-LaTeX Info: Redefining \tbond on input line 349.
- <spatial-ischaemia.png, id=894, 374.39874pt x 338.26375pt>
-File: spatial-ischaemia.png Graphic file (type png)
+[24]
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
 
-<use spatial-ischaemia.png>
-Underfull \hbox (badness 1264) in paragraph at lines 366--366
-\T1/cmr/m/it/10.95 kalemia, anoxia and aci-do-sis in a
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 366--366
-\T1/cmr/m/it/10.95 trans-mu-ral is-chæmic tis-sue sim-u-la-
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 366--366
-\T1/cmr/m/it/10.95 Fig-ure orig-i-nally from []Tice et al.[]
- []
-
-
-Overfull \vbox (7.78143pt too high) has occurred while \output is active []
-
-
-[23])
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[24 </users/philg/Documents/3_2010-2011/thesis/LitReview/spatial-ischaemia.png 
-(PNG copy)>]
-Appendix A.
-(./Appendices/electric.tex [25
-
-]
-LaTeX Info: Redefining \bond on input line 28.
-LaTeX Info: Redefining \dbond on input line 28.
-LaTeX Info: Redefining \tbond on input line 28.
-LaTeX Info: Redefining \bond on input line 28.
-LaTeX Info: Redefining \dbond on input line 28.
-LaTeX Info: Redefining \tbond on input line 28.
-LaTeX Info: Redefining \bond on input line 28.
-LaTeX Info: Redefining \dbond on input line 28.
-LaTeX Info: Redefining \tbond on input line 28.
-LaTeX Info: Redefining \bond on input line 28.
-LaTeX Info: Redefining \dbond on input line 28.
-LaTeX Info: Redefining \tbond on input line 28.
-LaTeX Info: Redefining \bond on input line 28.
-LaTeX Info: Redefining \dbond on input line 28.
-LaTeX Info: Redefining \tbond on input line 28.
-LaTeX Info: Redefining \bond on input line 28.
-LaTeX Info: Redefining \dbond on input line 28.
-LaTeX Info: Redefining \tbond on input line 28.
-LaTeX Info: Redefining \bond on input line 28.
-LaTeX Info: Redefining \dbond on input line 28.
-LaTeX Info: Redefining \tbond on input line 28.
-
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+ [25]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
 
 
 [26]
-LaTeX Info: Redefining \bond on input line 52.
-LaTeX Info: Redefining \dbond on input line 52.
-LaTeX Info: Redefining \tbond on input line 52.
-LaTeX Info: Redefining \bond on input line 52.
-LaTeX Info: Redefining \dbond on input line 52.
-LaTeX Info: Redefining \tbond on input line 52.
-) (./thesis-main.bbl
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+LaTeX Font Info:    Try loading font information for OMS+ggm on input line 412.
+
+LaTeX Font Info:    No file OMSggm.fd. on input line 412.
 
 
-[27] [28
+LaTeX Font Warning: Font shape `OMS/ggm/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 412.
+
+
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [27]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
+
+
+[28]
+LaTeX Info: Redefining \bond on input line 443.
+LaTeX Info: Redefining \dbond on input line 443.
+LaTeX Info: Redefining \tbond on input line 443.
+ <LitReview/spatial-ischaemia.png, id=1271, 374.39874pt x 338.26375pt>
+File: LitReview/spatial-ischaemia.png Graphic file (type png)
+
+<use LitReview/spatial-ischaemia.png>
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [29]
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
+
+
+[30 <./LitReview/spatial-ischaemia.png (PNG copy)>]
+<LitReview/alternans.png, id=1356, 371.13657pt x 297.36093pt>
+File: LitReview/alternans.png Graphic file (type png)
+
+<use LitReview/alternans.png>
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [31]
+
+Package natbib Warning: Citation `Aistrup2006' on page 32 undefined on input li
+ne 494.
+
+
+Package natbib Warning: Citation `Sato2006' on page 32 undefined on input line 
+494.
+
+
+Package natbib Warning: Citation `Aistrup2006' on page 32 undefined on input li
+ne 496.
+
+
+Package natbib Warning: Citation `Sato2006' on page 32 undefined on input line 
+496.
+
+
+Overfull \vbox (8.79599pt too high) has occurred while \output is active []
+
+
+[32 <./LitReview/alternans.png (PNG copy)>]
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [33])
+(./ParamSpace/paramSpace.tex
+Overfull \vbox (9.54pt too high) has occurred while \output is active []
+
+ [34]
+Chapter 3.
+
+Underfull \vbox (badness 1515) has occurred while \output is active []
+
+ [35
+
+])
+(./Appendices/electric.tex
+Overfull \vbox (9.54pt too high) has occurred while \output is active []
+
+ [36]
+Appendix A.
+[37
 
 ]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+LaTeX Info: Redefining \bond on input line 39.
+LaTeX Info: Redefining \dbond on input line 39.
+LaTeX Info: Redefining \tbond on input line 39.
+LaTeX Info: Redefining \bond on input line 39.
+LaTeX Info: Redefining \dbond on input line 39.
+LaTeX Info: Redefining \tbond on input line 39.
+LaTeX Info: Redefining \bond on input line 39.
+LaTeX Info: Redefining \dbond on input line 39.
+LaTeX Info: Redefining \tbond on input line 39.
+LaTeX Info: Redefining \bond on input line 39.
+LaTeX Info: Redefining \dbond on input line 39.
+LaTeX Info: Redefining \tbond on input line 39.
+LaTeX Info: Redefining \bond on input line 39.
+LaTeX Info: Redefining \dbond on input line 39.
+LaTeX Info: Redefining \tbond on input line 39.
+LaTeX Info: Redefining \bond on input line 39.
+LaTeX Info: Redefining \dbond on input line 39.
+LaTeX Info: Redefining \tbond on input line 39.
+LaTeX Info: Redefining \bond on input line 39.
+LaTeX Info: Redefining \dbond on input line 39.
+LaTeX Info: Redefining \tbond on input line 39.
+
+Overfull \vbox (9.54pt too high) has occurred while \output is active []
+
+ [38]
+LaTeX Info: Redefining \bond on input line 63.
+LaTeX Info: Redefining \dbond on input line 63.
+LaTeX Info: Redefining \tbond on input line 63.
+LaTeX Info: Redefining \bond on input line 63.
+LaTeX Info: Redefining \dbond on input line 63.
+LaTeX Info: Redefining \tbond on input line 63.
+)
+(./Appendices/models.tex
+Overfull \vbox (8.064pt too high) has occurred while \output is active []
+
+ [39]
+Appendix B.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 19.
+LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 19.
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 19.
 
 
-[29]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 19.
 
 
-[30]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 19.
 
-
-[31]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[32]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[33]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[34]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[35]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[36]
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[37])
-Overfull \vbox (8.28131pt too high) has occurred while \output is active []
-
-
-[38] (./thesis-main.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 11.12pt have occurred.
-
- ) 
+! Undefined control sequence.
+\@calc@post@scan ...fi \fi \fi \fi \fi \calc@next 
+                                                  
+l.22  \subsection{\citet{Ferrero1996}}
+                                      
+? x
+ 
 Here is how much of TeX's memory you used:
- 7389 strings out of 256216
- 107242 string characters out of 1917072
- 185142 words of memory out of 1500000
- 10201 multiletter control sequences out of 10000+200000
- 39613 words of font info for 94 fonts, out of 1200000 for 2000
+ 8182 strings out of 256216
+ 122183 string characters out of 1917072
+ 199713 words of memory out of 1500000
+ 10833 multiletter control sequences out of 10000+200000
+ 189959 words of font info for 131 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 57i,28n,83p,1799b,692s stack positions out of 5000i,500n,6000p,200000b,15000s
- </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.60
-0pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.
-657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti120
-0.600pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
-000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ect
-i1000.657pk> </users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-ccc1728.1250pk>{/usr/share/texmf/fonts/enc/dvips/base/8r.enc} </users/philg/.te
-xlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </users/philg/.
-texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1728.600pk> </users/philg
-/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.720pk> </users/phi
-lg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.1037pk> </users/
-philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk> </user
-s/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </us
-ers/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </
-users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.864pk> 
-</users/philg/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.1244p
-k></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/t
-ype1/bluesky/cm/cmbx8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb><
-/usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type
-1/bluesky/cm/cmmi12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></us
-r/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bl
-uesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr/shar
-e/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/c
-m/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/tex
-mf/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/urw/helvetic/
-uhvr8a.pfb></usr/share/texmf/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on thesis-main.pdf (45 pages, 1995383 bytes).
+ 57i,28n,83p,1796b,584s stack positions out of 5000i,500n,6000p,200000b,15000s
+pdfTeX warning (dest): name{equation.A.3.12} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.A.3.11} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Yamazaki2012} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Gray1998} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Fitzhugh1961} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Qian2001} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Taggart1996} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Pruvot2004} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Shiferaw2005} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Chudin1999} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Watanabe2001} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Qu2000} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Ferrier1985} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Volders1997} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Clancy2005} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cherry2012} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Romero2009a} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kuo1983} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Auerbach2011} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cabo1996} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Gough1985} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Allessie1976} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Allessie1977} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Mandapati2000} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Pandit2013} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jalife2009} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jalife2003} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Zhang2011} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Tobon2010} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Haissaguerre1998} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Lukas1996} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Coronel2009} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kagiyama1982} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Neely1975} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Huang2004} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Coronel2012} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Caldwell2007} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Tasaki1957} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Walton1983} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kleber2004} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Tice2007} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Trenor2005} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Ferrero2003a} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cook1988} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Michailova2007} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Terkildsen2007} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Michailova2005} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Trenor2007} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Coetzee1987} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Colquhoun1981} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bers1982} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sharma1983} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Rodriguez2002} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kleber1987a} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Weiss1992} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Weiss1982} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Chen1998} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Noujaim2007} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Panfilov2006} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Barrett1997} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Harris1954} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Carmeliet1999} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Hashambhoy2011} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jou2013} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Hoefen2012} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jons2011} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.John2012} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jurkat-Rott2005} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Dumaine1996} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Rodriguez2006} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Inoue2006a} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Townsend2012} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Taylor2009} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sobie2009a} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Prinz2003} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Abramson2009} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Abramson1997} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Abramson2000} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Syed2005} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Achard2006} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kherlopian2011} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sarkar2011} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sobie2009} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.McKay1979} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Ponard2007} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Pueyo2011} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Corrias2011} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Romero2010} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Romero2009} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Nygren1998} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sarkar2012} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cooper2011} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Terkildsen2008} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Romero2011} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cherry2007} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sarkar2010} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Davies2012} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sims2008} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Verkerk2005} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Fink2008} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Li1999} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Fulop2004} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.McIntosh2000} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kurz1993} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Zabel1997a} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Zabel1997} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Eckardt1998} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kirchhof2003} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Chen2006} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Wu2011} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Goldhaber2005} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jung2011} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Yan2001} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Szigligeti1996} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Biagetti2006} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kurokawa2012} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Yang2012} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kannankeril2010} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Taylor1997} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Walmsley2010} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Antzelevitch1991} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Schulz2006} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Goaillard2009} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Walmsley2013} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Nattel2010} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Edelman2001} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Gaborit2007} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Yue1996} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Carusi2012} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Golowasch2002} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Abramson2010} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Marder2011} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Mirams2013} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Nekouzadeh2011} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Viswanathan2000} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Arevalo2007} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PittFrancis2009} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bassani2004} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Puglisi2001} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Shiferaw2003} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Stern1992} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Clancy1999} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Shaw1997} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sanguinetti1990} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Zeng1995} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Luo1994a} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Luo1994} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Mahajan2008} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Shannon2004} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Garfinkel2000} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Viswanathan1999} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Wagner1999} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Shaw1997b} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Shaw1997a} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Luo1991} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Beeler1977} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.DiFrancesco1985} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.McAllister1975} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Krause1966} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Hall1963} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Carmeliet1961} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Noble1962} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Noble1960} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Hutter1960} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Fitzhugh1960} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Niederer2009} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Puglisi2004} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Noble2011} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Noble2012} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Armstrong1977} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bezanilla1977} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Adeniran2011} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Hodgkin1952} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Rudy2006} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Hund2001} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Ferrero2003} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sutton2000} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Quinn2013} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Noble2001} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Relan2011} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bueno-Orovio2008} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Keener2009} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jalife2013} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Restrepo2008} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Chen2009} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Alvarez-Lacalle2013} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Laurita2008} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Franzini-Armstrong2005} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Lee1988} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Fabiato1992} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Greenstein2002} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cleemann1998} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Trayanova2011} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Henderson2004} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Eisner2004} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bhargava2013} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Silva2005} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Yang1997} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sanguinetti1992} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Haverkamp2000} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Vandenberg2001} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Jost2005} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Lengyel2001} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Yan1998} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Virag2009} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Spector1996} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Weiss2006} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Spach1988} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Riccio1999} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Nolasco1968} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Giles1988} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Varro2011} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Xiao2008} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Rosati2004} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Varro2000} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Roden1998} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Carmeliet2006} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Roden2002} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Carmeliet2002} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bezanilla2000} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Fedorov2012} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Girod2006} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Saffitz1994} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Smaill2013} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sperelakis2002} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.28} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Szentadrassy2005} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Ferrero1996} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.B.1.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{appendix.B} has been referenced but does not exist,
+ replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvip
+s/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/sha
+re/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/bas
+e/8r.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb><./ggmm8a.pfb><./g
+gmr8a.pfb><./ggmri8a.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmbx8.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmmi6.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/hoe
+kwater/rsfs/rsfs10.pfb></usr/share/texmf/fonts/type1/urw/helvetic/uhvr8a.pfb></
+usr/share/texmf/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on thesis-main.pdf (47 pages, 2254532 bytes).
 PDF statistics:
- 1672 PDF objects out of 1728 (max. 8388607)
- 262 named destinations out of 1000 (max. 131072)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1652 PDF objects out of 1728 (max. 8388607)
+ 358 named destinations out of 1000 (max. 131072)
+ 395 words of extra memory for PDF output out of 10000 (max. 10000000)
 

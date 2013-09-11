@@ -1,0 +1,1835 @@
+\begin{thebibliography}{}
+
+\bibitem[Abramson et~al., 2010]{Abramson2010}
+Abramson, D., Bernabeu, M.~O., Bethwaite, B., Burrage, K., Corrias, A.,
+  Enticott, C., Garic, S., Gavaghan, D.~J., Peachey, T., Pitt-Francis, J.,
+  Pueyo, E., Rodr\'{\i}guez, B., Sher, A., and Tan, J. (2010).
+\newblock {High-throughput cardiac science on the Grid.}
+\newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}, 368(1925):3907--23.
+
+\bibitem[Abramson et~al., 2009]{Abramson2009}
+Abramson, D., Bethwaite, B., Enticott, C., Garic, S., and Peachey, T. (2009).
+\newblock {Parameter Space Exploration Using Scientific Workflows}.
+\newblock In Allen, G., Nabrzyski, J., Seidel, E., Albada, G.~D., Dongarra, J.,
+  and Sloot, P. M.~A., editors, {\em Computational Science - ICCS 2009}, volume
+  5544 of {\em Lecture Notes in Computer Science}, pages 104--113. Springer
+  Berlin Heidelberg, Berlin, Heidelberg.
+
+\bibitem[Abramson et~al., 1997]{Abramson1997}
+Abramson, D., Foster, I., Giddy, J., Lewis, A., Sosic, R., Sutherst, R., and
+  White, N. (1997).
+\newblock {The Nimrod Computational Workbench : A Case Study in Desktop
+  Metacomputing}.
+\newblock In {\em 20th Australasian Computer Science Conference}.
+
+\bibitem[Abramson et~al., 2000]{Abramson2000}
+Abramson, D., Giddy, J., and Kotler, L. (2000).
+\newblock {High performance parametric modeling with Nimrod/G: killer
+  application for the global grid?}
+\newblock In {\em 14th International Parallel and Distributed Processing
+  Symposium}, pages 520--528, Cancun, Mexico. IEEE Comput. Soc.
+
+\bibitem[Achard and {De Schutter}, 2006]{Achard2006}
+Achard, P. and {De Schutter}, E. (2006).
+\newblock {Complex parameter landscape for a complex neuron model.}
+\newblock {\em PLoS Computational Biology}, 2(7):e94.
+
+\bibitem[Adeniran et~al., 2011]{Adeniran2011}
+Adeniran, I., McPate, M.~J., Witchel, H.~J., Hancox, J.~C., and Zhang, H.
+  (2011).
+\newblock {Increased vulnerability of human ventricle to re-entrant excitation
+  in hERG-linked variant 1 short QT syndrome.}
+\newblock {\em PLoS Computational Biology}, 7(12):e1002313.
+
+\bibitem[Aistrup et~al., 2006]{Aistrup2006}
+Aistrup, G.~L., Kelly, J.~E., Kapur, S., Kowalczyk, M., Sysman-Wolpin, I.,
+  Kadish, A.~H., and Wasserstrom, J.~A. (2006).
+\newblock {Pacing-induced heterogeneities in intracellular Ca2+ signaling,
+  cardiac alternans, and ventricular arrhythmias in intact rat heart.}
+\newblock {\em Circulation Research}, 99(7):e65--73.
+
+\bibitem[Allen and Orchard, 1983]{Allen1983}
+Allen, D.~G. and Orchard, C.~H. (1983).
+\newblock {Intracellular calcium concentration during hypoxia and metabolic
+  inhibition in mammalian ventricular muscle.}
+\newblock {\em The Journal of Physiology}, 339(1983):107--22.
+
+\bibitem[Allessie et~al., 1976]{Allessie1976}
+Allessie, M.~A., Bonke, F. I.~M., and Schopman, F. J.~G. (1976).
+\newblock {Circus movement in rabbit atrial muscle as a mechanism of
+  tachycardia. II. The role of nonuniform recovery of excitability in the
+  occurrence of unidirectional block, as studied with multiple
+  microelectrodes.}
+\newblock {\em Circulation Research}, 39(2):168--77.
+
+\bibitem[Allessie et~al., 1977]{Allessie1977}
+Allessie, M.~A., Bonke, F. I.~M., and Schopman, F. J.~G. (1977).
+\newblock {Circus movement in rabbit atrial muscle as a mechanism of
+  tachycardia. III. The "leading circle" concept: a new model of circus
+  movement in cardiac tissue without the involvement of an anatomical
+  obstacle.}
+\newblock {\em Circulation Research}, 41(1):9--18.
+
+\bibitem[Alvarez-Lacalle et~al., 2013]{Alvarez-Lacalle2013}
+Alvarez-Lacalle, E., Cantalapiedra, I.~R., Pe\~{n}aranda, A., Cinca, J.,
+  Hove-Madsen, L., and Echebarria, B. (2013).
+\newblock {Dependency of calcium alternans on ryanodine receptor
+  refractoriness.}
+\newblock {\em PloS One}, 8(2):e55042.
+
+\bibitem[Alwan et~al., 2011]{WHO2010}
+Alwan, A., Armstron, T., Bettcher, D., Branca, F., Chisholm, D., Ezzati, M.,
+  Garfield, R., MacLean, D., Mathers, C., Mendis, S., Poznyak, V., Riley, L.,
+  Tang, K.~C., and Wild, C. (2011).
+\newblock {World Health Organisation Global status report on noncommunicable
+  diseases 2010}.
+\newblock Technical report.
+
+\bibitem[Antzelevitch et~al., 1991]{Antzelevitch1991}
+Antzelevitch, C., Sicouri, S., Litovsky, S.~H., Lukas, A., Krishnan, S.~C., {Di
+  Diego}, J.~M., Gintant, G.~A., and Liu, D.-W. (1991).
+\newblock {Heterogeneity within the ventricular wall. Electrophysiology and
+  pharmacology of epicardial, endocardial, and M cells}.
+\newblock {\em Circulation Research}, 69(6):1427--1449.
+
+\bibitem[Applegate et~al., 1987]{Applegate1987}
+Applegate, R.~J., Walsh, R.~A., and O'Rourke, R.~A. (1987).
+\newblock {Effects of nifedipine on diastolic function during brief periods of
+  flow-limiting ischemia in the conscious dog.}
+\newblock {\em Circulation}, 76(6):1409--21.
+
+\bibitem[Arevalo et~al., 2007]{Arevalo2007}
+Arevalo, H., Rodr\'{\i}guez, B., and Trayanova, N.~A. (2007).
+\newblock {Arrhythmogenesis in the heart: Multiscale modeling of the effects of
+  defibrillation shocks and the role of electrophysiological heterogeneity.}
+\newblock {\em Chaos}, 17(1):015103.
+
+\bibitem[Armstrong and Bezanilla, 1977]{Armstrong1977}
+Armstrong, C.~M. and Bezanilla, F. (1977).
+\newblock {Inactivation of the sodium channel. II. Gating current experiments.}
+\newblock {\em Journal of General Physiology}, 70(5):567--90.
+
+\bibitem[Auerbach et~al., 2011]{Auerbach2011}
+Auerbach, D.~S., Grzęda, K.~R., Furspan, P.~B., Sato, P.~Y., Mironov, S., and
+  Jalife, J. (2011).
+\newblock {Structural heterogeneity promotes triggered activity, reflection and
+  arrhythmogenesis in cardiomyocyte monolayers.}
+\newblock {\em The Journal of Physiology}, 589(Pt 9):2363--81.
+
+\bibitem[Avitall, 1979]{Avitall1979}
+Avitall, B. (1979).
+\newblock {Computer simulation of ventricular tachyarrhythmias during coronary
+  artery ligation and release.}
+\newblock {\em Journal of Electrocardiology}, 12(1):17--22.
+
+\bibitem[Barrett et~al., 1997]{Barrett1997}
+Barrett, T.~D., MacLeod, B.~A., and Walker, M. J.~A. (1997).
+\newblock {A model of myocardial ischemia for the simultaneous assessment of
+  electrophysiological changes and arrhythmias in intact rabbits.}
+\newblock {\em Journal of Pharmacological and Toxicological Methods},
+  37(1):27--36.
+
+\bibitem[Bassani et~al., 1994]{Bassani1994}
+Bassani, J. W.~M., Bassani, R.~A., and Bers, D.~M. (1994).
+\newblock {Relaxation in rabbit and rat cardiac cells: species-dependent
+  differences in cellular mechanisms.}
+\newblock {\em The Journal of Physiology}, 476(2):279--93.
+
+\bibitem[Bassani et~al., 2004]{Bassani2004}
+Bassani, R.~A., Altamirano, J., Puglisi, J.~L., and Bers, D.~M. (2004).
+\newblock {Action potential duration determines sarcoplasmic reticulum Ca2+
+  reloading in mammalian ventricular myocytes.}
+\newblock {\em The Journal of Physiology}, 559(Pt 2):593--609.
+
+\bibitem[Beeler and Reuter, 1977]{Beeler1977}
+Beeler, G.~W. and Reuter, H. (1977).
+\newblock {Reconstruction of the Action Potential of Ventricular Myocardial
+  Fibres}.
+\newblock {\em The Journal of Physiology}, 268:177--210.
+
+\bibitem[Behrens et~al., 1997]{Behrens1997}
+Behrens, S., Li, C., and Franz, M.~R. (1997).
+\newblock {Effects of myocardial ischemia on ventricular fibrillation
+  inducibility and defibrillation efficacy.}
+\newblock {\em Journal of the American College of Cardiology}, 29(4):817--24.
+
+\bibitem[Bers and Berlin, 1995]{Bers1995}
+Bers, D.~M. and Berlin, J.~R. (1995).
+\newblock {Kinetics of [Ca]i decline in cardiac myocytes depend on peak [Ca]i.}
+\newblock {\em The American Journal of Physiology}, 268(1 Pt 1):C271--7.
+
+\bibitem[Bers and Ellis, 1982]{Bers1982}
+Bers, D.~M. and Ellis, D. (1982).
+\newblock {Intracellular calcium and sodium activity in sheep heart Purkinje
+  fibres. Effect of changes of external sodium and intracellular pH.}
+\newblock {\em Pfl\"{u}gers Archiv : European Journal of Physiology},
+  393(2):171--8.
+
+\bibitem[Bezanilla, 2000]{Bezanilla2000}
+Bezanilla, F. (2000).
+\newblock {The voltage sensor in voltage-dependent ion channels.}
+\newblock {\em Physiological Reviews}, 80(2):555--92.
+
+\bibitem[Bezanilla and Armstrong, 1977]{Bezanilla1977}
+Bezanilla, F. and Armstrong, C.~M. (1977).
+\newblock {Inactivation of the sodium channel. I. Sodium Current Experiments}.
+\newblock {\em Journal of General Physiology}, 70(5):549--66.
+
+\bibitem[Bhargava et~al., 2013]{Bhargava2013}
+Bhargava, A., Lin, X., Novak, P., Mehta, K., Khorchev, Y., Delmar, M., and
+  Gorelik, J. (2013).
+\newblock {Super-Resolution Scanning Patch-Clamp Reveals Clustering of
+  Functional Ion Channels in the Adult Ventricular Myocyte.}
+\newblock {\em Circulation Research}, pages 1112--1120.
+
+\bibitem[Biagetti and Quinteiro, 2006]{Biagetti2006}
+Biagetti, M.~O. and Quinteiro, R.~A. (2006).
+\newblock {Gender differences in electrical remodeling and susceptibility to
+  ventricular arrhythmias in rabbits with left ventricular hypertrophy.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 3(7):832--9.
+
+\bibitem[Blanchard and Solaro, 1984]{Blanchard1984}
+Blanchard, E.~M. and Solaro, R.~J. (1984).
+\newblock {Inhibition of the activation and troponin calcium binding of dog
+  cardiac myofibrils by acidic pH.}
+\newblock {\em Circulation Research}, 55(3):382--91.
+
+\bibitem[Bourdillon and Poole-Wilson, 1982]{Bourdillon1982}
+Bourdillon, P.~D. and Poole-Wilson, P.~A. (1982).
+\newblock {The effects of verapamil, quiescence, and cardioplegia on calcium
+  exchange and mechanical function in ischemic rabbit myocardium.}
+\newblock {\em Circulation Research}, 50(3):360--8.
+
+\bibitem[Bueno-Orovio et~al., 2008]{Bueno-Orovio2008}
+Bueno-Orovio, A., Cherry, E.~M., and Fenton, F.~H. (2008).
+\newblock {Minimal model for human ventricular action potentials in tissue.}
+\newblock {\em Journal of Theoretical Biology}, 253(3):544--60.
+
+\bibitem[Cabo et~al., 1996]{Cabo1996}
+Cabo, C., Pertsov, A.~M., Davidenko, J.~M., Baxter, W.~T., Gray, R.~A., and
+  Jalife, J. (1996).
+\newblock {Vortex shedding as a precursor of turbulent electrical activity in
+  cardiac muscle.}
+\newblock {\em Biophysical journal}, 70(3):1105--11.
+
+\bibitem[Caldwell et~al., 2007]{Caldwell2007}
+Caldwell, J., Burton, F.~L., Smith, G.~L., and Cobbe, S.~M. (2007).
+\newblock {Heterogeneity of ventricular fibrillation dominant frequency during
+  global ischemia in isolated rabbit hearts.}
+\newblock {\em Journal of Cardiovascular Electrophysiology}, 18(8):854--61.
+
+\bibitem[Camacho et~al., 1994]{Camacho1994}
+Camacho, S.~A., Brandes, R., Figueredo, V.~M., and Weiner, M.~W. (1994).
+\newblock {Ca2+ transient decline and myocardial relaxation are slowed during
+  low flow ischemia in rat hearts.}
+\newblock {\em The Journal of Clinical Investigation}, 93(3):951--7.
+
+\bibitem[Camacho et~al., 1993]{Camacho1993}
+Camacho, S.~A., Figueredo, V.~M., Brandes, R., and Weiner, M.~W. (1993).
+\newblock {Ca(2+)-dependent fluorescence transients and phosphate metabolism
+  during low-flow ischemia in rat hearts.}
+\newblock {\em The American Journal of Physiology}, 265(1 Pt 2):H114--22.
+
+\bibitem[Carmeliet, 1961]{Carmeliet1961}
+Carmeliet, E. (1961).
+\newblock {Chloride ions and the membrane potential of Purkinje fibres}.
+\newblock {\em The Journal of Physiology}, 156:375--388.
+
+\bibitem[Carmeliet, 1999]{Carmeliet1999}
+Carmeliet, E. (1999).
+\newblock {Cardiac ionic currents and acute ischemia: from channels to
+  arrhythmias.}
+\newblock {\em Physiological Reviews}, 79(3):917--1017.
+
+\bibitem[Carmeliet, 2006]{Carmeliet2006}
+Carmeliet, E. (2006).
+\newblock {Repolarization Reserve in Cardiac Cells}.
+\newblock {\em Journal of Medical and Biological Engineering}, 26(3):97--105.
+
+\bibitem[Carmeliet and Vereecke, 2002]{Carmeliet2002}
+Carmeliet, E. and Vereecke, J. (2002).
+\newblock {\em {Cardiac Cellular Electrophysiology}}.
+\newblock Springer.
+
+\bibitem[Carusi et~al., 2012]{Carusi2012}
+Carusi, A., Burrage, K., and Rodr\'{\i}guez, B. (2012).
+\newblock {Bridging experiments, models and simulations: an integrative
+  approach to validation in computational cardiac electrophysiology.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 303(2):H144--55.
+
+\bibitem[Ch'en et~al., 1998]{Chen1998}
+Ch'en, F. F.-T., Vaughan-Jones, R.~D., Clarke, K., and Noble, D. (1998).
+\newblock {Modelling myocardial ischaemia and reperfusion.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 69(2-3):515--38.
+
+\bibitem[Chen et~al., 2009]{Chen2009}
+Chen, W., Wasserstrom, J.~A., and Shiferaw, Y. (2009).
+\newblock {Role of coupled gating between cardiac ryanodine receptors in the
+  genesis of triggered arrhythmias.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 297(1):H171--80.
+
+\bibitem[Chen et~al., 2006]{Chen2006}
+Chen, X., Cordes, J.~S., Bradley, J.~A., Sun, Z., and Zhou, J. (2006).
+\newblock {Use of arterially perfused rabbit ventricular wedge in predicting
+  arrhythmogenic potentials of drugs.}
+\newblock {\em Journal of Pharmacological and Toxicological Methods},
+  54(3):261--72.
+
+\bibitem[Cherry and Fenton, 2007]{Cherry2007}
+Cherry, E.~M. and Fenton, F.~H. (2007).
+\newblock {A tale of two dogs: analyzing two models of canine ventricular
+  electrophysiology.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 292(1):H43--55.
+
+\bibitem[Cherry et~al., 2012]{Cherry2012}
+Cherry, E.~M., Fenton, F.~H., and Gilmour, R.~F. (2012).
+\newblock {Mechanisms of ventricular arrhythmias: a dynamical systems-based
+  perspective.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 302(12):H2451--63.
+
+\bibitem[Chou et~al., 2007]{Chou2007}
+Chou, C.-C., Zhou, S., Hayashi, H., Nihei, M., Liu, Y.-B., Wen, M.-S., Yeh,
+  S.-J., Fishbein, M.~C., Weiss, J.~N., Lin, S.-F., Wu, D., and Chen, P.-S.
+  (2007).
+\newblock {Remodelling of action potential and intracellular calcium cycling
+  dynamics during subacute myocardial infarction promotes ventricular
+  arrhythmias in Langendorff-perfused rabbit hearts.}
+\newblock {\em The Journal of Physiology}, 580(Pt.3):895--906.
+
+\bibitem[Chudin et~al., 1999]{Chudin1999}
+Chudin, E., Goldhaber, J.~I., Garfinkel, A., Weiss, J.~N., and Kogan, B.
+  (1999).
+\newblock {Intracellular Ca(2+) dynamics and the stability of ventricular
+  tachycardia}.
+\newblock {\em Biophysical Journal}, 77(6):2930--41.
+
+\bibitem[Clancy and Kass, 2005]{Clancy2005}
+Clancy, C.~E. and Kass, R.~S. (2005).
+\newblock {Inherited and acquired vulnerability to ventricular arrhythmias:
+  cardiac Na+ and K+ channels.}
+\newblock {\em Physiological Reviews}, 85(1):33--47.
+
+\bibitem[Clancy and Rudy, 1999]{Clancy1999}
+Clancy, C.~E. and Rudy, Y. (1999).
+\newblock {Linking a genetic defect to its cellular phenotype in a cardiac
+  arrhythmia.}
+\newblock {\em Nature}, 400(6744):566--9.
+
+\bibitem[Cleemann et~al., 1998]{Cleemann1998}
+Cleemann, L., Wang, W., and Morad, M. (1998).
+\newblock {Two-dimensional confocal images of organization, density, and gating
+  of focal Ca2+ release sites in rat cardiac myocytes.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 95(18):10984--9.
+
+\bibitem[Clusin, 1983]{Clusin1983}
+Clusin, W.~T. (1983).
+\newblock {Caffeine induces a transient inward current in cultured cardiac
+  cells.}
+\newblock {\em Nature}, 301(5897):248--50.
+
+\bibitem[Clusin, 2003]{Clusin2003}
+Clusin, W.~T. (2003).
+\newblock {Calcium and cardiac arrhythmias: DADs, EADs, and alternans.}
+\newblock {\em Critical Reviews in Clinical Laboratory Sciences},
+  40(3):337--75.
+
+\bibitem[Coetzee and Opie, 1987]{Coetzee1987}
+Coetzee, W.~A. and Opie, L.~H. (1987).
+\newblock {Effects of components of ischemia and metabolic inhibition on
+  delayed afterdepolarizations in guinea pig papillary muscle.}
+\newblock {\em Circulation Research}, 61(2):157--65.
+
+\bibitem[Colquhoun et~al., 1981]{Colquhoun1981}
+Colquhoun, D., Neher, E., Reuter, H., and Stevens, C.~F. (1981).
+\newblock {Inward current channels activated by intracellular Ca in cultured
+  cardiac cells.}
+\newblock {\em Nature}, 294(5843):752--4.
+
+\bibitem[Cook et~al., 1988]{Cook1988}
+Cook, D.~L., Satin, L.~S., Ashford, M. L.~J., and Hales, C.~N. (1988).
+\newblock {ATP-sensitive K+ channels in pancreatic beta-cells. Spare-channel
+  hypothesis.}
+\newblock {\em Diabetes}, 37(5):495--8.
+
+\bibitem[Cooper et~al., 2011]{Cooper2011}
+Cooper, J., Mirams, G.~R., and Niederer, S.~A. (2011).
+\newblock {High-throughput functional curation of cellular electrophysiology
+  models.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 107(1):11--20.
+
+\bibitem[Coronel et~al., 2012]{Coronel2012}
+Coronel, R., Janse, M.~J., Opthof, T., Wilde, A. A.~M., and Taggart, P. (2012).
+\newblock {Postrepolarization refractoriness in acute ischemia and after
+  antiarrhythmic drug administration: action potential duration is not always
+  an index of the refractory period.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 9(6):977--82.
+
+\bibitem[Coronel et~al., 2009]{Coronel2009}
+Coronel, R., Wilms-Schopman, F. J.~G., Opthof, T., and Janse, M.~J. (2009).
+\newblock {Dispersion of repolarization and arrhythmogenesis.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 6(4):537--43.
+
+\bibitem[Corrias et~al., 2011]{Corrias2011}
+Corrias, A., Giles, W.~R., and Rodr\'{\i}guez, B. (2011).
+\newblock {Ionic mechanisms of electrophysiological properties and
+  repolarization abnormalities in rabbit Purkinje fibers.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 300(5):H1806--13.
+
+\bibitem[Cross et~al., 1998]{Cross1998}
+Cross, H.~R., Lu, L., Steenbergen, C., Philipson, K.~D., and Murphy, E. (1998).
+\newblock {Overexpression of the cardiac Na+/Ca2+ exchanger increases
+  susceptibility to ischemia/reperfusion injury in male, but not female,
+  transgenic mice.}
+\newblock {\em Circulation Research}, 83(12):1215--23.
+
+\bibitem[Davies et~al., 2012]{Davies2012}
+Davies, M.~R., Mistry, H.~B., Hussein, L., Pollard, C.~E., Valentin, J.-P.,
+  Swinton, J., and Abi-Gerges, N. (2012).
+\newblock {An in silico canine cardiac midmyocardial action potential duration
+  model as a tool for early drug safety assessment.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 302(7):H1466--80.
+
+\bibitem[Dhalla et~al., 1988]{Dhalla1988}
+Dhalla, N.~S., Panagia, V., Singal, P.~K., Makino, N., Dixon, I. M.~C., and
+  Eyolfson, D.~A. (1988).
+\newblock {Alterations in heart membrane calcium transport during the
+  development of ischemia-reperfusion injury.}
+\newblock {\em Journal of Molecular and Cellular Cardiology}, 20 Suppl
+  2(Supplement II):3--13.
+
+\bibitem[DiFrancesco and Noble, 1985]{DiFrancesco1985}
+DiFrancesco, D. and Noble, D. (1985).
+\newblock {A Model of Cardiac Electrical Activity Incorporating Ionic Pumps and
+  Concentration Changes}.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 307(1133):353--398.
+
+\bibitem[Downar et~al., 1977]{Downar1977}
+Downar, E., Janse, M.~J., and Durrer, D. (1977).
+\newblock {The effect of acute coronary artery occlusion on subepicardial
+  transmembrane potentials in the intact porcine heart}.
+\newblock {\em Circulation}, 56(2):217--224.
+
+\bibitem[Dumaine et~al., 1996]{Dumaine1996}
+Dumaine, R., Wang, Q., Keating, M.~T., Hartmann, H.~A., Schwartz, P.~J., Brown,
+  A.~M., and Kirsch, G.~E. (1996).
+\newblock {Multiple mechanisms of Na+ channel--linked long-QT syndrome.}
+\newblock {\em Circulation Research}, 78(5):916--24.
+
+\bibitem[Eckardt et~al., 1998]{Eckardt1998}
+Eckardt, L., Haverkamp, W., G\"{o}ttker, U., Madeja, M., Johna, R., Borggrefe,
+  M., and Breithardt, G. (1998).
+\newblock {Divergent effect of acute ventricular dilatation on the
+  electrophysiologic characteristics of d,l-sotalol and flecainide in the
+  isolated rabbit heart.}
+\newblock {\em Journal of Cardiovascular Electrophysiology}, 9(4):366--83.
+
+\bibitem[Edelman and Gally, 2001]{Edelman2001}
+Edelman, G.~M. and Gally, J.~A. (2001).
+\newblock {Degeneracy and complexity in biological systems.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 98(24):13763--8.
+
+\bibitem[Eisner et~al., 2000]{Eisner2000}
+Eisner, D.~A., Choi, H.~S., D\'{\i}az, M.~E., O'Neill, S.~C., and Trafford,
+  A.~W. (2000).
+\newblock {Integrative analysis of calcium cycling in cardiac muscle.}
+\newblock {\em Circulation Research}, 87(12):1087--94.
+
+\bibitem[Eisner and Sipido, 2004]{Eisner2004}
+Eisner, D.~A. and Sipido, K.~R. (2004).
+\newblock {Sodium calcium exchange in the heart: necessity or luxury?}
+\newblock {\em Circulation Research}, 95(6):549--51.
+
+\bibitem[Esumi et~al., 1991]{Esumi1991}
+Esumi, K., Nishida, M., Shaw, D., Smith, T.~W., and Marsh, J.~D. (1991).
+\newblock {NADH measurements in adult rat myocytes during simulated ischemia.}
+\newblock {\em The American Journal of Physiology}, 260(6 Pt 2):H1743--52.
+
+\bibitem[Fabiato, 1992]{Fabiato1992}
+Fabiato, A. (1992).
+\newblock {Two kinds of calcium-induced release of calcium from the
+  sarcoplasmic reticulum of skinned cardiac cells.}
+\newblock {\em Advances in Experimental Medicine and Biology}, 311:245--62.
+
+\bibitem[Fauconnier et~al., 2011]{Fauconnier2011}
+Fauconnier, J., Meli, A.~C., Thireau, J., Roberge, S., Shan, J., and Sassi, Y.
+  (2011).
+\newblock {Ryanodine receptor leak mediated by caspase-8 activation leads to
+  left ventricular injury after myocardial ischemia-reperfusion}.
+\newblock 108(32).
+
+\bibitem[Fauconnier et~al., 2013]{Fauconnier2013}
+Fauconnier, J., Roberge, S., Saint, N., and Lacampagne, A. (2013).
+\newblock {Type 2 ryanodine receptor: a novel therapeutic target in myocardial
+  ischemia/reperfusion.}
+\newblock {\em Pharmacology \& Therapeutics}, 138(3):323--32.
+
+\bibitem[Fedorov et~al., 2012]{Fedorov2012}
+Fedorov, V.~V., Glukhov, A.~V., and Chang, R. (2012).
+\newblock {Conduction barriers and pathways of the sinoatrial pacemaker
+  complex: their role in normal rhythm and atrial arrhythmias.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 302(9):H1773--83.
+
+\bibitem[Feher et~al., 1989]{Feher1989}
+Feher, J.~J., LeBolt, W.~R., and Manson, N.~H. (1989).
+\newblock {Differential effect of global ischemia on the ryanodine-sensitive
+  and ryanodine-insensitive calcium uptake of cardiac sarcoplasmic reticulum.}
+\newblock {\em Circulation Research}, 65(5):1400--8.
+
+\bibitem[Ferrero et~al., 1996]{Ferrero1996}
+Ferrero, J.~M., S\'{a}iz, N.~V., and Thakor, N.~V. (1996).
+\newblock {Simulation of Action Potentials From Metabolically Impaired Cardiac
+  Myocytes}.
+\newblock {\em Circulation Research}, 79(2):208--221.
+
+\bibitem[Ferrero et~al., 2003a]{Ferrero2003a}
+Ferrero, J.~M., Tr\'{e}nor, B., Rodr\'{\i}guez, B., and S\'{a}iz, J. (2003a).
+\newblock {Electrical Activity and Reentry During Regional Myocardial Ischemia:
+  Insights From Simulations}.
+\newblock {\em International Journal of Bifurcation and Chaos},
+  13(12):3703--3715.
+
+\bibitem[Ferrero et~al., 2003b]{Ferrero2003}
+Ferrero, J.~M., Tr\'{e}nor, B., S\'{a}iz, J., Montilla, F., and Hernandez, V.
+  (2003b).
+\newblock {Electrical activity and reentry in acute regional ischemia: insights
+  from simulations}.
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, pages 17--20. IEEE.
+
+\bibitem[Ferrier et~al., 1985]{Ferrier1985}
+Ferrier, G.~R., Moffat, M.~P., and Lukas, A. (1985).
+\newblock {Possible mechanisms of ventricular arrhythmias elicited by ischemia
+  followed by reperfusion. Studies on isolated canine ventricular tissues.}
+\newblock {\em Circulation Research}, 56(2):184--94.
+
+\bibitem[Fink et~al., 2008]{Fink2008}
+Fink, M., Noble, D., Vir\'{a}g, L., Varr\'{o}, A., and Giles, W.~R. (2008).
+\newblock {Contributions of HERG K+ current to repolarization of the human
+  ventricular action potential.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 96(1-3):357--76.
+
+\bibitem[Fitzhugh, 1960]{Fitzhugh1960}
+Fitzhugh, R. (1960).
+\newblock {Thresholds and plateaus in the Hodgkin-Huxley nerve equations.}
+\newblock {\em Journal of General Physiology}, 43:867--96.
+
+\bibitem[Fitzhugh, 1961]{Fitzhugh1961}
+Fitzhugh, R. (1961).
+\newblock {Impulses and Physiological States in Theoretical Models of Nerve
+  Membrane.}
+\newblock {\em Biophysical Journal}, 1(6):445--66.
+
+\bibitem[Franzini-Armstrong et~al., 2005]{Franzini-Armstrong2005}
+Franzini-Armstrong, C., Protasi, F., and Tijskens, P. (2005).
+\newblock {The assembly of calcium release units in cardiac muscle.}
+\newblock {\em Annals of the New York Academy of Sciences}, 1047:76--85.
+
+\bibitem[F\"{u}l\"{o}p et~al., 2004]{Fulop2004}
+F\"{u}l\"{o}p, L., B\'{a}ny\'{a}sz, T., Magyar, J., Szentandr\'{a}ssy, N.,
+  Varr\'{o}, A., and N\'{a}n\'{a}si, P.~P. (2004).
+\newblock {Reopening of L-type calcium channels in human ventricular myocytes
+  during applied epicardial action potentials.}
+\newblock {\em Acta Physiologica Scandinavica}, 180(1):39--47.
+
+\bibitem[Gaborit et~al., 2007]{Gaborit2007}
+Gaborit, N., {Le Bouter}, S., Szuts, V., Varr\'{o}, A., Escande, D., Nattel,
+  S., and Demolombe, S. (2007).
+\newblock {Regional and tissue specific transcript signatures of ion channel
+  genes in the non-diseased human heart.}
+\newblock {\em The Journal of Physiology}, 582(Pt 2):675--93.
+
+\bibitem[Garfinkel et~al., 2000]{Garfinkel2000}
+Garfinkel, A., Kim, Y.-H., Voroshilovsky, O., Qu, Z., Kil, J.~R., Lee, M.-H.,
+  Karagueuzian, H.~S., Weiss, J.~N., and Chen, P.-S. (2000).
+\newblock {Preventing ventricular fibrillation by flattening cardiac
+  restitution.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 97(11):6061--6.
+
+\bibitem[Giles and Imaizumi, 1988]{Giles1988}
+Giles, W.~R. and Imaizumi, Y. (1988).
+\newblock {Comparison of potassium currents in rabbit atrial and ventricular
+  cells.}
+\newblock {\em The Journal of Physiology}, 405:123--45.
+
+\bibitem[Girod and Becker, 2006]{Girod2006}
+Girod, S. and Becker, A. (2006).
+\newblock {Cardiac muscle}.
+
+\bibitem[Goaillard et~al., 2009]{Goaillard2009}
+Goaillard, J.-M., Taylor, A.~L., Schulz, D.~J., and Marder, E. (2009).
+\newblock {Functional consequences of animal-to-animal variation in circuit
+  parameters.}
+\newblock {\em Nature Neuroscience}, 12(11):1424--30.
+
+\bibitem[Goldhaber et~al., 2005]{Goldhaber2005}
+Goldhaber, J.~I., Xie, L.-H., Duong, T., Motter, C., Khuu, K., and Weiss, J.~N.
+  (2005).
+\newblock {Action potential duration restitution and alternans in rabbit
+  ventricular myocytes: the key role of intracellular calcium cycling.}
+\newblock {\em Circulation Research}, 96(4):459--66.
+
+\bibitem[Golowasch et~al., 2002]{Golowasch2002}
+Golowasch, J., Goldman, M.~S., Abbott, L.~F., and Marder, E. (2002).
+\newblock {Failure of averaging in the construction of a conductance-based
+  neuron model.}
+\newblock {\em Journal of Neurophysiology}, 87(2):1129--31.
+
+\bibitem[Gough et~al., 1985]{Gough1985}
+Gough, W.~B., Mehra, R., Restivo, M., Zeiler, R.~H., and El-Sherif, N. (1985).
+\newblock {Reentrant ventricular arrhythmias in the late myocardial infarction
+  period in the dog. 13. Correlation of activation and refractory maps.}
+\newblock {\em Circulation Research}, 57(3):432--42.
+
+\bibitem[Gray et~al., 1998]{Gray1998}
+Gray, R.~A., Pertsov, A.~M., and Jalife, J. (1998).
+\newblock {Spatial and temporal organization during cardiac fibrillation.}
+\newblock {\em Nature}, 392(6671):75--8.
+
+\bibitem[Greenstein and Winslow, 2002]{Greenstein2002}
+Greenstein, J.~L. and Winslow, R.~L. (2002).
+\newblock {An integrative model of the cardiac ventricular myocyte
+  incorporating local control of Ca2+ release.}
+\newblock {\em Biophysical Journal}, 83(6):2918--45.
+
+\bibitem[Ha\"{\i}ssaguerre et~al., 1998]{Haissaguerre1998}
+Ha\"{\i}ssaguerre, M., Ja\"{\i}s, P., Shah, D.~C., Takahashi, A., Hocini, M.,
+  Quiniou, G., Garrigue, S., {Le Mouroux}, A., {Le M\'{e}tayer}, P., and
+  Cl\'{e}menty, J. (1998).
+\newblock {Spontaneous initiation of atrial fibrillation by ectopic beats
+  originating in the pulmonary veins.}
+\newblock {\em The New England Journal of Medicine}, 339(10):659--66.
+
+\bibitem[Hall et~al., 1963]{Hall1963}
+Hall, A.~E., Hutter, O.~F., and Noble, D. (1963).
+\newblock {Current-Voltage Relations of Purkinje Fibres in Sodium Deficient
+  Solutions}.
+\newblock {\em The Journal of Physiology}, 166:225--240.
+
+\bibitem[Harris et~al., 1954]{Harris1954}
+Harris, A.~S., Bisteni, A., Russell, R.~A., Brigham, J.~C., and Firestone,
+  J.~E. (1954).
+\newblock {Excitatory factors in ventricular tachycardia resulting from
+  myocardial ischemia; potassium a major excitant.}
+\newblock {\em Science}, 119(3085):200--3.
+
+\bibitem[Hashambhoy et~al., 2011]{Hashambhoy2011}
+Hashambhoy, Y.~L., Winslow, R.~L., and Greenstein, J.~L. (2011).
+\newblock {CaMKII-dependent activation of late INa contributes to cellular
+  arrhythmia in a model of the cardiac myocyte.}
+\newblock {\em Conference proceedings : ... Annual International Conference of
+  the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in
+  Medicine and Biology Society. Conference}, 2011:4665--8.
+
+\bibitem[Haverkamp et~al., 2000]{Haverkamp2000}
+Haverkamp, W., Breithardt, G., Camm, A.~J., Janse, M.~J., Rosen, M.~R.,
+  Antzelevitch, C., Escande, D., Franz, M., Malik, M., Moss, A.~J., and Shah,
+  R. (2000).
+\newblock {The potential for QT prolongation and pro-arrhythmia by
+  non-anti-arrhythmic drugs: clinical and regulatory implications. Report on a
+  Policy Conference of the European Society of Cardiology.}
+\newblock {\em Cardiovascular Research}, 47(2):219--33.
+
+\bibitem[Henderson et~al., 2004]{Henderson2004}
+Henderson, S.~A., Goldhaber, J.~I., So, J.~M., Han, T., Motter, C., Ngo, A.,
+  Chantawansri, C., Ritter, M.~R., Friedlander, M., Nicoll, D.~A., Frank,
+  J.~S., Jordan, M.~C., Roos, K.~P., Ross, R.~S., and Philipson, K.~D. (2004).
+\newblock {Functional adult myocardium in the absence of Na+-Ca2+ exchange:
+  cardiac-specific knockout of NCX1.}
+\newblock {\em Circulation Research}, 95(6):604--11.
+
+\bibitem[Hiraoka et~al., 1992]{Hiraoka1992}
+Hiraoka, M., Sunami, A., Fan, Z., and Sawanobori, T. (1992).
+\newblock {Multiple ionic mechanisms of early afterdepolarizations in isolated
+  ventricular myocytes from guinea-pig hearts.}
+\newblock {\em Annals of the New York Academy of Sciences}, 644:33--47.
+
+\bibitem[Hodgkin and Huxley, 1952]{Hodgkin1952}
+Hodgkin, A.~L. and Huxley, A.~F. (1952).
+\newblock {A quantative description of membrane current and its application to
+  conduction and excitation in nerve}.
+\newblock {\em The Journal of Physiology}, 117:500--544.
+
+\bibitem[Hoefen et~al., 2012]{Hoefen2012}
+Hoefen, R., Reumann, M., Goldenberg, I., Moss, A.~J., O-Uchi, J., Gu, Y.,
+  McNitt, S., Zareba, W., Jons, C., Kanters, J.~K., Platonov, P.~G., Shimizu,
+  W., Wilde, A. A.~M., Rice, J.~J., and Lopes, C. M.~B. (2012).
+\newblock {In silico cardiac risk assessment in patients with long QT syndrome:
+  type 1: clinical predictability of cardiac models.}
+\newblock {\em Journal of the American College of Cardiology}, 60(21):2182--91.
+
+\bibitem[Huang et~al., 2004]{Huang2004}
+Huang, C., Bao, M., Jiang, H., Liu, J., Yang, B., and Wang, T. (2004).
+\newblock {Differences in the changing trends of monophasic action potential
+  duration and effective refractory period of the ventricular myocardium after
+  myocardial infarction in vivo.}
+\newblock {\em Circulation Journal : Official Journal of the Japanese
+  Circulation Society}, 68(12):1205--9.
+
+\bibitem[Hund et~al., 2001]{Hund2001}
+Hund, T.~J., Kucera, J.~P., Otani, N.~F., and Rudy, Y. (2001).
+\newblock {Ionic charge conservation and long-term steady state in the Luo-Rudy
+  dynamic cell model.}
+\newblock {\em Biophysical Journal}, 81(6):3324--31.
+
+\bibitem[Hutter and Noble, 1960]{Hutter1960}
+Hutter, O.~F. and Noble, D. (1960).
+\newblock {Rectifying properties of heart muscle.}
+\newblock {\em Nature}, 188:495.
+
+\bibitem[Ichihara et~al., 1984]{Ichihara1984}
+Ichihara, K., Haga, N., and Abiko, Y. (1984).
+\newblock {Is ischemia-induced pH decrease of dog myocardium respiratory or
+  metabolic acidosis?}
+\newblock {\em The American Journal of Physiology}, 246(5 Pt 2):H652--7.
+
+\bibitem[Inoue et~al., 2006]{Inoue2006a}
+Inoue, R., Jensen, L. J.~r., Shi, J., Morita, H., Nishida, M., Honda, A., and
+  Ito, Y. (2006).
+\newblock {Transient receptor potential channels in cardiovascular function and
+  disease.}
+\newblock {\em Circulation Research}, 99(2):119--31.
+
+\bibitem[Isoyama et~al., 1987]{Isoyama1987}
+Isoyama, S., Apstein, C.~S., Wexler, L.~F., Grice, W.~N., and Lorell, B.~H.
+  (1987).
+\newblock {Acute decrease in left ventricular diastolic chamber distensibility
+  during simulated angina in isolated hearts.}
+\newblock {\em Circulation Research}, 61(6):925--33.
+
+\bibitem[Jalife, 2003]{Jalife2003}
+Jalife, J. (2003).
+\newblock {Rotors and spiral waves in atrial fibrillation.}
+\newblock {\em Journal of Cardiovascular Electrophysiology}, 14(7):776--80.
+
+\bibitem[Jalife, 2009]{Jalife2009}
+Jalife, J. (2009).
+\newblock {Inward rectifier potassium channels control rotor frequency in
+  ventricular fibrillation.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 6(11 Suppl):S44--8.
+
+\bibitem[Jalife, 2013]{Jalife2013}
+Jalife, J. (2013).
+\newblock {Introduction to the Series on Computational Approaches to Cardiac
+  Arrhythmias: Translation Into Diagnostics and Therapy}.
+\newblock {\em Circulation Research}, 112(5):831--833.
+
+\bibitem[Janse et~al., 2001]{Janse2001}
+Janse, M.~J., Vermeulen, J.~T., Opthof, T., Coronel, R., Wilms-Schopman, F.
+  J.~G., Rademaker, H. M.~E., Baartscheer, A., and Dekker, L. R.~C. (2001).
+\newblock {Arrhythmogenesis in heart failure.}
+\newblock {\em Journal of Cardiovascular Electrophysiology}, 12(4):496--9.
+
+\bibitem[John et~al., 2012]{John2012}
+John, R.~M., Tedrow, U.~B., Koplan, B.~A., Albert, C.~M., Epstein, L.~M.,
+  Sweeney, M.~O., Miller, A.~L., Michaud, G.~F., and Stevenson, W.~G. (2012).
+\newblock {Ventricular arrhythmias and sudden cardiac death.}
+\newblock {\em Lancet}, 380(9852):1520--9.
+
+\bibitem[Jons et~al., 2011]{Jons2011}
+Jons, C., O-Uchi, J., Moss, A.~J., Reumann, M., Rice, J.~J., Goldenberg, I.,
+  Zareba, W., Wilde, A. A.~M., Shimizu, W., Kanters, J.~K., McNitt, S., Hofman,
+  N., Robinson, J.~L., and Lopes, C. M.~B. (2011).
+\newblock {Use of mutant-specific ion channel characteristics for risk
+  stratification of long QT syndrome patients.}
+\newblock {\em Science Translational Medicine}, 3(76):76ra28.
+
+\bibitem[Jost et~al., 2005]{Jost2005}
+Jost, N., Vir\'{a}g, L., Bitay, M., Tak\'{a}cs, J., Lengyel, C., Biliczki, P.,
+  Nagy, Z., Bog\'{a}ts, G., Lathrop, D.~A., Papp, J.~G., and Varr\'{o}, A.
+  (2005).
+\newblock {Restricting excessive cardiac action potential and QT prolongation:
+  a vital role for IKs in human ventricular muscle.}
+\newblock {\em Circulation}, 112(10):1392--9.
+
+\bibitem[Jou et~al., 2013]{Jou2013}
+Jou, C.~J., Barnett, S.~M., Bian, J.-T., Weng, H.~C., Sheng, X., and
+  Tristani-Firouzi, M. (2013).
+\newblock {An In Vivo Cardiac Assay to Determine the Functional Consequences of
+  Putative Long QT Syndrome Mutations.}
+\newblock {\em Circulation Research}, pages 826--830.
+
+\bibitem[Jung et~al., 2011]{Jung2011}
+Jung, B.-C., Lee, S.-H., Cho, Y.-K., Park, H.-S., Kim, Y.-N., Lee, Y.-S., and
+  Shin, D.-G. (2011).
+\newblock {Role of the alternans of action potential duration and
+  aconitine-induced arrhythmias in isolated rabbit hearts.}
+\newblock {\em Journal of Korean Medical Science}, 26(12):1576--81.
+
+\bibitem[Jurkat-Rott and Lehmann-Horn, 2005]{Jurkat-Rott2005}
+Jurkat-Rott, K. and Lehmann-Horn, F. (2005).
+\newblock {Muscle channelopathies and critical points in functional and genetic
+  studies.}
+\newblock {\em Journal of Clinical Investigation}, 115(8):2000--9.
+
+\bibitem[Kagiyama et~al., 1982]{Kagiyama1982}
+Kagiyama, Y., Hill, J.~L., and Gettes, L.~S. (1982).
+\newblock {Interaction of acidosis and increased extracellular potassium on
+  action potential characteristics and conduction in guinea pig ventricular
+  muscle.}
+\newblock {\em Circulation Research}, 51(5):614--23.
+
+\bibitem[Kannankeril et~al., 2010]{Kannankeril2010}
+Kannankeril, P., Roden, D.~M., and Darbar, D. (2010).
+\newblock {Drug-induced long QT syndrome.}
+\newblock {\em Pharmacological Reviews}, 62(4):760--81.
+
+\bibitem[Kaplan et~al., 1992]{Kaplan1992}
+Kaplan, P., Hendrikx, M., Mattheussen, M., Mubagwa, K., and Flameng, W. (1992).
+\newblock {Effect of ischemia and reperfusion on sarcoplasmic reticulum calcium
+  uptake}.
+\newblock {\em Circulation Research}, 71(5):1123--1130.
+
+\bibitem[Keener and Sneyd, 2009]{Keener2009}
+Keener, J. and Sneyd, J. (2009).
+\newblock {\em {Mathematical Physiology}}, volume 8/2 of {\em Interdisciplinary
+  Applied Mathematics}.
+\newblock Springer New York, New York, NY, 2nd edition.
+
+\bibitem[Kherlopian et~al., 2011]{Kherlopian2011}
+Kherlopian, A.~R., Ortega, F.~A., and Christini, D.~J. (2011).
+\newblock {Cardiac myocyte model parameter sensitivity analysis and model
+  transformation using a genetic algorithm}.
+\newblock In {\em 13th Annual Conference Companion on Genetic and Evolutionary
+  Computation}, page 755, New York, New York, USA. ACM Press.
+
+\bibitem[Kihara et~al., 1989]{Kihara1989}
+Kihara, Y., Grossman, W., and Morgan, J.~P. (1989).
+\newblock {Direct measurement of changes in intracellular calcium transients
+  during hypoxia, ischemia, and reperfusion of the intact mammalian heart}.
+\newblock {\em Circulation Research}, 65(4):1029--1044.
+
+\bibitem[Kirchhof et~al., 2003]{Kirchhof2003}
+Kirchhof, P., Degen, H., Franz, M.~R., Eckardt, L., Fabritz, L., Milberg, P.,
+  L\"{a}er, S., Neumann, J., Breithardt, G., and Haverkamp, W. (2003).
+\newblock {Amiodarone-induced postrepolarization refractoriness suppresses
+  induction of ventricular fibrillation}.
+\newblock {\em Journal of Pharmacology and Experimental Therapeutics},
+  305(1):257--263.
+
+\bibitem[Kl\'{e}ber, 1987]{Kleber1987b}
+Kl\'{e}ber, A.~G. (1987).
+\newblock {Conduction of the impulse in the ischemic myocardium--implications
+  for malignant ventricular arrhythmias.}
+\newblock {\em Experientia}, 43(10):1056--61.
+
+\bibitem[Kl\'{e}ber et~al., 1987a]{Kleber1987}
+Kl\'{e}ber, A.~G., Riegger, C.~B., and Janse, M.~J. (1987a).
+\newblock {Electrical uncoupling and increase of extracellular resistance after
+  induction of ischemia in isolated, arterially perfused rabbit papillary
+  muscle}.
+\newblock {\em Circulation Research}, 61(2):271--279.
+
+\bibitem[Kl\'{e}ber et~al., 1987b]{Kleber1987a}
+Kl\'{e}ber, A.~G., Riegger, C.~B., and Janse, M.~J. (1987b).
+\newblock {Extracellular K+ and H+ shifts in early ischemia: mechanisms and
+  relation to changes in impulse propagation.}
+\newblock {\em Journal of Molecular and Cellular Cardiology}, 19 Suppl
+  5(Supplement V):35--44.
+
+\bibitem[Kl\'{e}ber and Rudy, 2004]{Kleber2004}
+Kl\'{e}ber, A.~G. and Rudy, Y. (2004).
+\newblock {Basic mechanisms of cardiac impulse propagation and associated
+  arrhythmias.}
+\newblock {\em Physiological Reviews}, 84(2):431--88.
+
+\bibitem[Krause et~al., 1966]{Krause1966}
+Krause, H., Antoni, H., and Fleckenstein, A. (1966).
+\newblock {[An electronic model for the formation of local and transmitted
+  stimuli on the myocardium fibers based upon variable current-voltage
+  characteristics for potassium and sodium ions].}
+\newblock {\em Pfl\"{u}gers Archiv f\"{u}r die gesamte Physiologie des Menschen
+  und der Tiere}, 289(1):12--36.
+
+\bibitem[Krause and Hess, 1984]{Krause1984}
+Krause, S. and Hess, M.~L. (1984).
+\newblock {Characterization of cardiac sarcoplasmic reticulum dysfunction
+  during short-term, normothermic, global ischemia.}
+\newblock {\em Circulation Research}, 55(2):176--84.
+
+\bibitem[Kuo et~al., 1983]{Kuo1983}
+Kuo, C.-S., Munakata, K., Reddy, C.~P., and Surawicz, B. (1983).
+\newblock {Characteristics and possible mechanism of ventricular arrhythmia
+  dependent on the dispersion of action potential durations}.
+\newblock {\em Circulation}, 67(6):1356--1367.
+
+\bibitem[Kurokawa et~al., 2012]{Kurokawa2012}
+Kurokawa, J., Kodama, M., Furukawa, T., and Clancy, C.~E. (2012).
+\newblock {Sex and gender aspects in antiarrhythmic therapy.}
+\newblock {\em Handbook of Experimental Pharmacology}, (214):237--63.
+
+\bibitem[Kurz et~al., 1993]{Kurz1993}
+Kurz, R.~W., Mohabir, R., Ren, X.~L., and Franz, M.~R. (1993).
+\newblock {Ischaemia induced alternans of action potential duration in the
+  intact-heart: dependence on coronary flow, preload and cycle length.}
+\newblock {\em European Heart Journal}, 14(10):1410--20.
+
+\bibitem[Laurita and Rosenbaum, 2008]{Laurita2008}
+Laurita, K.~R. and Rosenbaum, D.~S. (2008).
+\newblock {Cellular mechanisms of arrhythmogenic cardiac alternans.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 97(2-3):332--47.
+
+\bibitem[Lee et~al., 1988]{Lee1988}
+Lee, H.-C., Mohabir, R., Smith, N., Franz, M.~R., and Clusin, W.~T. (1988).
+\newblock {Effect of ischemia on calcium-dependent fluorescence transients in
+  rabbit hearts containing indo 1. Correlation with monophasic action
+  potentials and contraction.}
+\newblock {\em Circulation}, 78(4):1047--59.
+
+\bibitem[Lee et~al., 1967]{Lee1967}
+Lee, K.~S., Ladinsky, H., and Stuckey, J.~H. (1967).
+\newblock {Decreased Ca2+ Uptake by Sarcoplasmic Reticulum after Coronary
+  Artery Occlusion for 60 and 90 Minutes}.
+\newblock {\em Circulation Research}, 21(4):439--444.
+
+\bibitem[Lengyel et~al., 2001]{Lengyel2001}
+Lengyel, C., Iost, N., Vir\'{a}g, L., Varr\'{o}, A., Lathrop, D.~A., and Papp,
+  J.~G. (2001).
+\newblock {Pharmacological block of the slow component of the outward delayed
+  rectifier current (I(Ks)) fails to lengthen rabbit ventricular muscle QT(c)
+  and action potential duration.}
+\newblock {\em British Journal Of Pharmacology}, 132(1):101--10.
+
+\bibitem[Levitsky et~al., 1989]{Levitsky1989}
+Levitsky, D.~O., Benevolensky, D.~S., Ikemoto, N., Syrbu, S.~I., and Watras, J.
+  (1989).
+\newblock {Monoclonal antibodies to dog heart sarcoplasmic reticulum as markers
+  of endoplasmic reticulum.}
+\newblock {\em Journal of Molecular and Cellular Cardiology}, 21 Suppl
+  1(Supplement I):55--8.
+
+\bibitem[Li et~al., 1999]{Li1999}
+Li, G.-R., Yang, B., Feng, J., Bosch, R.~F., Carrier, M., and Nattel, S.
+  (1999).
+\newblock {Transmembrane ICa contributes to rate-dependent changes of action
+  potentials in human ventricular myocytes.}
+\newblock {\em American Journal of Physiology}, 276(1 Pt 2):H98--H106.
+
+\bibitem[Lukas and Antzelevitch, 1996]{Lukas1996}
+Lukas, A. and Antzelevitch, C. (1996).
+\newblock {Phase 2 reentry as a mechanism of initiation of circus movement
+  reentry in canine epicardium exposed to simulated ischemia.}
+\newblock {\em Cardiovascular Research}, 32(3):593--603.
+
+\bibitem[Luo and Rudy, 1991]{Luo1991}
+Luo, C.-H. and Rudy, Y. (1991).
+\newblock {A Model of the Ventricular Cardiac Action Potential: Depolarization,
+  Repolarization and Their Interaction}.
+\newblock {\em Circulation Research}, 68:1501--1526.
+
+\bibitem[Luo and Rudy, 1994a]{Luo1994a}
+Luo, C.-H. and Rudy, Y. (1994a).
+\newblock {A dynamic model of the cardiac ventricular action potential. I.
+  Simulations of ionic currents and concentration changes.}
+\newblock {\em Circulation Research}, 74(6):1071--96.
+
+\bibitem[Luo and Rudy, 1994b]{Luo1994}
+Luo, C.-H. and Rudy, Y. (1994b).
+\newblock {A dynamic model of the cardiac ventricular action potential. II.
+  Afterdepolarizations, triggered activity, and potentiation.}
+\newblock {\em Circulation Research}, 74(6):1097--113.
+
+\bibitem[Mahajan et~al., 2008]{Mahajan2008}
+Mahajan, A., Shiferaw, Y., Sato, D., Baher, A., Olcese, R., Xie, L.-H., Yang,
+  M.-J., Chen, P.-S., Restrepo, J.~G., Karma, A., Garfinkel, A., Qu, Z., and
+  Weiss, J.~N. (2008).
+\newblock {A rabbit ventricular action potential model replicating cardiac
+  dynamics at rapid heart rates.}
+\newblock {\em Biophysical Journal}, 94(2):392--410.
+
+\bibitem[Mandapati et~al., 2000]{Mandapati2000}
+Mandapati, R., Skanes, A., Chen, J., Berenfeld, O., and Jalife, J. (2000).
+\newblock {Stable microreentrant sources as a mechanism of atrial fibrillation
+  in the isolated sheep heart.}
+\newblock {\em Circulation}, 101(2):194--9.
+
+\bibitem[Marder and Taylor, 2011]{Marder2011}
+Marder, E. and Taylor, A.~L. (2011).
+\newblock {Multiple models to capture the variability in biological neurons and
+  networks.}
+\newblock {\em Nature Neuroscience}, 14(2):133--8.
+
+\bibitem[McAllister et~al., 1975]{McAllister1975}
+McAllister, R.~E., Noble, D., and Tsien, R.~W. (1975).
+\newblock {Reconstruction of the electrical activity of cardiac Purkinje
+  fibres.}
+\newblock {\em The Journal of Physiology}, 251(1):1--59.
+
+\bibitem[McIntosh et~al., 2000]{McIntosh2000}
+McIntosh, M.~A., Cobbe, S.~M., and Smith, G.~L. (2000).
+\newblock {Heterogeneous changes in action potential and intracellular Ca2+ in
+  left ventricular myocyte sub-types from rabbits with heart failure}.
+\newblock {\em Cardiovascular Research}, 45(2):397--409.
+
+\bibitem[McKay et~al., 1979]{McKay1979}
+McKay, M.~D., Beckman, R.~J., and Conover, W.~J. (1979).
+\newblock {Comparison of Three Methods for Selecting Values of Input Variables
+  in the Analysis of Output from a Computer Code}.
+\newblock {\em Technometrics}, 21(2):239--245.
+
+\bibitem[Meech and Standen, 1975]{Meech1975}
+Meech, R.~W. and Standen, N.~B. (1975).
+\newblock {Potassium activation in Helix aspersa neurones under voltage clamp:
+  a component mediated by calcium influx.}
+\newblock {\em The Journal of Physiology}, 249(2):211--39.
+
+\bibitem[Michailova et~al., 2007]{Michailova2007}
+Michailova, A., Lorentz, W., and McCulloch, A.~D. (2007).
+\newblock {Modeling transmural heterogeneity of K(ATP) current in rabbit
+  ventricular myocytes.}
+\newblock {\em American Journal of Physiology - Cell Physiology},
+  293(2):C542--57.
+
+\bibitem[Michailova et~al., 2005]{Michailova2005}
+Michailova, A., Saucerman, J., Belik, M.~E., and McCulloch, A.~D. (2005).
+\newblock {Modeling regulation of cardiac KATP and L-type Ca2+ currents by ATP,
+  ADP, and Mg2+.}
+\newblock {\em Biophysical Journal}, 88(3):2234--49.
+
+\bibitem[Mirams et~al., 2013]{Mirams2013}
+Mirams, G.~R., Arthurs, C.~J., Bernabeu, M.~O., Bordas, R., Cooper, J.,
+  Corrias, A., Davit, Y., Dunn, S.-J., Fletcher, A.~G., Harvey, D.~G., Marsh,
+  M.~E., Osborne, J.~M., Pathmanathan, P., Pitt-Francis, J., Southern, J.,
+  Zemzemi, N., and Gavaghan, D.~J. (2013).
+\newblock {Chaste: an open source C++ library for computational physiology and
+  biology.}
+\newblock {\em PLoS Computational Biology}, 9(3):e1002970.
+
+\bibitem[Miura et~al., 1998]{Miura1998}
+Miura, M., Boyden, P.~A., and ter Keurs, H.~E. (1998).
+\newblock {Ca2+ waves during triggered propagated contractions in intact
+  trabeculae.}
+\newblock {\em The American Journal of Physiology}, 274(1 Pt 2):H266--76.
+
+\bibitem[Mohabir et~al., 1991]{Mohabir1991}
+Mohabir, R., Lee, H.-C., Kurz, R.~W., and Clusin, W.~T. (1991).
+\newblock {Effects of ischemia and hypercarbic acidosis on myocyte calcium
+  transients, contraction, and pHi in perfused rabbit hearts}.
+\newblock {\em Circulation Research}, 69(6):1525--1537.
+
+\bibitem[Mubagwa, 1995]{Mubagwa1995}
+Mubagwa, K. (1995).
+\newblock {Sarcoplasmic reticulum function during myocardial ischaemia and
+  reperfusion.}
+\newblock {\em Cardiovascular Research}, 30(2):166--75.
+
+\bibitem[Nattel et~al., 2010]{Nattel2010}
+Nattel, S., Frelin, Y., Gaborit, N., Louault, C., and Demolombe, S. (2010).
+\newblock {Ion-channel mRNA-expression profiling: Insights into cardiac
+  remodeling and arrhythmic substrates.}
+\newblock {\em Journal of Molecular and Cellular Cardiology}, 48(1):96--105.
+
+\bibitem[Neely et~al., 1975]{Neely1975}
+Neely, J.~R., Whitmer, J.~T., and Rovetto, M.~J. (1975).
+\newblock {Effect of coronary blood flow on glycolytic flux and intracellular
+  pH in isolated rat hearts.}
+\newblock {\em Circulation Research}, 37(6):733--41.
+
+\bibitem[Nekouzadeh and Rudy, 2011]{Nekouzadeh2011}
+Nekouzadeh, A. and Rudy, Y. (2011).
+\newblock {Continuum molecular simulation of large conformational changes
+  during ion-channel gating.}
+\newblock {\em PloS One}, 6(5):e20186.
+
+\bibitem[Niederer, 2013]{Niederer2013}
+Niederer, S. (2013).
+\newblock {Regulation of ion gradients across myocardial ischemic border zones:
+  a biophysical modelling analysis.}
+\newblock {\em PloS One}, 8(4):e60323.
+
+\bibitem[Niederer et~al., 2009]{Niederer2009}
+Niederer, S.~A., Fink, M., Noble, D., and Smith, N.~P. (2009).
+\newblock {A meta-analysis of cardiac electrophysiology computational models}.
+\newblock {\em Experimental Physiology}, 94(5):486--95.
+
+\bibitem[Noble, 1960]{Noble1960}
+Noble, D. (1960).
+\newblock {Cardiac Action and Pacemaker Potentials based on the Hodgkin-Huxley
+  Equations}.
+\newblock {\em Nature}, 4749:495--497.
+
+\bibitem[Noble, 1962]{Noble1962}
+Noble, D. (1962).
+\newblock {A modification of the Hodgkin-Huxley equations applicable to
+  Purkinje fibre action and pace-maker potentials.}
+\newblock {\em The Journal of Physiology}, 160:317--52.
+
+\bibitem[Noble, 2011]{Noble2011}
+Noble, D. (2011).
+\newblock {Successes and failures in modeling heart cell electrophysiology.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 8(11):1798--803.
+
+\bibitem[Noble et~al., 2012]{Noble2012}
+Noble, D., Garny, A., and Noble, P.~J. (2012).
+\newblock {How the Hodgkin-Huxley equations inspired the Cardiac Physiome
+  Project.}
+\newblock {\em The Journal of Physiology}, 590(Pt 11):2613--28.
+
+\bibitem[Noble and Rudy, 2001]{Noble2001}
+Noble, D. and Rudy, Y. (2001).
+\newblock {Models of cardiac ventricular action potentials: iterative
+  interaction between experiment and simulation}.
+\newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}, 359(1783):1127--1142.
+
+\bibitem[Nolasco and Dahlen, 1968]{Nolasco1968}
+Nolasco, J.~B. and Dahlen, R.~W. (1968).
+\newblock {A graphic method for the study of alternation in cardiac action
+  potentials.}
+\newblock {\em Journal of Applied Physiology}, 25(2):191--6.
+
+\bibitem[Noujaim et~al., 2007]{Noujaim2007}
+Noujaim, S.~F., Berenfeld, O., Kalifa, J., Cerrone, M., Nanthakumar, K.,
+  Atienza, F., Moreno, J., Mironov, S., and Jalife, J. (2007).
+\newblock {Universal scaling law of electrical turbulence in the mammalian
+  heart.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 104(52):20985--9.
+
+\bibitem[Nygren et~al., 1998]{Nygren1998}
+Nygren, A., Fiset, C., Firek, L., Clark, J.~W., Lindblad, D.~S., Clark, R.~B.,
+  and Giles, W.~R. (1998).
+\newblock {Mathematical model of an adult human atrial cell: the role of K+
+  currents in repolarization.}
+\newblock {\em Circulation Research}, 82(1):63--81.
+
+\bibitem[Pandit and Jalife, 2013]{Pandit2013}
+Pandit, S.~V. and Jalife, J. (2013).
+\newblock {Rotors and the Dynamics of Cardiac Fibrillation}.
+\newblock {\em Circulation Research}, 112(5):849--862.
+
+\bibitem[Panfilov, 2006]{Panfilov2006}
+Panfilov, A.~V. (2006).
+\newblock {Is heart size a factor in ventricular fibrillation? Or how close are
+  rabbit and human hearts?}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 3(7):862--4.
+
+\bibitem[Pitt-Francis et~al., 2009]{PittFrancis2009}
+Pitt-Francis, J., Pathmanathan, P., Bernabeu, M.~O., Bordas, R., Cooper, J.,
+  Fletcher, A.~G., Mirams, G.~R., Murray, P., Osborne, J.~M., Walter, A.,
+  Chapman, S.~J., Garny, A., van Leeuwen, I.~M., Maini, P.~K., Rodr\'{\i}guez,
+  B., Waters, S.~L., Whiteley, J.~P., Byrne, H.~M., and Gavaghan, D.~J. (2009).
+\newblock {Chaste: A test-driven approach to software development for
+  biological modelling}.
+\newblock {\em Computer Physics Communications}, 180(12):2452--2471.
+
+\bibitem[Pollard et~al., 2002]{Pollard2002}
+Pollard, A.~E., Cascio, W.~E., Fast, V.~G., and Knisley, S.~B. (2002).
+\newblock {Modulation of triggered activity by uncoupling in the ischemic
+  border. A model study with phase 1b-like conditions.}
+\newblock {\em Cardiovascular Research}, 56(3):381--92.
+
+\bibitem[Ponard et~al., 2007]{Ponard2007}
+Ponard, J. G.~C., Kondratyev, A.~A., and Kucera, J.~P. (2007).
+\newblock {Mechanisms of intrinsic beating variability in cardiac cell cultures
+  and model pacemaker networks.}
+\newblock {\em Biophysical Journal}, 92(10):3734--52.
+
+\bibitem[Pozzan et~al., 1994]{Pozzan1994}
+Pozzan, T., Rizzuto, R., Volpe, P., and Meldolesi, J. (1994).
+\newblock {Molecular and cellular physiology of intracellular calcium stores.}
+\newblock {\em Physiological Reviews}, 74(3):595--636.
+
+\bibitem[Prinz et~al., 2003]{Prinz2003}
+Prinz, A.~A., Billimoria, C.~P., and Marder, E. (2003).
+\newblock {Alternative to hand-tuning conductance-based models: construction
+  and analysis of databases of model neurons.}
+\newblock {\em Journal of Neurophysiology}, 90(6):3998--4015.
+
+\bibitem[Pruvot et~al., 2004]{Pruvot2004}
+Pruvot, E.~J., Katra, R.~P., Rosenbaum, D.~S., and Laurita, K.~R. (2004).
+\newblock {Role of calcium cycling versus restitution in the mechanism of
+  repolarization alternans.}
+\newblock {\em Circulation Research}, 94(8):1083--90.
+
+\bibitem[Pueyo et~al., 2011]{Pueyo2011}
+Pueyo, E., Corrias, A., Vir\'{a}g, L., Jost, N., Sz\'{e}l, T., Varr\'{o}, A.,
+  Szentandr\'{a}ssy, N., N\'{a}n\'{a}si, P.~P., Burrage, K., and
+  Rodr\'{\i}guez, B. (2011).
+\newblock {A multiscale investigation of repolarization variability and its
+  role in cardiac arrhythmogenesis.}
+\newblock {\em Biophysical Journal}, 101(12):2892--902.
+
+\bibitem[Puglisi and Bers, 2001]{Puglisi2001}
+Puglisi, J.~L. and Bers, D.~M. (2001).
+\newblock {LabHEART: an interactive computer model of rabbit ventricular
+  myocyte ion channels and Ca transport.}
+\newblock {\em American Journal of Physiology - Cell Physiology},
+  281(6):C2049--60.
+
+\bibitem[Puglisi et~al., 2004]{Puglisi2004}
+Puglisi, J.~L., Wang, F., and Bers, D.~M. (2004).
+\newblock {Modeling the isolated cardiac myocyte.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 85(2-3):163--78.
+
+\bibitem[Qian et~al., 2001]{Qian2001}
+Qian, Y.-W., Clusin, W.~T., Lin, S.-F., Han, J., and Sung, R.~J. (2001).
+\newblock {Spatial Heterogeneity of Calcium Transient Alternans During the
+  Early Phase of Myocardial Ischemia in the Blood-Perfused Rabbit Heart}.
+\newblock {\em Circulation}, 104(17):2082--2087.
+
+\bibitem[Qu et~al., 2000]{Qu2000}
+Qu, Z., Garfinkel, A., Chen, P.-S., and Weiss, J.~N. (2000).
+\newblock {Mechanisms of Discordant Alternans and Induction of Reentry in
+  Simulated Cardiac Tissue}.
+\newblock {\em Circulation}, 102(14):1664--1670.
+
+\bibitem[Quinn and Kohl, 2013]{Quinn2013}
+Quinn, T.~A. and Kohl, P. (2013).
+\newblock {Combining wet and dry research: experience with model development
+  for cardiac mechano-electric structure-function studies.}
+\newblock {\em Cardiovascular Research}, 97(4):601--11.
+
+\bibitem[Relan et~al., 2011]{Relan2011}
+Relan, J., Pop, M., Delingette, H., Wright, G.~A., Ayache, N., and Sermesant,
+  M. (2011).
+\newblock {Personalization of a cardiac electrophysiology model using optical
+  mapping and MRI for prediction of changes with pacing.}
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 58(12):3339--49.
+
+\bibitem[Restrepo et~al., 2008]{Restrepo2008}
+Restrepo, J.~G., Weiss, J.~N., and Karma, A. (2008).
+\newblock {Calsequestrin-mediated mechanism for cellular calcium transient
+  alternans.}
+\newblock {\em Biophysical Journal}, 95(8):3767--89.
+
+\bibitem[Riccio et~al., 1999]{Riccio1999}
+Riccio, M.~L., Koller, M.~L., and Gilmour, R.~F. (1999).
+\newblock {Electrical restitution and spatiotemporal organization during
+  ventricular fibrillation.}
+\newblock {\em Circulation Research}, 84(8):955--63.
+
+\bibitem[Roden, 1998]{Roden1998}
+Roden, D.~M. (1998).
+\newblock {Taking the "idio" out of "idiosyncratic": predicting torsades de
+  pointes.}
+\newblock {\em Pacing and Clinical Electrophysiology : PACE}, 21(5):1029--34.
+
+\bibitem[Roden et~al., 2002]{Roden2002}
+Roden, D.~M., Balser, J.~R., {George Jr.}, A.~L., and Anderson, M.~E. (2002).
+\newblock {Cardiac ion channels.}
+\newblock {\em Annual Review of Physiology}, 64:431--75.
+
+\bibitem[Rodr\'{\i}guez et~al., 2002]{Rodriguez2002}
+Rodr\'{\i}guez, B., Ferrero, J.~M., and Tr\'{e}nor, B. (2002).
+\newblock {Mechanistic investigation of extracellular K+ accumulation during
+  acute myocardial ischemia: a simulation study.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 283(2):H490--500.
+
+\bibitem[Rodr\'{\i}guez et~al., 2004]{Rodriguez2004}
+Rodr\'{\i}guez, B., Tice, B.~M., Eason, J.~C., Aguel, F., and Trayanova, N.~A.
+  (2004).
+\newblock {Cardiac vulnerability to electric shocks during phase 1A of acute
+  global ischemia.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 1(6):695--703.
+
+\bibitem[Rodr\'{\i}guez et~al., 2006]{Rodriguez2006}
+Rodr\'{\i}guez, B., Trayanova, N.~A., and Noble, D. (2006).
+\newblock {Modeling cardiac ischemia.}
+\newblock {\em Annals of the New York Academy of Sciences}, 1080:395--414.
+
+\bibitem[Romero et~al., 2010]{Romero2010}
+Romero, L., Carbonell, B., Tr\'{e}nor, B., Rodr\'{\i}guez, B., S\'{a}iz, J.,
+  and Ferrero, J.~M. (2010).
+\newblock {Human and rabbit inter-species comparison of ionic mechanisms of
+  arrhythmic risk: A simulation study.}
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, volume 2010, pages 3253--6.
+
+\bibitem[Romero et~al., 2011]{Romero2011}
+Romero, L., Carbonell, B., Tr\'{e}nor, B., Rodr\'{\i}guez, B., S\'{a}iz, J.,
+  and Ferrero, J.~M. (2011).
+\newblock {Systematic characterization of the ionic basis of rabbit cellular
+  electrophysiology using two ventricular models.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 107(1):60--73.
+
+\bibitem[Romero et~al., 2009a]{Romero2009}
+Romero, L., Pueyo, E., Fink, M., and Rodr\'{\i}guez, B. (2009a).
+\newblock {Impact of ionic current variability on human ventricular cellular
+  electrophysiology.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 297(4):H1436--45.
+
+\bibitem[Romero et~al., 2009b]{Romero2009a}
+Romero, L., Tr\'{e}nor, B., Alonso, J.~M., Tob\'{o}n, C., S\'{a}iz, J., and
+  Ferrero, J.~M. (2009b).
+\newblock {The relative role of refractoriness and source-sink relationship in
+  reentry generation during simulated acute ischemia.}
+\newblock {\em Annals of Biomedical Engineering}, 37(8):1560--71.
+
+\bibitem[Rosati and McKinnon, 2004]{Rosati2004}
+Rosati, B. and McKinnon, D. (2004).
+\newblock {Regulation of ion channel expression.}
+\newblock {\em Circulation Research}, 94(7):874--83.
+
+\bibitem[Rudy and Silva, 2006]{Rudy2006}
+Rudy, Y. and Silva, J.~R. (2006).
+\newblock {Computational biology in the study of cardiac ion channels and cell
+  electrophysiology.}
+\newblock {\em Quarterly Reviews of Biophysics}, 39(1):57--116.
+
+\bibitem[Saffitz et~al., 1994]{Saffitz1994}
+Saffitz, J.~E., Kanter, H.~L., Green, K.~G., Tolley, T.~K., and Beyer, E.~C.
+  (1994).
+\newblock {Tissue-specific determinants of anisotropic conduction velocity in
+  canine atrial and ventricular myocardium}.
+\newblock {\em Circulation Research}, 74(6):1065--1070.
+
+\bibitem[Sanguinetti and Jurkiewicz, 1990]{Sanguinetti1990}
+Sanguinetti, M.~C. and Jurkiewicz, N.~K. (1990).
+\newblock {Two components of cardiac delayed rectifier K+ current. Differential
+  sensitivity to block by class III antiarrhythmic agents.}
+\newblock {\em Journal of General Physiology}, 96(1):195--215.
+
+\bibitem[Sanguinetti and Jurkiewicz, 1992]{Sanguinetti1992}
+Sanguinetti, M.~C. and Jurkiewicz, N.~K. (1992).
+\newblock {Role of external Ca2+ and K+ in gating of cardiac delayed rectifier
+  K+ currents.}
+\newblock {\em Pfl\"{u}gers Archiv: European Journal of Physiology},
+  420(2):180--6.
+
+\bibitem[Sarkar et~al., 2012]{Sarkar2012}
+Sarkar, A.~X., Christini, D.~J., and Sobie, E.~A. (2012).
+\newblock {Exploiting mathematical models to illuminate electrophysiological
+  variability between individuals.}
+\newblock {\em The Journal of Physiology}, (212):2555--2567.
+
+\bibitem[Sarkar and Sobie, 2010]{Sarkar2010}
+Sarkar, A.~X. and Sobie, E.~A. (2010).
+\newblock {Regression analysis for constraining free parameters in
+  electrophysiological models of cardiac cells.}
+\newblock {\em PLoS Computational Biology}, 6(9):e1000914.
+
+\bibitem[Sarkar and Sobie, 2011]{Sarkar2011}
+Sarkar, A.~X. and Sobie, E.~A. (2011).
+\newblock {Quantification of repolarization reserve to understand interpatient
+  variability in the response to proarrhythmic drugs: a computational
+  analysis.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 8(11):1749--55.
+
+\bibitem[Sato et~al., 2006]{Sato2006}
+Sato, D., Shiferaw, Y., Garfinkel, A., Weiss, J.~N., Qu, Z., and Karma, A.
+  (2006).
+\newblock {Spatially discordant alternans in cardiac tissue: role of calcium
+  cycling.}
+\newblock {\em Circulation Research}, 99(5):520--7.
+
+\bibitem[Schulz et~al., 2006]{Schulz2006}
+Schulz, D.~J., Goaillard, J.-M., and Marder, E. (2006).
+\newblock {Variable channel expression in identified single and electrically
+  coupled neurons in different animals.}
+\newblock {\em Nature Neuroscience}, 9(3):356--62.
+
+\bibitem[Serizawa et~al., 1987]{Serizawa1987}
+Serizawa, T., Momomura, S.-i., Kohmoto, O., Ohya, T., Sato, H., Takahashi, T.,
+  Mochizuki, T., Iizuka, M., and Sugimoto, T. (1987).
+\newblock {Mechanisms of abnormal myocardial relaxation induced by ischemia:
+  comparison of low flow ischemia and hypoxia in isolated rabbit heart.}
+\newblock {\em Japanese Circulation Journal}, 51(1):90--7.
+
+\bibitem[Serizawa et~al., 1981]{Serizawa1981}
+Serizawa, T., Vogel, W.~M., Apstein, C.~S., and Grossman, W. (1981).
+\newblock {Comparison of acute alterations in left ventricular relaxation and
+  diastolic chamber stiffness induced by hypoxia and ischemia. Role of
+  myocardial oxygen supply-demand imbalance.}
+\newblock {\em The Journal of Clinical Investigation}, 68(1):91--102.
+
+\bibitem[Severi et~al., 2002]{Severi2002}
+Severi, S., Cavalcanti, S., Mancini, E., and Santoro, A. (2002).
+\newblock {Effect of electrolyte and pH changes on the sinus node pacemaking in
+  humans.}
+\newblock {\em Journal of Electrocardiology}, 35(2):115--24.
+
+\bibitem[Shannon et~al., 2004]{Shannon2004}
+Shannon, T.~R., Wang, F., Puglisi, J.~L., Weber, C., and Bers, D.~M. (2004).
+\newblock {A mathematical treatment of integrated Ca dynamics within the
+  ventricular myocyte.}
+\newblock {\em Biophysical Journal}, 87(5):3351--71.
+
+\bibitem[Sharma et~al., 1983]{Sharma1983}
+Sharma, A.~D., Saffitz, J.~E., Lee, B.~I., Sobel, B.~E., and Corr, P.~B.
+  (1983).
+\newblock {Alpha adrenergic-mediated accumulation of calcium in reperfused
+  myocardium.}
+\newblock {\em The Journal of Clinical Investigation}, 72(3):802--18.
+
+\bibitem[Shaw and Rudy, 1997a]{Shaw1997a}
+Shaw, R.~M. and Rudy, Y. (1997a).
+\newblock {Electrophysiologic effects of acute myocardial ischemia. A
+  mechanistic investigation of action potential conduction and conduction
+  failure.}
+\newblock {\em Circulation Research}, 80(1):124--38.
+
+\bibitem[Shaw and Rudy, 1997b]{Shaw1997}
+Shaw, R.~M. and Rudy, Y. (1997b).
+\newblock {Electrophysiologic effects of acute myocardial ischemia: a
+  theoretical study of altered cell excitability and action potential
+  duration.}
+\newblock {\em Cardiovascular Research}, 35(2):256--72.
+
+\bibitem[Shaw and Rudy, 1997c]{Shaw1997b}
+Shaw, R.~M. and Rudy, Y. (1997c).
+\newblock {Ionic mechanisms of propagation in cardiac tissue. Roles of the
+  sodium and L-type calcium currents during reduced excitability and decreased
+  gap junction coupling.}
+\newblock {\em Circulation Research}, 81(5):727--41.
+
+\bibitem[Shiferaw et~al., 2005]{Shiferaw2005}
+Shiferaw, Y., Sato, D., and Karma, A. (2005).
+\newblock {Coupled dynamics of voltage and calcium in paced cardiac cells}.
+\newblock {\em Physical Review E}, 71(2):021903.
+
+\bibitem[Shiferaw et~al., 2003]{Shiferaw2003}
+Shiferaw, Y., Watanabe, M.~A., Garfinkel, A., Weiss, J.~N., and Karma, A.
+  (2003).
+\newblock {Model of intracellular calcium cycling in ventricular myocytes.}
+\newblock {\em Biophysical Journal}, 85(6):3666--86.
+
+\bibitem[Silva and Rudy, 2005]{Silva2005}
+Silva, J.~R. and Rudy, Y. (2005).
+\newblock {Subunit interaction determines IKs participation in cardiac
+  repolarization and repolarization reserve.}
+\newblock {\em Circulation}, 112(10):1384--91.
+
+\bibitem[Silverman et~al., 1991]{Silverman1991}
+Silverman, H.~S., Ninomiya, M., Blank, P.~S., Hano, O., Miyata, H., Spurgeon,
+  H.~A., Lakatta, E.~G., and Stern, M.~D. (1991).
+\newblock {A cellular mechanism for impaired posthypoxic relaxation in isolated
+  cardiac myocytes. Altered myofilament relaxation kinetics at reoxygenation.}
+\newblock {\em Circulation Research}, 69(1):196--208.
+
+\bibitem[Sims et~al., 2008]{Sims2008}
+Sims, C., Reisenweber, S., Viswanathan, P.~C., Choi, B.-R., Walker, W.~H., and
+  Salama, G. (2008).
+\newblock {Sex, age, and regional differences in L-type calcium current are
+  important determinants of arrhythmia phenotype in rabbit hearts with
+  drug-induced long QT type 2.}
+\newblock {\em Circulation Research}, 102(9):e86--100.
+
+\bibitem[Smaill et~al., 2013]{Smaill2013}
+Smaill, B.~H., Zhao, J., and Trew, M.~L. (2013).
+\newblock {Three-Dimensional Impulse Propagation in Myocardium: Arrhythmogenic
+  Mechanisms at the Tissue Level}.
+\newblock {\em Circulation Research}, 112(5):834--848.
+
+\bibitem[Sobie, 2009]{Sobie2009}
+Sobie, E.~A. (2009).
+\newblock {Parameter sensitivity analysis in electrophysiological models using
+  multivariable regression.}
+\newblock {\em Biophysical Journal}, 96(4):1264--74.
+
+\bibitem[Sobie and Ramay, 2009]{Sobie2009a}
+Sobie, E.~A. and Ramay, H.~R. (2009).
+\newblock {Excitation-contraction coupling gain in ventricular myocytes:
+  insights from a parsimonious model.}
+\newblock {\em The Journal of Physiology}, 587(Pt 6):1293--9.
+
+\bibitem[Spach et~al., 1988]{Spach1988}
+Spach, M.~S., Dolber, P.~C., and Heidlage, J.~F. (1988).
+\newblock {Influence of the passive anisotropic properties on directional
+  differences in propagation following modification of the sodium conductance
+  in human atrial muscle. A model of reentry based on anisotropic discontinuous
+  propagation.}
+\newblock {\em Circulation Research}, 62(4):811--32.
+
+\bibitem[Spector et~al., 1996]{Spector1996}
+Spector, P.~S., Curran, M.~E., Zou, A., Keating, M.~T., and Sanguinetti, M.~C.
+  (1996).
+\newblock {Fast inactivation causes rectification of the IKr channel.}
+\newblock {\em Journal of General Physiology}, 107(5):611--9.
+
+\bibitem[Sperelakis and McConnell, 2002]{Sperelakis2002}
+Sperelakis, N. and McConnell, K. (2002).
+\newblock {Electric field interactions between closely abutting excitable
+  cells. .}
+\newblock {\em IEEE Engineering in Medicine and Biology Magazine : The
+  Quarterly Magazine of the Engineering in Medicine \& Biology Society},
+  21(1):77--89.
+
+\bibitem[Stern, 1992]{Stern1992}
+Stern, M.~D. (1992).
+\newblock {Theory of excitation-contraction coupling in cardiac muscle.}
+\newblock {\em Biophysical Journal}, 63(2):497--517.
+
+\bibitem[Sun et~al., 2005]{Sun2005}
+Sun, Y.-L., Hu, S.-J., Wang, L.-H., Hu, Y., and Zhou, J.-Y. (2005).
+\newblock {Effect of beta-blockers on cardiac function and calcium handling
+  protein in postinfarction heart failure rats.}
+\newblock {\em Chest}, 128(3):1812--21.
+
+\bibitem[Sutton et~al., 2000]{Sutton2000}
+Sutton, P. M.~I., Taggart, P., Opthof, T., Coronel, R., Trimlett, R., Pugsley,
+  W., and Kallis, P. (2000).
+\newblock {Repolarisation and refractoriness during early ischaemia in humans.}
+\newblock {\em Heart (British Cardiac Society)}, 84(4):365--9.
+
+\bibitem[Syed et~al., 2005]{Syed2005}
+Syed, Z., Vigmond, E., Nattel, S., and Leon, L.~J. (2005).
+\newblock {Atrial cell action potential parameter fitting using genetic
+  algorithms.}
+\newblock {\em Medical \& Biological Engineering \& Computing}, 43(5):561--71.
+
+\bibitem[Szentandr\'{a}ssy et~al., 2005]{Szentadrassy2005}
+Szentandr\'{a}ssy, N., Banyasz, T., Biro, T., Szabo, G., Toth, B.~I., Magyar,
+  J., Lazar, J., Varr\'{o}, A., Kovacs, L., and Nanasi, P.~P. (2005).
+\newblock {Apico-basal inhomogeneity in distribution of ion channels in canine
+  and human ventricular myocardium.}
+\newblock {\em Cardiovascular Research}, 65(4):851--60.
+
+\bibitem[Szigligeti et~al., 1996]{Szigligeti1996}
+Szigligeti, P., Pankucsi, C., B\'{a}ny\'{a}sz, T., Varr\'{o}, A., and
+  N\'{a}n\'{a}si, P.~P. (1996).
+\newblock {Action potential duration and force-frequency relationship in
+  isolated rabbit, guinea pig and rat cardiac muscle.}
+\newblock {\em Journal of Comparative Physiology. B, Biochemical, Systemic, and
+  Environmental Physiology}, 166(2):150--5.
+
+\bibitem[Taggart et~al., 1996]{Taggart1996}
+Taggart, P., Sutton, P. M.~I., Boyett, M.~R., Lab, M., and Swanton, H. (1996).
+\newblock {Human ventricular action potential duration during short and long
+  cycles. Rapid modulation by ischemia.}
+\newblock {\em Circulation}, 94(10):2526--34.
+
+\bibitem[Talukder et~al., 2009]{Talukder2009}
+Talukder, M. A.~H., Zweier, J.~L., and Periasamy, M. (2009).
+\newblock {Targeting calcium transport in ischaemic heart disease.}
+\newblock {\em Cardiovascular Research}, 84(3):345--52.
+
+\bibitem[Tani and Neely, 1989]{Tani1989}
+Tani, M. and Neely, J.~R. (1989).
+\newblock {Role of intracellular Na+ in Ca2+ overload and depressed recovery of
+  ventricular function of reperfused ischemic rat hearts. Possible involvement
+  of H+-Na+ and Na+-Ca2+ exchange}.
+\newblock {\em Circulation Research}, 65(4):1045--1056.
+
+\bibitem[Tasaki and Hagiwara, 1957]{Tasaki1957}
+Tasaki, I. and Hagiwara, S. (1957).
+\newblock {Capacity of muscle fiber membrane.}
+\newblock {\em American Journal of Physiology}, 188(3):423--9.
+
+\bibitem[Taylor et~al., 2009]{Taylor2009}
+Taylor, A.~L., Goaillard, J.-M., and Marder, E. (2009).
+\newblock {How multiple conductances determine electrophysiological properties
+  in a multicompartment model.}
+\newblock {\em Journal of Neuroscience}, 29(17):5573--86.
+
+\bibitem[Taylor and Lipsitz, 1997]{Taylor1997}
+Taylor, J.~A. and Lipsitz, L.~A. (1997).
+\newblock {Heart rate variability standards.}
+\newblock {\em Circulation}, 95(1):280--1.
+
+\bibitem[Temsah et~al., 1999]{Temsah1999}
+Temsah, R.~M., Netticadan, T., Chapman, D., Takeda, S., Mochizuki, S., and
+  Dhalla, N.~S. (1999).
+\newblock {Alterations in sarcoplasmic reticulum function and gene expression
+  in ischemic-reperfused rat heart.}
+\newblock {\em The American Journal of Physiology}, 277(2 Pt 2):H584--94.
+
+\bibitem[Terkildsen et~al., 2007]{Terkildsen2007}
+Terkildsen, J.~R., Crampin, E.~J., and Smith, N.~P. (2007).
+\newblock {The balance between inactivation and activation of the Na+-K+ pump
+  underlies the triphasic accumulation of extracellular K+ during myocardial
+  ischemia.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 293(5):H3036--45.
+
+\bibitem[Terkildsen et~al., 2008]{Terkildsen2008}
+Terkildsen, J.~R., Niederer, S.~A., Crampin, E.~J., Hunter, P.~J., and Smith,
+  N.~P. (2008).
+\newblock {Using Physiome standards to couple cellular functions for rat
+  cardiac excitation-contraction.}
+\newblock {\em Experimental Physiology}, 93(7):919--29.
+
+\bibitem[Tice et~al., 2007]{Tice2007}
+Tice, B.~M., Rodr\'{\i}guez, B., Eason, J.~C., and Trayanova, N.~A. (2007).
+\newblock {Mechanistic investigation into the arrhythmogenic role of transmural
+  heterogeneities in regional ischaemia phase 1A.}
+\newblock {\em Europace : European Pacing, Arrhythmias, and Cardiac
+  Electrophysiology : Journal of the Working Groups on Cardiac Pacing,
+  Arrhythmias, and Cardiac Cellular Electrophysiology of the European Society
+  of Cardiology}, 9 Suppl 6:vi46--58.
+
+\bibitem[Toba et~al., 1978]{Toba1978}
+Toba, K., Katagiri, T., and Takeyama, Y. (1978).
+\newblock {Studies of the cardiac sarcoplasmic reticulum in myocardial
+  infarction.}
+\newblock {\em Japanese Circulation Journal}, 42(4):447--53.
+
+\bibitem[Tob\'{o}n et~al., 2010]{Tobon2010}
+Tob\'{o}n, C., Ruiz, C., Rodr\'{\i}guez, J.~F., Hornero, F., Ferrero, J.~M.,
+  and S\'{a}iz, J. (2010).
+\newblock {Vulnerability for reentry in a three dimensional model of human
+  atria: a simulation study.}
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, volume 2010, pages 224--7.
+
+\bibitem[Townsend et~al., 2012]{Townsend2012}
+Townsend, N., Wickramasinghe, K., Bhatnagar, P., Smolina, K., Nichols, M.,
+  Leal, J., Luengo-Fernandez, R., and Rayner, M. (2012).
+\newblock {\em {Coronary Heart Disease Statistics 2012 Edition}}.
+\newblock British Heart Foundation: London.
+
+\bibitem[Trayanova et~al., 2011]{Trayanova2011}
+Trayanova, N.~A., Constantino, J., and Gurev, V. (2011).
+\newblock {Electromechanical models of the ventricles.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 301(2):H279--86.
+
+\bibitem[Tr\'{e}nor et~al., 2005]{Trenor2005}
+Tr\'{e}nor, B., Ferrero, J.~M., Rodr\'{\i}guez, B., and Montilla, F. (2005).
+\newblock {Effects of pinacidil on reentrant arrhythmias generated during acute
+  regional ischemia: a simulation study.}
+\newblock {\em Annals of Biomedical Engineering}, 33(7):897--906.
+
+\bibitem[Tr\'{e}nor et~al., 2007]{Trenor2007}
+Tr\'{e}nor, B., Romero, L., Ferrero, J.~M., S\'{a}iz, J., Molt\'{o}, G., and
+  Alonso, J.~M. (2007).
+\newblock {Vulnerability to reentry in a regionally ischemic tissue: a
+  simulation study.}
+\newblock {\em Annals of Biomedical Engineering}, 35(10):1756--70.
+
+\bibitem[Vandenberg et~al., 2001]{Vandenberg2001}
+Vandenberg, J.~I., Walker, B.~D., and Campbell, T.~J. (2001).
+\newblock {HERG K+ channels: friend and foe.}
+\newblock {\em Trends in Pharmacological Sciences}, 22(5):240--6.
+
+\bibitem[Varr\'{o} and Baczk\'{o}, 2011]{Varro2011}
+Varr\'{o}, A. and Baczk\'{o}, I. (2011).
+\newblock {Cardiac ventricular repolarization reserve: a principle for
+  understanding drug-related proarrhythmic risk.}
+\newblock {\em British Journal Of Pharmacology}, 164(1):14--36.
+
+\bibitem[Varr\'{o} et~al., 2000]{Varro2000}
+Varr\'{o}, A., Bal\'{a}ti, B., Iost, N., Tak\'{a}cs, J., Vir\'{a}g, L.,
+  Lathrop, D.~A., Csaba, L., T\'{a}losi, L., and Papp, J.~G. (2000).
+\newblock {The role of the delayed rectifier component IKs in dog ventricular
+  muscle and Purkinje fibre repolarization.}
+\newblock {\em The Journal of Physiology}, 523 Pt 1(2000):67--81.
+
+\bibitem[Verkerk et~al., 2005]{Verkerk2005}
+Verkerk, A.~O., Wilders, R., Veldkamp, M.~W., de~Geringel, W., Kirkels, J.~H.,
+  and Tan, H.~L. (2005).
+\newblock {Gender disparities in cardiac cellular electrophysiology and
+  arrhythmia susceptibility in human failing ventricular myocytes.}
+\newblock {\em International Heart Journal}, 46(6):1105--18.
+
+\bibitem[Vir\'{a}g et~al., 2009]{Virag2009}
+Vir\'{a}g, L., Acsai, K., H\'{a}la, O., Zaza, A., Bitay, M., Bog\'{a}ts, G.,
+  Papp, J.~G., and Varr\'{o}, A. (2009).
+\newblock {Self-augmentation of the lengthening of repolarization is related to
+  the shape of the cardiac action potential: implications for reverse rate
+  dependency.}
+\newblock {\em British Journal Of Pharmacology}, 156(7):1076--84.
+
+\bibitem[Viswanathan and Rudy, 1999]{Viswanathan1999}
+Viswanathan, P.~C. and Rudy, Y. (1999).
+\newblock {Pause induced early afterdepolarizations in the long QT syndrome: a
+  simulation study.}
+\newblock {\em Cardiovascular Research}, 42(2):530--42.
+
+\bibitem[Viswanathan and Rudy, 2000]{Viswanathan2000}
+Viswanathan, P.~C. and Rudy, Y. (2000).
+\newblock {Cellular Arrhythmogenic Effects of Congenital and Acquired Long-QT
+  Syndrome in the Heterogeneous Myocardium}.
+\newblock {\em Circulation}, 101(10):1192--1198.
+
+\bibitem[Vogel et~al., 1982]{Vogel1982}
+Vogel, W.~M., Apstein, C.~S., Briggs, L.~L., Gaasch, W.~H., and Ahn, J. (1982).
+\newblock {Acute alterations in left ventricular diastolic chamber stiffness.
+  Role of the "erectile" effect of coronary arterial pressure and flow in
+  normal and damaged hearts.}
+\newblock {\em Circulation Research}, 51(4):465--78.
+
+\bibitem[Volders et~al., 1997]{Volders1997}
+Volders, P.~G., Kulc\'{s}ar, A., Vos, M.~a., Sipido, K.~R., Wellens, H.~J.,
+  Lazzara, R., and Szabo, B. (1997).
+\newblock {Similarities between early and delayed afterdepolarizations induced
+  by isoproterenol in canine ventricular myocytes.}
+\newblock {\em Cardiovascular research}, 34(2):348--59.
+
+\bibitem[Wagner et~al., 1999]{Wagner1999}
+Wagner, M.~B., Namiki, T., Wilders, R., Joyner, R.~W., Jongsma, H.~J.,
+  Verheijck, E.~E., Kumar, R., Golod, D.~A., Goolsby, W.~N., and van Ginneken,
+  A. C.~G. (1999).
+\newblock {Electrical interactions among real cardiac cells and cell models in
+  a linear strand}.
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 276:H391--H400.
+
+\bibitem[Walmsley et~al., 2010]{Walmsley2010}
+Walmsley, J., Mirams, G.~R., Bahoshy, M., Bollensdorff, C., Rodr\'{\i}guez, B.,
+  and Burrage, K. (2010).
+\newblock {Phenomenological modeling of cell-to-cell and beat-to-beat
+  variability in isolated Guinea Pig ventricular myocytes.}
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, volume 2010, pages 1457--60.
+
+\bibitem[Walmsley et~al., 2013]{Walmsley2013}
+Walmsley, J., Rodr\'{\i}guez, J.~F., Mirams, G.~R., Burrage, K., Efimov, I.~R.,
+  and Rodr\'{\i}guez, B. (2013).
+\newblock {mRNA Expression Levels in Failing Human Hearts Predict Cellular
+  Electrophysiological Remodeling: A Population-Based Simulation Study}.
+\newblock {\em PloS One}, 8(2):e56359.
+
+\bibitem[Walton and Fozzard, 1983]{Walton1983}
+Walton, M.~K. and Fozzard, H.~A. (1983).
+\newblock {The conducted action potential. Models and comparison to
+  experiments.}
+\newblock {\em Biophysical Journal}, 44(1):9--26.
+
+\bibitem[Wang et~al., 2013]{Wang2013}
+Wang, C., Liu, N., Luan, R., Li, Y., Wang, D., Zou, W., Xing, Y., Tao, L., Cao,
+  F., and Wang, H. (2013).
+\newblock {Apelin protects sarcoplasmic reticulum function and cardiac
+  performance in ischaemia-reperfusion by attenuating oxidation of sarcoplasmic
+  reticulum Ca2+-ATPase and ryanodine receptor.}
+\newblock {\em Cardiovascular Research}.
+
+\bibitem[Watanabe et~al., 2001]{Watanabe2001}
+Watanabe, M.~A., Fenton, F.~H., Evans, S.~J., Hastings, H.~M., and Karma, A.
+  (2001).
+\newblock {Mechanisms for discordant alternans.}
+\newblock {\em Journal of Cardiovascular Electrophysiology}, 12(2):196--206.
+
+\bibitem[Weiss et~al., 2006]{Weiss2006}
+Weiss, J.~N., Karma, A., Shiferaw, Y., Chen, P.-S., Garfinkel, A., and Qu, Z.
+  (2006).
+\newblock {From pulsus to pulseless: the saga of cardiac alternans.}
+\newblock {\em Circulation Research}, 98(10):1244--53.
+
+\bibitem[Weiss and Shine, 1982]{Weiss1982}
+Weiss, J.~N. and Shine, K.~I. (1982).
+\newblock {[K+]o accumulation and electrophysiological alterations during early
+  myocardial ischemia.}
+\newblock {\em American Journal of Physiology}, 243(2):H318--27.
+
+\bibitem[Weiss et~al., 1992]{Weiss1992}
+Weiss, J.~N., Venkatesh, N., and Lamp, S.~T. (1992).
+\newblock {ATP-sensitive K+ channels and cellular K+ loss in hypoxic and
+  ischaemic mammalian ventricle.}
+\newblock {\em The Journal of Physiology}, (447):649--673.
+
+\bibitem[Wu et~al., 2011]{Wu2011}
+Wu, L., Ma, J., Li, H., Wang, C., Grandi, E., Zhang, P., Luo, A., Bers, D.~M.,
+  Shryock, J.~C., and Belardinelli, L. (2011).
+\newblock {Late sodium current contributes to the reverse rate-dependent effect
+  of IKr inhibition on ventricular repolarization.}
+\newblock {\em Circulation}, 123(16):1713--20.
+
+\bibitem[Xiao et~al., 2008]{Xiao2008}
+Xiao, L., Xiao, J., Luo, X., Lin, H., Wang, Z., and Nattel, S. (2008).
+\newblock {Feedback remodeling of cardiac potassium current expression: a novel
+  potential mechanism for control of repolarization reserve.}
+\newblock {\em Circulation}, 118(10):983--92.
+
+\bibitem[Xu et~al., 1993]{Xu1993}
+Xu, A., Hawkins, C., and Narayanan, N. (1993).
+\newblock {Phosphorylation and activation of the Ca(2+)-pumping ATPase of
+  cardiac sarcoplasmic reticulum by Ca2+/calmodulin-dependent protein kinase.}
+\newblock {\em The Journal of Biological Chemistry}, 268(12):8394--7.
+
+\bibitem[Xu et~al., 1997]{Xu1997}
+Xu, K.~Y., Zweier, J.~L., and Becker, L.~C. (1997).
+\newblock {Hydroxyl radical inhibits sarcoplasmic reticulum Ca(2+)-ATPase
+  function by direct attack on the ATP binding site.}
+\newblock {\em Circulation Research}, 80(1):76--81.
+
+\bibitem[Yamazaki et~al., 2012]{Yamazaki2012}
+Yamazaki, M., Honjo, H., Ashihara, T., Harada, M., Sakuma, I., Nakazawa, K.,
+  Trayanova, N., Horie, M., Kalifa, J., Jalife, J., Kamiya, K., and Kodama, I.
+  (2012).
+\newblock {Regional cooling facilitates termination of spiral-wave reentry
+  through unpinning of rotors in rabbit hearts.}
+\newblock {\em Heart rhythm : the official journal of the Heart Rhythm
+  Society}, 9(1):107--14.
+
+\bibitem[Yan and Antzelevitch, 1998]{Yan1998}
+Yan, G.-X. and Antzelevitch, C. (1998).
+\newblock {Cellular Basis for the Normal T Wave and the Electrocardiographic
+  Manifestations of the Long-QT Syndrome}.
+\newblock {\em Circulation}, 98(18):1928--1936.
+
+\bibitem[Yan et~al., 2001]{Yan2001}
+Yan, G.-X., Rials, S.~J., Wu, Y., Liu, T., Xu, X., Marinchak, R.~A., and Kowey,
+  P.~R. (2001).
+\newblock {Ventricular hypertrophy amplifies transmural repolarization
+  dispersion and induces early afterdepolarization}.
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 281:H1968--H1975.
+
+\bibitem[Yang and Clancy, 2012]{Yang2012}
+Yang, P.-C. and Clancy, C.~E. (2012).
+\newblock {In silico Prediction of Sex-Based Differences in Human
+  Susceptibility to Cardiac Ventricular Tachyarrhythmias.}
+\newblock {\em Frontiers in Physiology}, 3(September):360.
+
+\bibitem[Yang et~al., 1997]{Yang1997}
+Yang, T., Snyders, D.~J., and Roden, D.~M. (1997).
+\newblock {Rapid inactivation determines the rectification and [K+]o dependence
+  of the rapid component of the delayed rectifier K+ current in cardiac cells.}
+\newblock {\em Circulation Research}, 80(6):782--9.
+
+\bibitem[Yue et~al., 1996]{Yue1996}
+Yue, L., Feng, J., Li, G.~R., and Nattel, S. (1996).
+\newblock {Transient outward and delayed rectifier currents in canine atrium:
+  properties and role of isolation methods.}
+\newblock {\em The American Journal of Physiology}, 270(6 Pt 2):H2157--68.
+
+\bibitem[Zabel et~al., 1997a]{Zabel1997a}
+Zabel, M., Hohnloser, S.~H., Behrens, S., Woosley, R.~L., and Franz, M.~R.
+  (1997a).
+\newblock {Differential effects of D-sotalol, quinidine, and amiodarone on
+  dispersion of ventricular repolarization in the isolated rabbit heart.}
+\newblock {\em Journal of Cardiovascular Electrophysiology}, 8(11):1239--45.
+
+\bibitem[Zabel et~al., 1997b]{Zabel1997}
+Zabel, M., Woosley, R.~L., and Franz, M.~R. (1997b).
+\newblock {Is dispersion of ventricular repolarization rate dependent?}
+\newblock {\em Pacing and Clinical Electrophysiology : PACE}, 20(10 Pt
+  1):2405--11.
+
+\bibitem[Zeng et~al., 1995]{Zeng1995}
+Zeng, J., Laurita, K.~R., Rosenbaum, D.~S., and Rudy, Y. (1995).
+\newblock {Two Components of the Delayed Rectifier K+ Current in Ventricular
+  Myocytes of the Guinea Pig Type : Theoretical Formulation and Their Role in
+  Repolarization}.
+\newblock {\em Circulation Research}, 77(1):140--152.
+
+\bibitem[Zhang et~al., 2011]{Zhang2011}
+Zhang, H., Wang, J., Yang, L., Wu, R.-J., Mei, X., and Zhao, W. (2011).
+\newblock {Vulnerability in simulated ischemic ventricular transmural tissues.}
+\newblock {\em Chinese Journal of Physiology}, 54(6):427--34.
+
+\bibitem[Zhao et~al., 1988]{Zhao1988}
+Zhao, M., Franzen, D., and Eng, C. (1988).
+\newblock {The effect of coronary arterial pressure on myocardial
+  distensibility. Absence of a "garden hose" effect during in-vivo conditions.}
+\newblock {\em Basic Research in Cardiology}, 83(6):626--33.
+
+\bibitem[Zweier, 1988]{Zweier1988}
+Zweier, J.~L. (1988).
+\newblock {Measurement of superoxide-derived free radicals in the reperfused
+  heart. Evidence for a free radical mechanism of reperfusion injury.}
+\newblock {\em The Journal of Biological Chemistry}, 263(3):1353--7.
+
+\end{thebibliography}

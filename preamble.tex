@@ -8,11 +8,16 @@
 
 % Font Packages
 \usepackage{url}			% Allows quoting of websites in BibTeX
-\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}				% Allows use of colour fonts 
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}		% Allows use of colour fonts 
 \usepackage{amsmath}			% Maths fonts
 \usepackage{amsfonts}
 \usepackage{algorithm}
 \usepackage{algorithmic}
+\usepackage{lmodern}			% Makes the fonts a bit nicer
+% \usepackage[urw-garamond]{mathdesign}	% Imports Garamond font
+\usepackage[T1]{fontenc}		% Specifies encoding font
+\usepackage{garamond}
+\renewcommand{\rmdefault}{ggm}\normalfont
 
 % Sans Serif Font Packages & Commands
 % \linespread{1.6}
@@ -36,6 +41,10 @@
 \usepackage{subfiles}			% Allows separate compilation of subfiles
 \usepackage{nicefrac}			% Allows slanted fractions to be used easily
 \usepackage[version=3]{mhchem}		% Makes it a heck of a lot easier to write chemical reaction equations
+\usepackage[retainorgcmds]{IEEEtrantools}	% Equation formatting tools
+\usepackage{mathrsfs}				% Maths font package
+% \usepackage{siunitx}
+\usepackage[retainorgcmds]{IEEEtrantools}
 
 % Chapter heading adjustments
 \usepackage{fix-cm}
@@ -44,7 +53,7 @@
 
 % Change quotation environment
 \usepackage[T1]{fontenc}
-\def\signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
+\def \signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
   \hbox{}\nobreak\hfil(#1)%
   \parfillskip=0pt \finalhyphendemerits=0 \endgraf}}
 
@@ -54,6 +63,12 @@
   {\signed{\usebox\mybox}\end{quote}}
 
 \input{/users/philg/Documents/3_2010-2011/thesis/titledata}
+
+% Define commands to allow Bibtex to work across subfiles
+\def \biblio {\bibliographystyle{apalike}\bibliography{/users/philg/Documents/library}}
+
+% Define graphics paths to allow subfile compilation
+\graphicspath{{LitReview/}{Appendices/}{TitlePage/}}
 
 % Set out paper specific commands
 % ===============================
@@ -75,7 +90,7 @@
 \newcommand{\inas}{$I_{\textnormal{NaS}}$}
 \newcommand{\icacl}{$I_\textnormal{CaCl}$}
 \newcommand{\iF}{$I_\textnormal{F}$}
-\newcommand{\ikatp}{$I_\textnormal{K(ATP)}$}
+\newcommand{\ikatp}{$I_\textnormal{K-ATP}$}
 \newcommand{\ik}{$I_\textnormal{K}$}
 
 \newcommand{\gto}{$g_{\textnormal{to}}$}
