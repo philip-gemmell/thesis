@@ -1,0 +1,55 @@
+\documentclass[../thesis-main.tex]{subfiles}
+
+\begin{document}
+ 
+ \chapter{Cardiac Model Components}
+ \label{ch:models}
+
+ \begin{aquote}{Source}
+  {\fontencoding{T1}\fontfamily{pzc}\selectfont
+  New quote!
+  }
+ \end{aquote}
+ \rule{\linewidth}{0.25mm}
+  
+ \begin{quote}
+  This appendix details the form of many of the components of the models used in this thesis, with special mention given to some of the differences between the Shannon and Mahajan models.
+ \end{quote}
+ 
+ \section{\ikatp{}}
+ \label{sec:ikatp}
+ 
+ \subsection{\citet{Ferrero1996}}
+ \label{subsec:ferrero1996-ikatp}
+ The master equation is given according to
+ \begin{equation}
+  I_\textnormal{K-ATP} = \sigma g_o p_o f_\textnormal{ATP}(V_m-E_\textnormal{K-ATP}),
+ \end{equation}
+ with component equations given below, and parameter values and meanings given in Table \ref{table:ferrero1996}. $g_o$ represents the unitary conductance of a channel, and $f_\textnormal{ATP}$ represents the fraction of activated channels (the relative current).
+ 
+ \begin{IEEEeqnarray}{rCl}
+  g_o & = & \gamma_o f_\textnormal{Mg} f_\textnormal{Na} f_\textnormal{T} \\
+  \gamma_o & = & 35.375\left(\frac{[\textnormal{K}^+]_\textnormal{o}}{[\textnormal{K}^+]_\textnormal{o,normal}}\right)^{0.24} \\
+  \\
+  f_\textnormal{Mg}  & = & \frac{1}{1+\frac{[\textnormal{Mg}^{2+}]_\textnormal{i}}{K_{h,\textnormal{Mg}}}}
+ \end{IEEEeqnarray}
+ where $\gamma_o$ is the unitary conductance in the absence of intracellular \na{} and \mg{}.
+ 
+ \begin{table}
+  \begin{center}
+   \begin{tabular}{lll}
+   Parameters	& Physical Significance	& Value \\
+   \hline
+   \hline
+    $\sigma$	& Channel Density	& 3.8$\mu$m$^{-2}$ \\
+    $p_o$	& Open probability of a channel in the absence of ATP	& 0.91 \\
+    $[\textnormal{K}^+]_\textnormal{o,normal}$ & \ko{} under normal conditions & 5.4mM \\
+   \end{tabular}
+  \end{center}
+  \caption{Parameters for the \ikatp{} model provided by \citet{Ferrero1996}}
+  \label{table:ferrero1996}
+ \end{table}
+
+ 
+ \biblio
+\end{document}

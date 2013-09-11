@@ -1,0 +1,29 @@
+\begin{thebibliography}{}
+
+\bibitem[Noble and Rudy, 2001]{Noble2001}
+Noble, D. and Rudy, Y. (2001).
+\newblock {Models of cardiac ventricular action potentials: iterative
+  interaction between experiment and simulation}.
+\newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}, 359(1783):1127--1142.
+
+\bibitem[Quinn and Kohl, 2013]{Quinn2013}
+Quinn, T.~A. and Kohl, P. (2013).
+\newblock {Combining wet and dry research: experience with model development
+  for cardiac mechano-electric structure-function studies.}
+\newblock {\em Cardiovascular Research}, 97(4):601--11.
+
+\bibitem[Syed et~al., 2005]{Syed2005}
+Syed, Z., Vigmond, E., Nattel, S., and Leon, L.~J. (2005).
+\newblock {Atrial cell action potential parameter fitting using genetic
+  algorithms.}
+\newblock {\em Medical \& Biological Engineering \& Computing}, 43(5):561--71.
+
+\bibitem[Walmsley et~al., 2013]{Walmsley2013}
+Walmsley, J., Rodr\'{\i}guez, J.~F., Mirams, G.~R., Burrage, K., Efimov, I.~R.,
+  and Rodr\'{\i}guez, B. (2013).
+\newblock {mRNA Expression Levels in Failing Human Hearts Predict Cellular
+  Electrophysiological Remodeling: A Population-Based Simulation Study}.
+\newblock {\em PloS One}, 8(2):e56359.
+
+\end{thebibliography}

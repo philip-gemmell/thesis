@@ -1,0 +1,47 @@
+\documentclass[../thesis-main.tex]{subfiles}
+
+\begin{document}
+
+\chapter{Parameter Space Exploration}
+\label{ch:paramSpace}
+
+\begin{aquote}{Quote source}
+  {\fontencoding{T1}\fontfamily{pzc}\selectfont
+   New quote needed!
+  }
+\end{aquote}
+\rule{\linewidth}{0.25mm}
+
+  \begin{quote}
+   \emph{Section Outline}
+  \end{quote}
+  
+ \section{Important Considerations}
+ \label{sec:considerations}
+ It should be noted that, replacing a parameter set with a parameter space, in effect constructing a population of models based on a single originator, allows for a biophysically realistic method of reproducing physiological variation which remains computationally tractable. However, there are several key points that must be remembered that represent the limitations of this, and many related, approach.
+ \begin{enumerate}
+  \item The underlying assumptions regarding the original model still apply. As such, the inaccurate assumptions are inherent, and the assumptions applied to generate a computationally tractable model are inherent in any derived models \citet{Noble2001, Quinn2013}.
+  \item The populations derived using experimental data rely on these data remaining appropriate for the considered task. The populations used in this thesis are derived using `healthy' data. As such, without further adaptation, the populations are unsuitable for assessing some experimental situations, \eg{} where cardiac remodelling has occurred \citep{Walmsley2013}.
+  \item Related to the point above is the fact that the model populations are united by the data used to create them. As such, if the data used include such differences as gender, the models cannot then be used to address specific questions regarding gender.
+ \end{enumerate}
+ 
+ % Comment on differences between AP and Ca biomarkers and relative importances and whatnot - compare to conclusions in Walmsely2013
+ 
+ \section{Constructing the Model Population}
+ \label{sec:methods}
+ Fitting over several pacing rates is not simply a method to include more data in the fitting process (itself a laudable goal)---previous work has demonstrated that, for the AP restitution curve to be accurately fitted, data from several pacing rates must be included \citep{Syed2005}
+ 
+ \subsection{Representing the Data}
+ \label{subsec:cbdr}
+ Linear projection, from $n$ dimensions to one or two dimensions, is a relatively simple affair with finite data sets, by simply rearranging the data; essentially, it may be considered as taking `slices' of the dimensions, and rearranging them to remove one of the dimensions. A two to one dimensional analogy would be to take a 4$\times$4 grid, and place each column of 4 longitudinally instead of laterally, resulting in a single column 16 items long.
+ 
+ The general form of projection, to give each entry in an $n$ dimensional space a unique point in 1D space, is given by
+ \begin{equation}
+  (x_1, x_2, \ldots x_n) = \sum_{i=1}^n\left((x_i-1)\prod_{j=i-1}^i N_j\right) + 1,
+  \label{eq:paramSpace-projection}
+ \end{equation}
+ which returns a $1$D coordinate of $1\ldots{}N$, where $N$ is the total number of data points; the number of data points in each dimension is given by $N_i$.
+
+ \biblio
+ 
+ \end{document}
