@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  10 SEP 2013 14:32
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.6.21)  20 SEP 2013 11:45
 entering extended mode
  %&-line parsing enabled.
 **litreview.tex
@@ -246,11 +246,11 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/users/philg/texmf/tex/latex/garamond/garamond.sty{/usr/share/texmf/fonts/map/
-pdftex/updmap/pdftex.map}{/users/philg/texmf/fonts/map/dvips/urw/ggm.map})
+(/users/philg/texmf/tex/latex/commonstuff/garamond/garamond.sty{/usr/share/texm
+f/fonts/map/pdftex/updmap/pdftex.map}{/users/philg/texmf/fonts/map/dvips/urw/gg
+m.map})
 LaTeX Font Info:    Try loading font information for T1+ggm on input line 20.
-
-(/users/philg/texmf/tex/latex/garamond/t1ggm.fd
+ (/users/philg/texmf/tex/latex/commonstuff/garamond/t1ggm.fd
 File: t1ggm.fd 2005/01/13 Fontinst v1.927 font definitions for T1/ggm.
 )
 (/usr/share/texmf/tex/latex/graphics/graphicx.sty
@@ -854,7 +854,7 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  8193 strings out of 256216
- 121782 string characters out of 1917072
+ 121842 string characters out of 1917072
  200001 words of memory out of 1500000
  10833 multiletter control sequences out of 10000+200000
  156384 words of font info for 123 fonts, out of 1200000 for 2000

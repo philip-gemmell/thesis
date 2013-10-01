@@ -5,22 +5,30 @@
 \chapter{Parameter Space Exploration}
 \label{ch:paramSpace}
 
-\begin{aquote}{Quote source}
+\begin{aquote}{Johannes Brahms}
   {\fontencoding{T1}\fontfamily{pzc}\selectfont
-   New quote needed!
+   I sometimes ponder on variation form and it seems to me it ought to be more restrained, purer.
   }
 \end{aquote}
 \rule{\linewidth}{0.25mm}
 
-  \begin{quote}
-   \emph{Section Outline}
-  \end{quote}
-  
- \section{Important Considerations}
- \label{sec:considerations}
- It should be noted that, replacing a parameter set with a parameter space, in effect constructing a population of models based on a single originator, allows for a biophysically realistic method of reproducing physiological variation which remains computationally tractable. However, there are several key points that must be remembered that represent the limitations of this, and many related, approach.
+ \begin{quote}
+  \emph{This section outlines the underlying assumptions required for this thesis, and the theories and methods used in subsequent chapters. The rationale for using parameter space variation as a means to model physiological variation is presented. Computational techniques to interact with higher dimensional spaces are outlined. The results of parameter variation for two separate computational model frameworks are explored, and models that reproduce experimentally observed variation are isolated.}
+ \end{quote}
+ 
+ \section{Reproduction of Experimental Variation Using Parameter Variation}
+ \label{sec:rationale}
+ As was elaborated on in \S\ref{sec:param-var}, variation is a constant companion in the experimentalist's world. As computational models of biological processes become more complex, with advancing technology allowing us to discard earlier assumptions made for the sake of computational tractability, and further advances in experimental results allow greater understanding of the system being modelled, variation is now increasingly becoming the computational modeller's companion.
+ 
+ However, exactly \emph{how} this variation is to be modelled is still uncertain. The answer depends on the exact question being asked: what system is being modelled, how its output is being assessed, and so forth. The answer depends further on the available resources, and the demands being made of those resources. Were resources infinite, a fully stochastic, molecular model would be perfect. However, not only are resources finite, such a model would be drastic overkill for most research questions regarding cardiac physiology. Instead, the particular model to be used depends on the research question being asked---it should be as complex as required, but it need not be any more so.
+ 
+ It is the main drive of this thesis to reproduce the experimental variation seen 
+ 
+ \subsection{Important Caveats}
+ \label{subsec:caveats}
+ It should be noted that, replacing a parameter set with a parameter space, in effect constructing a population of models based on a single framework, allows for a biophysically realistic method of reproducing physiological variation which remains computationally tractable. However, there are several key points that must be remembered that represent the limitations of this, and many related, approach.
  \begin{enumerate}
-  \item The underlying assumptions regarding the original model still apply. As such, the inaccurate assumptions are inherent, and the assumptions applied to generate a computationally tractable model are inherent in any derived models \citet{Noble2001, Quinn2013}.
+  \item The underlying assumptions regarding the original model still apply. As such, any inaccurate assumptions remain present in derived populations \citet{Noble2001, Quinn2013}.
   \item The populations derived using experimental data rely on these data remaining appropriate for the considered task. The populations used in this thesis are derived using `healthy' data. As such, without further adaptation, the populations are unsuitable for assessing some experimental situations, \eg{} where cardiac remodelling has occurred \citep{Walmsley2013}.
   \item Related to the point above is the fact that the model populations are united by the data used to create them. As such, if the data used include such differences as gender, the models cannot then be used to address specific questions regarding gender.
  \end{enumerate}
@@ -41,6 +49,67 @@
   \label{eq:paramSpace-projection}
  \end{equation}
  which returns a $1$D coordinate of $1\ldots{}N$, where $N$ is the total number of data points; the number of data points in each dimension is given by $N_i$.
+ 
+ \subsection{Computational Methods \& Tools}
+ \label{subsec:comp-methods}
+ \begin{itemize}
+  \item Model adaptation (CellML, C++, simulation time, etc.)
+  \item Nimrod
+  \item Rationale for varying only conductances: (i) assume that AP variability is mostly the product of such variation (ii) conductance parameters are the most poorly defined parameters within a computational model, and thus they represent the source of the greatest uncertainty within the model.
+  \item Rationale for $\pm30\%$ variation:
+  \begin{description}
+   \item Wanted to achieve balance between breadth of sweep and detail. While computational models have used large variation, the same extent of variation is not seen experimentally.
+   \item[\citet{Romero2009}] Previously used $\pm30\%$
+   \item[\citet{Fink2008}] $\pm8.57\%$, computational value
+   \item[\citet{Fulop2004}] Experimental data for \ica{}: time constant for recovery $\pm3.39\%$, density of peak \ica{} $\pm7/27\%$, time constant of inactivation $\pm4.10\%$, $\pm5.56\%$
+   \item[\citet{Iost1998}] Variation of time constants: $\pm23.87\%$, $\pm8.98\%$, $\pm12.89\%$, $\pm16.6\%$, $\pm17.79\%$
+   \item[\citet{Li1999}] Peak \ica{}(0.5 Hz): $\pm8.93\%$; Plateau \ica{}(0.5 Hz): $\pm17.6\%$; Peak \ica{}(2 Hz): $\pm8.1\%$; Plateau \ica{}(2 Hz): $\pm18.2\%$
+   \item[\citet{Szentadrassy2005}] See Table \ref{table:szentadrassy-results}
+   \item[\citet{Verkerk2005}] Female ventricular myocyte density = 129$\%$ male. Quasi-steady steate current (male) is $2.8\pm0.6$ pApF$^{-1}$, (female) is\ldots{}
+   \item[\citet{Virag2001}]
+   \item[\citet{Romero2011}]
+   \item[\citet{Sims2008}]
+  \end{description}
+ \end{itemize}
+ \begin{table}
+  \centering
+  \begin{tabular}{ccr@{$\pm$}lc}
+   Current					& Location	& \multicolumn{2}{c}{Value (pApF\super{-1})}	& Percentage Variation	\\
+   \hline
+   \hline
+   \multirow{2}{*}{\ito{}}			& Apex		& $29.6$&$5.7$					& $\pm19.3\%$		\\
+						& Base		& $16.5$&$4.4$					& $\pm26.6\%$		\\
+   \hline
+   \multirow{2}{*}{$I_\textnormal{Ks,peak}$}	& Apex		& $5.61$&$0.43$					& $\pm7.7\%$		\\
+						& Base		& $2.14$&$0.18$					& $\pm8.4\%$		\\
+   \multirow{2}{*}{$I_\textnormal{Ks,tail}$}	& Apex		& $1.65$&$0.21$					& $\pm12.7\%$		\\
+						& Base		& $0.85$&$0.19$					& $\pm22.4\%$		\\
+   \hline
+   \multirow{2}{*}{\ica{}}			& Apex		& $-5.85$&$0.76$				& $\pm13.0\%$		\\
+						& Base		& $-7.17$&$0.63$				& $\pm8.8\%$		\\
+  \end{tabular}
+  \caption[Summary of current density results from \citet{Szentadrassy2005}.]{A summary of the results for the current densities of basal and apical ventricular tissue in human and canine myocytes and tissue, obtained from \citet{Szentadrassy2005}.}
+  \label{table:szentadrassy-results}
+ \end{table}
+ 
+ \section{Effects of Parameter Variation}
+ \label{sec:param-effects}
+ Use dimensional stack images, etc., to explore the effect of variation of parameters within the explored parameter space. Highlight the effects demonstrated by just dimensional stacks, \eg{} relations between parameters being varied.
+ 
+ \section{Defining a Population of Models}
+ \label{sec:population}
+ Brief outline of following sections.
+ 
+ \subsection{Accuracy of Biomarkers in Defining Model Fit}
+ \label{subsec:model-fit}
+ Define different biomarkers to be tested, paying particular attention to NRMSD metrics. Present comparison between them
+ 
+ \subsection{Model Populations That Reproduce Experimental Variation}
+ \label{subsec:population-trends}
+ Explain how population is defined (using APD90 and APD50, and how those ranges are arrived at). Present data for which models are accepted as fitting experimental data, and what trends are evident in these populations, \eg{} which parameters are coupled and whatnot
+
+ 
+ % Variation in V_rest is poorly modelled, but we weren't looking at modelling that anyway...
 
  \biblio
  

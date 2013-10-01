@@ -1,45 +1,46 @@
-This is BibTeX, Version 0.99c (Web2C 7.5.6)
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: paramSpace.aux
 The style file: apalike.bst
 Database file #1: /users/philg/Documents/library.bib
-You've used 4 entries,
+You've used 14 entries,
             1935 wiz_defined-function locations,
-            505 strings with 4731 characters,
-and the built_in function-call counts, 1785 in all, are:
-= -- 173
-> -- 82
+            582 strings with 7794 characters,
+and the built_in function-call counts, 7066 in all, are:
+= -- 664
+> -- 432
 < -- 2
-+ -- 28
-- -- 28
-* -- 170
-:= -- 313
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 34
-chr.to.int$ -- 4
-cite$ -- 4
-duplicate$ -- 56
-empty$ -- 120
-format.name$ -- 36
-if$ -- 339
++ -- 156
+- -- 156
+* -- 709
+:= -- 1250
+add.period$ -- 42
+call.type$ -- 14
+change.case$ -- 148
+chr.to.int$ -- 14
+cite$ -- 14
+duplicate$ -- 196
+empty$ -- 413
+format.name$ -- 174
+if$ -- 1315
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 23
-num.names$ -- 12
-pop$ -- 24
+missing$ -- 14
+newline$ -- 73
+num.names$ -- 42
+pop$ -- 118
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 148
 quote$ -- 0
-skip$ -- 43
+skip$ -- 143
 stack$ -- 0
-substring$ -- 141
-swap$ -- 4
+substring$ -- 490
+swap$ -- 14
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
+type$ -- 84
 warning$ -- 0
-while$ -- 15
+while$ -- 55
 width$ -- 0
-write$ -- 54
+write$ -- 184

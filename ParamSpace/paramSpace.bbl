@@ -1,5 +1,32 @@
 \begin{thebibliography}{}
 
+\bibitem[Fink et~al., 2008]{Fink2008}
+Fink, M., Noble, D., Vir\'{a}g, L., Varr\'{o}, A., and Giles, W.~R. (2008).
+\newblock {Contributions of HERG K+ current to repolarization of the human
+  ventricular action potential.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 96(1-3):357--76.
+
+\bibitem[F\"{u}l\"{o}p et~al., 2004]{Fulop2004}
+F\"{u}l\"{o}p, L., B\'{a}ny\'{a}sz, T., Magyar, J., Szentandr\'{a}ssy, N.,
+  Varr\'{o}, A., and N\'{a}n\'{a}si, P.~P. (2004).
+\newblock {Reopening of L-type calcium channels in human ventricular myocytes
+  during applied epicardial action potentials.}
+\newblock {\em Acta Physiologica Scandinavica}, 180(1):39--47.
+
+\bibitem[Iost et~al., 1998]{Iost1998}
+Iost, N., Vir\'{a}g, L., Opincariu, M., Sz\'{e}csi, J., Varr\'{o}, A., and
+  Papp, J.~G. (1998).
+\newblock {Delayed rectifier potassium current in undiseased human ventricular
+  myocytes.}
+\newblock {\em Cardiovascular Research}, 40(3):508--15.
+
+\bibitem[Li et~al., 1999]{Li1999}
+Li, G.-R., Yang, B., Feng, J., Bosch, R.~F., Carrier, M., and Nattel, S.
+  (1999).
+\newblock {Transmembrane ICa contributes to rate-dependent changes of action
+  potentials in human ventricular myocytes.}
+\newblock {\em American Journal of Physiology}, 276(1 Pt 2):H98--H106.
+
 \bibitem[Noble and Rudy, 2001]{Noble2001}
 Noble, D. and Rudy, Y. (2001).
 \newblock {Models of cardiac ventricular action potentials: iterative
@@ -13,11 +40,54 @@ Quinn, T.~A. and Kohl, P. (2013).
   for cardiac mechano-electric structure-function studies.}
 \newblock {\em Cardiovascular Research}, 97(4):601--11.
 
+\bibitem[Romero et~al., 2011]{Romero2011}
+Romero, L., Carbonell, B., Tr\'{e}nor, B., Rodr\'{\i}guez, B., S\'{a}iz, J.,
+  and Ferrero, J.~M. (2011).
+\newblock {Systematic characterization of the ionic basis of rabbit cellular
+  electrophysiology using two ventricular models.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 107(1):60--73.
+
+\bibitem[Romero et~al., 2009]{Romero2009}
+Romero, L., Pueyo, E., Fink, M., and Rodr\'{\i}guez, B. (2009).
+\newblock {Impact of ionic current variability on human ventricular cellular
+  electrophysiology.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 297(4):H1436--45.
+
+\bibitem[Sims et~al., 2008]{Sims2008}
+Sims, C., Reisenweber, S., Viswanathan, P.~C., Choi, B.-R., Walker, W.~H., and
+  Salama, G. (2008).
+\newblock {Sex, age, and regional differences in L-type calcium current are
+  important determinants of arrhythmia phenotype in rabbit hearts with
+  drug-induced long QT type 2.}
+\newblock {\em Circulation Research}, 102(9):e86--100.
+
 \bibitem[Syed et~al., 2005]{Syed2005}
 Syed, Z., Vigmond, E., Nattel, S., and Leon, L.~J. (2005).
 \newblock {Atrial cell action potential parameter fitting using genetic
   algorithms.}
 \newblock {\em Medical \& Biological Engineering \& Computing}, 43(5):561--71.
+
+\bibitem[Szentandr\'{a}ssy et~al., 2005]{Szentadrassy2005}
+Szentandr\'{a}ssy, N., Banyasz, T., Biro, T., Szabo, G., Toth, B.~I., Magyar,
+  J., Lazar, J., Varr\'{o}, A., Kovacs, L., and Nanasi, P.~P. (2005).
+\newblock {Apico-basal inhomogeneity in distribution of ion channels in canine
+  and human ventricular myocardium.}
+\newblock {\em Cardiovascular Research}, 65(4):851--60.
+
+\bibitem[Verkerk et~al., 2005]{Verkerk2005}
+Verkerk, A.~O., Wilders, R., Veldkamp, M.~W., de~Geringel, W., Kirkels, J.~H.,
+  and Tan, H.~L. (2005).
+\newblock {Gender disparities in cardiac cellular electrophysiology and
+  arrhythmia susceptibility in human failing ventricular myocytes.}
+\newblock {\em International Heart Journal}, 46(6):1105--18.
+
+\bibitem[Vir\'{a}g et~al., 2001]{Virag2001}
+Vir\'{a}g, L., Iost, N., Opincariu, M., Szolnoky, J., Sz\'{e}csi, J.,
+  Bog\'{a}ts, G., Szenohradszky, P., Varr\'{o}, A., and Papp, J.~G. (2001).
+\newblock {The slow component of the delayed rectifier potassium current in
+  undiseased human ventricular myocytes.}
+\newblock {\em Cardiovascular Research}, 49(4):790--7.
 
 \bibitem[Walmsley et~al., 2013]{Walmsley2013}
 Walmsley, J., Rodr\'{\i}guez, J.~F., Mirams, G.~R., Burrage, K., Efimov, I.~R.,
