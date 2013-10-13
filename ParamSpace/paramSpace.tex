@@ -17,12 +17,19 @@
  \end{quote}
  
  \section{Reproduction of Experimental Variation Using Parameter Variation}
- \label{sec:rationale}
+ \label{sec:paramSpace-rationale}
  As was elaborated on in \S\ref{sec:param-var}, variation is a constant companion in the experimentalist's world. As computational models of biological processes become more complex, with advancing technology allowing us to discard earlier assumptions made for the sake of computational tractability, and further advances in experimental results allow greater understanding of the system being modelled, variation is now increasingly becoming the computational modeller's companion.
  
- However, exactly \emph{how} this variation is to be modelled is still uncertain. The answer depends on the exact question being asked: what system is being modelled, how its output is being assessed, and so forth. The answer depends further on the available resources, and the demands being made of those resources. Were resources infinite, a fully stochastic, molecular model would be perfect. However, not only are resources finite, such a model would be drastic overkill for most research questions regarding cardiac physiology. Instead, the particular model to be used depends on the research question being asked---it should be as complex as required, but it need not be any more so.
+ However, exactly \emph{how} this variation is to be modelled is still uncertain. The answer depends on the exact question being asked: what system is being modelled, how its output is being assessed, and so forth. The answer depends further on the available resources, and the demands being made of those resources. Were resources infinite, a fully stochastic, molecular model would be perfect. However, not only are resources finite, such a model would be drastic overkill for most research questions regarding cardiac physiology. Instead, much like the research question being posed drives the model choice, it also drives the methodology for reproduction of variability, if it is required---it should be as complex as required, but it need not be any more so.
  
- It is the main drive of this thesis to reproduce the experimental variation seen 
+ It is the main drive of this thesis to reproduce the observed experimental variation using a method that is
+ \begin{itemize}
+  \item biophysically detailed,
+  \item computationally tractable, and
+  \item easily scalable.
+ \end{itemize}
+ To this end, we utilise the population level approach used previously in neuron modelling \citep{Marder2011}.
+ % Easily scalable: not only simple methodologically to introduce variation in extra parameters, but simple to apply the methodology to multiple alternative models.
  
  \subsection{Important Caveats}
  \label{subsec:caveats}
@@ -96,7 +103,7 @@
  \label{sec:param-effects}
  Use dimensional stack images, etc., to explore the effect of variation of parameters within the explored parameter space. Highlight the effects demonstrated by just dimensional stacks, \eg{} relations between parameters being varied.
  
- \section{Defining a Population of Models}
+ \section{Defining a Population of Models to Reproduce Physiological Variation}
  \label{sec:population}
  Brief outline of following sections.
  
@@ -104,10 +111,9 @@
  \label{subsec:model-fit}
  Define different biomarkers to be tested, paying particular attention to NRMSD metrics. Present comparison between them
  
- \subsection{Model Populations That Reproduce Experimental Variation}
+ \subsection{Variation within the Population}
  \label{subsec:population-trends}
- Explain how population is defined (using APD90 and APD50, and how those ranges are arrived at). Present data for which models are accepted as fitting experimental data, and what trends are evident in these populations, \eg{} which parameters are coupled and whatnot
-
+ Explain how population is defined (using APD90 and APD50, and how those ranges are arrived at). Present data for which models are accepted as fitting experimental data, and what trends are evident in these populations, \eg{} which parameters are coupled and whatnot. Mention connectivity of parameter space.
  
  % Variation in V_rest is poorly modelled, but we weren't looking at modelling that anyway...
 
