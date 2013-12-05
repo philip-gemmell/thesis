@@ -1,0 +1,71 @@
+\documentclass[../thesis-main.tex]{subfiles}
+
+\begin{document}
+
+\chapter{Isch\ae{}mic Variation}
+\label{ch:ischaemia}
+
+\begin{aquote}{Source}
+  {\fontencoding{T1}\fontfamily{pzc}\selectfont
+   Quotation
+  }
+\end{aquote}
+\rule{\linewidth}{0.25mm}
+
+\begin{quote}
+ \emph{This chapter presents insights into the isch\ae{}mic parameter space. A brief introduction is given to the work, and the justification behind the methodology used here. The changes of the parameter space defined in the previous chapter are discussed, followed by an analysis of the effects of the isch\ae{}mic parameter space itself. The possible consequences of model failure are discussed.}
+\end{quote}
+
+\section{Variation Within Isch\ae{}mia}
+\label{sec:ischaemia-rationale}
+As has previously been commented upon, computational modelling of variation is promising new insights into the causes and consequences of variation. Coupled to this progress in computational modelling are the benefits when investigating isch\ae{}mia: due to the rapidly changing nature of the isch\ae{}mic milieu, comprehensive experimental validation of hypotheses is difficult. Computational modelling allows a rapid, flexible manner with which to test hypotheses regarding isch\ae{}mia. This work presents the first time, to the author's knowledge, where a comprehensive model population approach has been applied to the isch\ae{}mic environment.
+
+The inclusion of variation in isch\ae{}mia modelling is of potentially key importance. It is already known through significant previous literature (see \S\ref{sec:disease} for an actual literature review) that isch\ae{}mia provides an arrhythmogenic sustrate. It has also been demonstrated that arrhythmogenesis is favoured in heterogeneic substrate---indeed, \citet{Tice2007} demonstrated that the heterogeneity introduced by changes from the central isch\ae{}mic zone, to the border zone, to normal tissue, can provide the substrate for arrhythmias. It based on these observations that the primary hypothesis being tested here is: does the application of isch\ae{}mic conditions lead to an increase in heterogeneity within the population that could, in tissue, be arrhythmogenic? To put it another way, one could ask whether the benign variation that is being modelled by the population then transitions to malign variation under isch\ae{}mic conditons.
+
+A secondary goal of this section is to examine the effects of parameter variation within the isch\ae{}mic environment on the population. These two goals can be united under a single study, but for ease of analysis they will be treated separately initially, to make it simpler to tease out the causative agents in each cause. To this end, it can be considered that the primary goal examines the effect of variation in \emph{cell parameters}, and the secondary goal investigates the effect of variation in \emph{environment parameters}.
+
+It should be noted that it would be relatively simple to combine the investigations by defining the accepted degree of variation in the environment parameters at each point during isch\ae{}mia, and then applying that degree of variation to a given population. However, such an approach runs the risk of simplifying the isch\ae{}mic environment too much. In this chapter, it must be remembered that the term '$x$ minutes post-occlusion (PO)' is used as short-hand, and it is wise to consider the data presented with such a label in terms of the underlying conditions instead; the corresponding values are given in Table~\ref{table:isch-params}.
+\begin{table}
+ \centering
+ \begin{tabular}{c|cccccc}
+  Time (min PO) & 0 & 2 & 4 & 6 & 8 & 10 \\
+  \hline
+  \hline
+  \ko{} (mM) & 5.40 & 7.72 & 10.04 & 12.36 & 14.68 & 17.00 \\
+  \fkatp{} ($\%$) & 0.00 & 0.16 & 0.32 & 0.48 & 0.64 & 0.80 \\
+  \finhib{} ($\%$) & 0 & 5 & 10 & 15 & 20 & 25 \\
+  \fna{} ($\%$) & 0 & 6 & 12 & 18 & 24 & 30
+ \end{tabular}
+ \caption[Isch\ae{}mic environment parameters]{Table showing what parameters are used in simulation to approximate a given time post-occlusion. \fkatp{} represents the degree of activation of \ikatp{}, \finhib{} represents the degree of inhibition applied to \ina{} and \ica{}, and \fna{} represents the percentage increase/decrease in \nai{} and \inak{}, respectively.}
+ \label{table:optimum-order}
+\end{table}
+% Introduction. Outline the reasons for using model populations to investigate isch\ae{}mia (benign variation leading to malign variation). Mention limitations of current study re: cell \emph{versus} tissue.
+
+% It must be remembered that assigning values to isch\ae{}mic parameters (\eg{} \fkatp{}, \finhib{}), and then applying the term `$x$ min post-occlusion' is used here for brevity. % Expand this point
+
+% Mention decrease of cell coupling in ischæmia, and thus the likely increased sensitivity of the population to changes within it.
+
+\subsection{Isch\ae{}mic Biomarkers}
+\label{subsec:isch-biomarkers}
+Outline different biomarkers being measured, and the utility of each one. Describe calculation of ERP, with justification. Mention link between dV/dt and conduction velocity, with references. Explore utility of APD90, ERP and PRR.
+
+\section{Population Response to Isch\ae{}mia}
+\label{sec:isch-population}
+Results---take from isch\ae{}mia paper.
+
+\subsection{APD\sub{90}}
+\label{subsec:isch-apd90-response}
+
+\subsection{ERP and PRR}
+\label{subsec:isch-erpprr-response}
+
+\subsection{Other Biomarkers}
+\label{subsec:isch-other-response}
+
+\section{Effects within Isch\ae{}mic Parameter Space}
+\label{sec:isch-space}
+
+\section{Model Failure During Isch\ae{}mia}
+\label{sec:isch-modelFailure}
+
+\end{document}

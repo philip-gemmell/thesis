@@ -14,11 +14,11 @@
 \usepackage{algorithm}
 \usepackage{algorithmic}
 \usepackage{lmodern}			% Makes the fonts a bit nicer
-% \usepackage[urw-garamond]{mathdesign}	% Imports Garamond font
 \usepackage[T1]{fontenc}		% Specifies encoding font
-\usepackage{garamond}
-\renewcommand{\rmdefault}{ggm}\normalfont
-% \usepackage{textcomp}
+% \usepackage{garamond}
+% \renewcommand{\rmdefault}{ggm}\normalfont
+\usepackage{ebgaramond}
+\usepackage{titlesec}			% Allows editting of the title commands (to make up for Garamond not having a bond font for subsubsections)
 
 % Figure & Table Packages
 \usepackage{color,graphicx}
@@ -28,6 +28,8 @@
 \usepackage{subcaption}		% Allows subcaptions within images
 \usepackage{sidecap}		% Allows side-captions for narrow images
 
+% Define graphics paths to allow subfile compilation
+\graphicspath{{LitReview/}{Appendices/}{TitlePage/}{CompMethods/}{ParamSpace/}{ischaemia/}}
 \DeclareGraphicsExtensions{.pdf,.png,.jpg}
 
 % Formatting Packages
@@ -42,7 +44,6 @@
 \usepackage[retainorgcmds]{IEEEtrantools}	% Equation formatting tools
 \usepackage{mathrsfs}				% Maths font package
 % \usepackage{siunitx}
-\usepackage[retainorgcmds]{IEEEtrantools}
 
 % Chapter heading adjustments
 \usepackage{fix-cm}
@@ -65,12 +66,15 @@
 % Define commands to allow Bibtex to work across subfiles
 \def \biblio {\bibliographystyle{apalike}\bibliography{/users/philg/Documents/library}}
 
-% Define graphics paths to allow subfile compilation
-\graphicspath{{LitReview/}{Appendices/}{TitlePage/}}
+% Enable colour-coded code inclusion, and change listing command to more thesis specific type
+\usepackage[chapter]{minted}
+\renewcommand\listingscaption{Code Excerpt}
+\renewcommand\listoflistingscaption{List of Code Excerpts}
 
 % Set out paper specific commands
 % ===============================
 
+% Currents
 \newcommand{\ito}{$I_{\textnormal{to}}$}
 \newcommand{\ica}{$I_{\textnormal{Ca,L}}$}
 \newcommand{\ikr}{$I_{\textnormal{Kr}}$}
@@ -91,6 +95,7 @@
 \newcommand{\ikatp}{$I_\textnormal{K-ATP}$}
 \newcommand{\ik}{$I_\textnormal{K}$}
 
+% Conductances
 \newcommand{\gto}{$g_{\textnormal{to}}$}
 \newcommand{\gca}{$g_{\textnormal{Ca,L}}$}
 \newcommand{\gkr}{$g_{\textnormal{Kr}}$}
@@ -99,26 +104,39 @@
 \newcommand{\gnak}{$g_{\textnormal{NaK}}$}
 \newcommand{\gkatp}{$g_{\textnormal{K-ATP}}$}
 
-\newcommand{\aprms}{AP\sub{RMS}}
-\newcommand{\drms}{$\Delta_\textnormal{RMS}$}
-\newcommand{\dvdt}{(d$V_m$/dt)$_\textnormal{max}$}
+% Fractional changes
+\newcommand{\fkatp}{$f_{\textnormal{K-ATP}}$}
+\newcommand{\finhib}{$f_{\textnormal{inhib}}$}
+\newcommand{\fna}{$f_{\textnormal{Na}}$}
 
+% AP Biomarkers
+\newcommand{\aprms}{AP\sub{NRMSD}}
+\newcommand{\drms}{$\Delta_\textnormal{RMS}$}
+\newcommand{\dvdt}{(d$V_m$/dt)}
+\newcommand{\dvdtmax}{(d$V_m$/dt)$_\textnormal{max}$}
+\newcommand{\vrest}{$V_\textnormal{rest}$}
+\newcommand{\vmax}{$V_\textnormal{max}$}
+\newcommand{\vplat}{$V_\textnormal{plat}$}
+
+\newcommand{\cai}{[\ca]$_\textnormal{i}$}
+\newcommand{\carms}{$\textnormal{Ca}^{2+}_\textnormal{NRMSD}$}
+\newcommand{\casys}{[\ca]$_\textnormal{i}^\textnormal{sys}$}
+\newcommand{\cadia}{[\ca]$_\textnormal{i}^\textnormal{dia}$}
+
+% Ions
 \renewcommand{\ca}{Ca$^{2+}$}
 \newcommand{\K}{K$^+$}
 \newcommand{\na}{Na$^+$}
 \newcommand{\cl}{Cl$^-$}
 \newcommand{\mg}{Mg$^{2+}$}
 
+% Ion Concentrations
 \newcommand{\nai}{[\na]$_\textnormal{i}$}
+\newcommand{\nao}{[\na]$_\textnormal{o}$}
 \newcommand{\ki}{[\K]$_\textnormal{i}$}
 \newcommand{\ko}{[\K]$_\textnormal{o}$}
 
-\newcommand{\catrans}{$\Delta$[\ca]\sub{i}}
-\newcommand{\cai}{[\ca]$_\textnormal{i}$}
-\newcommand{\carms}{$\textnormal{Ca}^{2+}_\textnormal{RMS}$}
-\newcommand{\casys}{[\ca]$_\textnormal{i}^\textnormal{sys}$}
-\newcommand{\cadia}{[\ca]$_\textnormal{i}^\textnormal{dia}$}
-
+% Text formatting commands
 \newcommand{\sub}[1]{$_\textnormal{#1}$}
 \newcommand{\super}[1]{$^\textnormal{#1}$}
 \newcommand{\diff}[1]{\frac{\textnormal{d}{#1}}{\textnormal{d}t}}

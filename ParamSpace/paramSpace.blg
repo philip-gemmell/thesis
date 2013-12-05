@@ -1,46 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: paramSpace.aux
 The style file: apalike.bst
 Database file #1: /users/philg/Documents/library.bib
-You've used 14 entries,
+Warning--can't use both volume and number fields in Sobie2011
+You've used 39 entries,
             1935 wiz_defined-function locations,
-            582 strings with 7794 characters,
-and the built_in function-call counts, 7066 in all, are:
-= -- 664
-> -- 432
-< -- 2
-+ -- 156
-- -- 156
-* -- 709
-:= -- 1250
-add.period$ -- 42
-call.type$ -- 14
-change.case$ -- 148
-chr.to.int$ -- 14
-cite$ -- 14
-duplicate$ -- 196
-empty$ -- 413
-format.name$ -- 174
-if$ -- 1315
+            746 strings with 16237 characters,
+and the built_in function-call counts, 21679 in all, are:
+= -- 1992
+> -- 1486
+< -- 12
++ -- 548
+- -- 548
+* -- 2190
+:= -- 3826
+add.period$ -- 117
+call.type$ -- 39
+change.case$ -- 469
+chr.to.int$ -- 39
+cite$ -- 40
+duplicate$ -- 575
+empty$ -- 1171
+format.name$ -- 601
+if$ -- 4032
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 73
-num.names$ -- 42
-pop$ -- 118
+missing$ -- 39
+newline$ -- 198
+num.names$ -- 117
+pop$ -- 394
 preamble$ -- 1
-purify$ -- 148
+purify$ -- 469
 quote$ -- 0
-skip$ -- 143
+skip$ -- 429
 stack$ -- 0
-substring$ -- 490
-swap$ -- 14
-text.length$ -- 0
+substring$ -- 1381
+swap$ -- 64
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 84
-warning$ -- 0
-while$ -- 55
+type$ -- 234
+warning$ -- 1
+while$ -- 152
 width$ -- 0
-write$ -- 184
+write$ -- 510
+(There was 1 warning)

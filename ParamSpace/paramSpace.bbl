@@ -1,10 +1,42 @@
 \begin{thebibliography}{}
 
-\bibitem[Fink et~al., 2008]{Fink2008}
-Fink, M., Noble, D., Vir\'{a}g, L., Varr\'{o}, A., and Giles, W.~R. (2008).
-\newblock {Contributions of HERG K+ current to repolarization of the human
-  ventricular action potential.}
-\newblock {\em Progress in Biophysics and Molecular Biology}, 96(1-3):357--76.
+\bibitem[Biagetti and Quinteiro, 2006]{Biagetti2006}
+Biagetti, M.~O. and Quinteiro, R.~A. (2006).
+\newblock {Gender differences in electrical remodeling and susceptibility to
+  ventricular arrhythmias in rabbits with left ventricular hypertrophy.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 3(7):832--9.
+
+\bibitem[Britton et~al., 2013]{Britton2013}
+Britton, O.~J., Bueno-Orovio, A., {Van Ammel}, K., Lu, H.~R., Towart, R.,
+  Gallacher, D.~J., and Rodr\'{\i}guez, B. (2013).
+\newblock {Experimentally calibrated population of models predicts and explains
+  intersubject variability in cardiac cellular electrophysiology.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}.
+
+\bibitem[Chen et~al., 2006]{Chen2006}
+Chen, X., Cordes, J.~S., Bradley, J.~A., Sun, Z., and Zhou, J. (2006).
+\newblock {Use of arterially perfused rabbit ventricular wedge in predicting
+  arrhythmogenic potentials of drugs.}
+\newblock {\em Journal of Pharmacological and Toxicological Methods},
+  54(3):261--72.
+
+\bibitem[Davies et~al., 2012]{Davies2012}
+Davies, M.~R., Mistry, H.~B., Hussein, L., Pollard, C.~E., Valentin, J.-P.,
+  Swinton, J., and Abi-Gerges, N. (2012).
+\newblock {An in silico canine cardiac midmyocardial action potential duration
+  model as a tool for early drug safety assessment.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 302(7):H1466--80.
+
+\bibitem[Eckardt et~al., 1998]{Eckardt1998}
+Eckardt, L., Haverkamp, W., G\"{o}ttker, U., Madeja, M., Johna, R., Borggrefe,
+  M., and Breithardt, G. (1998).
+\newblock {Divergent effect of acute ventricular dilatation on the
+  electrophysiologic characteristics of d,l-sotalol and flecainide in the
+  isolated rabbit heart.}
+\newblock {\em Journal of Cardiovascular Electrophysiology}, 9(4):366--83.
 
 \bibitem[F\"{u}l\"{o}p et~al., 2004]{Fulop2004}
 F\"{u}l\"{o}p, L., B\'{a}ny\'{a}sz, T., Magyar, J., Szentandr\'{a}ssy, N.,
@@ -13,12 +45,63 @@ F\"{u}l\"{o}p, L., B\'{a}ny\'{a}sz, T., Magyar, J., Szentandr\'{a}ssy, N.,
   during applied epicardial action potentials.}
 \newblock {\em Acta Physiologica Scandinavica}, 180(1):39--47.
 
+\bibitem[Gemmell et~al., 2010]{Gemmell2010a}
+Gemmell, P., Burrage, K., Rodr\'{\i}guez, B., and Quinn, T.~A. (2010).
+\newblock {Exploring the parameter space of a rabbit ventricular action
+  potential model to investigate the effect of variation on action potential
+  and calcium transients.}
+\newblock {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, 2010:2662--5.
+
+\bibitem[Goldhaber et~al., 2005]{Goldhaber2005}
+Goldhaber, J.~I., Xie, L.-H., Duong, T., Motter, C., Khuu, K., and Weiss, J.~N.
+  (2005).
+\newblock {Action potential duration restitution and alternans in rabbit
+  ventricular myocytes: the key role of intracellular calcium cycling.}
+\newblock {\em Circulation Research}, 96(4):459--66.
+
+\bibitem[Hashambhoy et~al., 2011]{Hashambhoy2011}
+Hashambhoy, Y.~L., Winslow, R.~L., and Greenstein, J.~L. (2011).
+\newblock {CaMKII-dependent activation of late INa contributes to cellular
+  arrhythmia in a model of the cardiac myocyte.}
+\newblock {\em Conference proceedings : ... Annual International Conference of
+  the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in
+  Medicine and Biology Society. Conference}, 2011:4665--8.
+
+\bibitem[Heijman et~al., 2013]{Heijman2013}
+Heijman, J., Zaza, A., Johnson, D.~M., Rudy, Y., Peeters, R. L.~M., Volders, P.
+  G.~A., and Westra, R.~L. (2013).
+\newblock {Determinants of Beat-to-Beat Variability of Repolarization Duration
+  in the Canine Ventricular Myocyte: A Computational Analysis.}
+\newblock {\em PLoS Computational Biology}, 9(8):e1003202.
+
 \bibitem[Iost et~al., 1998]{Iost1998}
 Iost, N., Vir\'{a}g, L., Opincariu, M., Sz\'{e}csi, J., Varr\'{o}, A., and
   Papp, J.~G. (1998).
 \newblock {Delayed rectifier potassium current in undiseased human ventricular
   myocytes.}
 \newblock {\em Cardiovascular Research}, 40(3):508--15.
+
+\bibitem[Jung et~al., 2011]{Jung2011}
+Jung, B.-C., Lee, S.-H., Cho, Y.-K., Park, H.-S., Kim, Y.-N., Lee, Y.-S., and
+  Shin, D.-G. (2011).
+\newblock {Role of the alternans of action potential duration and
+  aconitine-induced arrhythmias in isolated rabbit hearts.}
+\newblock {\em Journal of Korean Medical Science}, 26(12):1576--81.
+
+\bibitem[Kirchhof et~al., 2003]{Kirchhof2003}
+Kirchhof, P., Degen, H., Franz, M.~R., Eckardt, L., Fabritz, L., Milberg, P.,
+  L\"{a}er, S., Neumann, J., Breithardt, G., and Haverkamp, W. (2003).
+\newblock {Amiodarone-induced postrepolarization refractoriness suppresses
+  induction of ventricular fibrillation}.
+\newblock {\em Journal of Pharmacology and Experimental Therapeutics},
+  305(1):257--263.
+
+\bibitem[Kurz et~al., 1993]{Kurz1993}
+Kurz, R.~W., Mohabir, R., Ren, X.~L., and Franz, M.~R. (1993).
+\newblock {Ischaemia induced alternans of action potential duration in the
+  intact-heart: dependence on coronary flow, preload and cycle length.}
+\newblock {\em European Heart Journal}, 14(10):1410--20.
 
 \bibitem[Li et~al., 1999]{Li1999}
 Li, G.-R., Yang, B., Feng, J., Bosch, R.~F., Carrier, M., and Nattel, S.
@@ -27,12 +110,59 @@ Li, G.-R., Yang, B., Feng, J., Bosch, R.~F., Carrier, M., and Nattel, S.
   potentials in human ventricular myocytes.}
 \newblock {\em American Journal of Physiology}, 276(1 Pt 2):H98--H106.
 
+\bibitem[Marder and Taylor, 2011]{Marder2011}
+Marder, E. and Taylor, A.~L. (2011).
+\newblock {Multiple models to capture the variability in biological neurons and
+  networks.}
+\newblock {\em Nature Neuroscience}, 14(2):133--8.
+
+\bibitem[McIntosh et~al., 2000]{McIntosh2000}
+McIntosh, M.~A., Cobbe, S.~M., and Smith, G.~L. (2000).
+\newblock {Heterogeneous changes in action potential and intracellular Ca2+ in
+  left ventricular myocyte sub-types from rabbits with heart failure}.
+\newblock {\em Cardiovascular Research}, 45(2):397--409.
+
+\bibitem[Mirams et~al., 2013]{Mirams2013}
+Mirams, G.~R., Arthurs, C.~J., Bernabeu, M.~O., Bordas, R., Cooper, J.,
+  Corrias, A., Davit, Y., Dunn, S.-J., Fletcher, A.~G., Harvey, D.~G., Marsh,
+  M.~E., Osborne, J.~M., Pathmanathan, P., Pitt-Francis, J., Southern, J.,
+  Zemzemi, N., and Gavaghan, D.~J. (2013).
+\newblock {Chaste: an open source C++ library for computational physiology and
+  biology.}
+\newblock {\em PLoS Computational Biology}, 9(3):e1002970.
+
 \bibitem[Noble and Rudy, 2001]{Noble2001}
 Noble, D. and Rudy, Y. (2001).
 \newblock {Models of cardiac ventricular action potentials: iterative
   interaction between experiment and simulation}.
 \newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
   Physical and Engineering Sciences}, 359(1783):1127--1142.
+
+\bibitem[Pueyo et~al., 2011]{Pueyo2011}
+Pueyo, E., Corrias, A., Vir\'{a}g, L., Jost, N., Sz\'{e}l, T., Varr\'{o}, A.,
+  Szentandr\'{a}ssy, N., N\'{a}n\'{a}si, P.~P., Burrage, K., and
+  Rodr\'{\i}guez, B. (2011).
+\newblock {A multiscale investigation of repolarization variability and its
+  role in cardiac arrhythmogenesis.}
+\newblock {\em Biophysical Journal}, 101(12):2892--902.
+
+\bibitem[Quinn et~al., 2011]{Quinn2011}
+Quinn, T.~A., Granite, S., Allessie, M.~A., Antzelevitch, C., Bollensdorff, C.,
+  Bub, G., Burton, R. A.~B., Cerbai, E., Chen, P.-S., Delmar, M., DiFrancesco,
+  D., Earm, Y.~E., Efimov, I.~R., Egger, M., Entcheva, E., Fink, M.,
+  Fischmeister, R., Franz, M.~R., Garny, A., Giles, W.~R., Hannes, T., Harding,
+  S.~E., Hunter, P.~J., Iribe, G., Jalife, J., Johnson, C.~R., Kass, R.~S.,
+  Kodama, I., Koren, G., Lord, P., Markhasin, V.~S., Matsuoka, S., McCulloch,
+  A.~D., Mirams, G.~R., Morley, G.~E., Nattel, S., Noble, D., Olesen, S.~P.,
+  Panfilov, A.~V., Trayanova, N.~A., Ravens, U., Richard, S., Rosenbaum, D.~S.,
+  Rudy, Y., Sachs, F., Sachse, F.~B., Saint, D.~A., Schotten, U., Solovyova,
+  O., Taggart, P., Tung, L., Varr\'{o}, A., Volders, P. G.~A., Wang, K., Weiss,
+  J.~N., Wettwer, E., White, E., Wilders, R., Winslow, R.~L., and Kohl, P.
+  (2011).
+\newblock {Minimum Information about a Cardiac Electrophysiology Experiment
+  (MICEE): standardised reporting for model reproducibility, interoperability,
+  and data sharing.}
+\newblock {\em Progress in Biophysics and Molecular Biology}, 107(1):4--10.
 
 \bibitem[Quinn and Kohl, 2013]{Quinn2013}
 Quinn, T.~A. and Kohl, P. (2013).
@@ -54,6 +184,28 @@ Romero, L., Pueyo, E., Fink, M., and Rodr\'{\i}guez, B. (2009).
 \newblock {\em American Journal of Physiology - Heart and Circulatory
   Physiology}, 297(4):H1436--45.
 
+\bibitem[Sarkar and Sobie, 2010]{Sarkar2010}
+Sarkar, A.~X. and Sobie, E.~A. (2010).
+\newblock {Regression analysis for constraining free parameters in
+  electrophysiological models of cardiac cells.}
+\newblock {\em PLoS Computational Biology}, 6(9):e1000914.
+
+\bibitem[Sarkar and Sobie, 2011]{Sarkar2011}
+Sarkar, A.~X. and Sobie, E.~A. (2011).
+\newblock {Quantification of repolarization reserve to understand interpatient
+  variability in the response to proarrhythmic drugs: a computational
+  analysis.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 8(11):1749--55.
+
+\bibitem[Sato et~al., 2009]{Sato2009}
+Sato, D., Xie, L.-H., Sovari, A.~A., Tran, D.~X., Morita, N., Xie, F.,
+  Karagueuzian, H., Garfinkel, A., Weiss, J.~N., and Qu, Z. (2009).
+\newblock {Synchronization of chaotic early afterdepolarizations in the genesis
+  of cardiac arrhythmias.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 106(9):2983--8.
+
 \bibitem[Sims et~al., 2008]{Sims2008}
 Sims, C., Reisenweber, S., Viswanathan, P.~C., Choi, B.-R., Walker, W.~H., and
   Salama, G. (2008).
@@ -61,6 +213,19 @@ Sims, C., Reisenweber, S., Viswanathan, P.~C., Choi, B.-R., Walker, W.~H., and
   important determinants of arrhythmia phenotype in rabbit hearts with
   drug-induced long QT type 2.}
 \newblock {\em Circulation Research}, 102(9):e86--100.
+
+\bibitem[Sobie, 2009]{Sobie2009}
+Sobie, E.~A. (2009).
+\newblock {Parameter sensitivity analysis in electrophysiological models using
+  multivariable regression.}
+\newblock {\em Biophysical Journal}, 96(4):1264--74.
+
+\bibitem[Sobie and Sarkar, 2011]{Sobie2011}
+Sobie, E.~A. and Sarkar, A.~X. (2011).
+\newblock {Regression methods for parameter sensitivity analysis: applications
+  to cardiac arrhythmia mechanisms.}
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, volume 2011, pages 4657--60.
 
 \bibitem[Syed et~al., 2005]{Syed2005}
 Syed, Z., Vigmond, E., Nattel, S., and Leon, L.~J. (2005).
@@ -75,6 +240,20 @@ Szentandr\'{a}ssy, N., Banyasz, T., Biro, T., Szabo, G., Toth, B.~I., Magyar,
   and human ventricular myocardium.}
 \newblock {\em Cardiovascular Research}, 65(4):851--60.
 
+\bibitem[Szigligeti et~al., 1996]{Szigligeti1996}
+Szigligeti, P., Pankucsi, C., B\'{a}ny\'{a}sz, T., Varr\'{o}, A., and
+  N\'{a}n\'{a}si, P.~P. (1996).
+\newblock {Action potential duration and force-frequency relationship in
+  isolated rabbit, guinea pig and rat cardiac muscle.}
+\newblock {\em Journal of Comparative Physiology. B, Biochemical, Systemic, and
+  Environmental Physiology}, 166(2):150--5.
+
+\bibitem[Tanskanen et~al., 2005]{Tanskanen2005}
+Tanskanen, A.~J., Greenstein, J.~L., O'Rourke, B., and Winslow, R.~L. (2005).
+\newblock {The role of stochastic and modal gating of cardiac L-type Ca2+
+  channels on early after-depolarizations.}
+\newblock {\em Biophysical Journal}, 88(1):85--95.
+
 \bibitem[Verkerk et~al., 2005]{Verkerk2005}
 Verkerk, A.~O., Wilders, R., Veldkamp, M.~W., de~Geringel, W., Kirkels, J.~H.,
   and Tan, H.~L. (2005).
@@ -82,12 +261,13 @@ Verkerk, A.~O., Wilders, R., Veldkamp, M.~W., de~Geringel, W., Kirkels, J.~H.,
   arrhythmia susceptibility in human failing ventricular myocytes.}
 \newblock {\em International Heart Journal}, 46(6):1105--18.
 
-\bibitem[Vir\'{a}g et~al., 2001]{Virag2001}
-Vir\'{a}g, L., Iost, N., Opincariu, M., Szolnoky, J., Sz\'{e}csi, J.,
-  Bog\'{a}ts, G., Szenohradszky, P., Varr\'{o}, A., and Papp, J.~G. (2001).
-\newblock {The slow component of the delayed rectifier potassium current in
-  undiseased human ventricular myocytes.}
-\newblock {\em Cardiovascular Research}, 49(4):790--7.
+\bibitem[Walmsley et~al., 2010]{Walmsley2010}
+Walmsley, J., Mirams, G.~R., Bahoshy, M., Bollensdorff, C., Rodr\'{\i}guez, B.,
+  and Burrage, K. (2010).
+\newblock {Phenomenological modeling of cell-to-cell and beat-to-beat
+  variability in isolated Guinea Pig ventricular myocytes.}
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, volume 2010, pages 1457--60.
 
 \bibitem[Walmsley et~al., 2013]{Walmsley2013}
 Walmsley, J., Rodr\'{\i}guez, J.~F., Mirams, G.~R., Burrage, K., Efimov, I.~R.,
@@ -95,5 +275,20 @@ Walmsley, J., Rodr\'{\i}guez, J.~F., Mirams, G.~R., Burrage, K., Efimov, I.~R.,
 \newblock {mRNA Expression Levels in Failing Human Hearts Predict Cellular
   Electrophysiological Remodeling: A Population-Based Simulation Study}.
 \newblock {\em PloS One}, 8(2):e56359.
+
+\bibitem[Wu et~al., 2011]{Wu2011}
+Wu, L., Ma, J., Li, H., Wang, C., Grandi, E., Zhang, P., Luo, A., Bers, D.~M.,
+  Shryock, J.~C., and Belardinelli, L. (2011).
+\newblock {Late sodium current contributes to the reverse rate-dependent effect
+  of IKr inhibition on ventricular repolarization.}
+\newblock {\em Circulation}, 123(16):1713--20.
+
+\bibitem[Yan et~al., 2001]{Yan2001}
+Yan, G.-X., Rials, S.~J., Wu, Y., Liu, T., Xu, X., Marinchak, R.~A., and Kowey,
+  P.~R. (2001).
+\newblock {Ventricular hypertrophy amplifies transmural repolarization
+  dispersion and induces early afterdepolarization}.
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 281:H1968--H1975.
 
 \end{thebibliography}

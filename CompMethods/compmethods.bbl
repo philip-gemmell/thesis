@@ -1,0 +1,176 @@
+\begin{thebibliography}{}
+
+\bibitem[Abramson et~al., 2010]{Abramson2010}
+Abramson, D., Bernabeu, M.~O., Bethwaite, B., Burrage, K., Corrias, A.,
+  Enticott, C., Garic, S., Gavaghan, D.~J., Peachey, T., Pitt-Francis, J.,
+  Pueyo, E., Rodr\'{\i}guez, B., Sher, A., and Tan, J. (2010).
+\newblock {High-throughput cardiac science on the Grid.}
+\newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}, 368(1925):3907--23.
+
+\bibitem[Abramson et~al., 2009]{Abramson2009}
+Abramson, D., Bethwaite, B., Enticott, C., Garic, S., and Peachey, T. (2009).
+\newblock {Parameter Space Exploration Using Scientific Workflows}.
+\newblock In Allen, G., Nabrzyski, J., Seidel, E., Albada, G.~D., Dongarra, J.,
+  and Sloot, P. M.~A., editors, {\em Computational Science - ICCS 2009}, volume
+  5544 of {\em Lecture Notes in Computer Science}, pages 104--113. Springer
+  Berlin Heidelberg, Berlin, Heidelberg.
+
+\bibitem[Abramson et~al., 2011]{Abramson2011}
+Abramson, D., Bethwaite, B., Enticott, C., Garic, S., and Peachey, T. (2011).
+\newblock {Parameter Exploration in Science and Engineering Using Many-Task
+  Computing}.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  22(6):960--973.
+
+\bibitem[Abramson et~al., 2000]{Abramson2000}
+Abramson, D., Giddy, J., and Kotler, L. (2000).
+\newblock {High performance parametric modeling with Nimrod/G: killer
+  application for the global grid?}
+\newblock In {\em 14th International Parallel and Distributed Processing
+  Symposium}, pages 520--528, Cancun, Mexico. IEEE Comput. Soc.
+
+\bibitem[Garny et~al., 2003]{Garny2003}
+Garny, A., Kohl, P., and Noble, D. (2003).
+\newblock {Cellular Open Resource (COR): A Public CellML Based Environment For
+  Modeling Biological Function}.
+\newblock {\em International Journal of Bifurcation and Chaos},
+  13(12):3579--3590.
+
+\bibitem[Garny et~al., 2009]{Garny2009}
+Garny, A., Noble, D., Hunter, P.~J., and Kohl, P. (2009).
+\newblock {CELLULAR OPEN RESOURCE (COR): current status and future directions.}
+\newblock {\em Philosophical transactions. Series A, Mathematical, physical,
+  and engineering sciences}, 367(1895):1885--905.
+
+\bibitem[Hodgkin, 1954]{Hodgkin1954}
+Hodgkin, A.~L. (1954).
+\newblock {A note on conduction velocity.}
+\newblock {\em The Journal of Physiology}, 125(1):221--4.
+
+\bibitem[Kl\'{e}ber and Rudy, 2004]{Kleber2004}
+Kl\'{e}ber, A.~G. and Rudy, Y. (2004).
+\newblock {Basic mechanisms of cardiac impulse propagation and associated
+  arrhythmias.}
+\newblock {\em Physiological Reviews}, 84(2):431--88.
+
+\bibitem[LeBlanc et~al., 1990]{LeBlanc1990}
+LeBlanc, J., Ward, M.~O., and Wittels, N. (1990).
+\newblock {Exploring N-Dimensional Databases}.
+\newblock In {\em Proceedings of the 1st Conference on Visualization}, pages
+  230--237.
+
+\bibitem[Lloyd et~al., 2008]{Lloyd2008}
+Lloyd, C.~M., Lawson, J.~R., Hunter, P.~J., and Nielsen, P.~F. (2008).
+\newblock {The CellML Model Repository.}
+\newblock {\em Bioinformatics}, 24(18):2122--3.
+
+\bibitem[Mahajan et~al., 2008]{Mahajan2008}
+Mahajan, A., Shiferaw, Y., Sato, D., Baher, A., Olcese, R., Xie, L.-H., Yang,
+  M.-J., Chen, P.-S., Restrepo, J.~G., Karma, A., Garfinkel, A., Qu, Z., and
+  Weiss, J.~N. (2008).
+\newblock {A rabbit ventricular action potential model replicating cardiac
+  dynamics at rapid heart rates.}
+\newblock {\em Biophysical Journal}, 94(2):392--410.
+
+\bibitem[Michailova et~al., 2007]{Michailova2007}
+Michailova, A., Lorentz, W., and McCulloch, A.~D. (2007).
+\newblock {Modeling transmural heterogeneity of K(ATP) current in rabbit
+  ventricular myocytes.}
+\newblock {\em American Journal of Physiology - Cell Physiology},
+  293(2):C542--57.
+
+\bibitem[Michailova et~al., 2005]{Michailova2005}
+Michailova, A., Saucerman, J., Belik, M.~E., and McCulloch, A.~D. (2005).
+\newblock {Modeling regulation of cardiac KATP and L-type Ca2+ currents by ATP,
+  ADP, and Mg2+.}
+\newblock {\em Biophysical Journal}, 88(3):2234--49.
+
+\bibitem[Pandit and Jalife, 2013]{Pandit2013}
+Pandit, S.~V. and Jalife, J. (2013).
+\newblock {Rotors and the Dynamics of Cardiac Fibrillation}.
+\newblock {\em Circulation Research}, 112(5):849--862.
+
+\bibitem[Peng, 2005]{Peng2005}
+Peng, W. (2005).
+\newblock {\em {Clutter-Based Dimension Reordering in Multi-Dimensional Data
+  Visualization}}.
+\newblock Msc (computer science), Worcester Polytechnic Institute.
+
+\bibitem[Peng et~al., 2004]{Peng2004}
+Peng, W., Ward, M.~O., and Rundensteiner, E.~A. (2004).
+\newblock {Clutter Reduction in Multi-Dimensional Data Visualization Using
+  Dimension Reordering}.
+\newblock In Ward, M. and Munzner, T., editors, {\em IEEE Symposium on
+  Information Visualization}, pages 89--96. IEEE.
+
+\bibitem[Rodr\'{\i}guez et~al., 2004]{Rodriguez2004}
+Rodr\'{\i}guez, B., Tice, B.~M., Eason, J.~C., Aguel, F., and Trayanova, N.~A.
+  (2004).
+\newblock {Cardiac vulnerability to electric shocks during phase 1A of acute
+  global ischemia.}
+\newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
+  Society}, 1(6):695--703.
+
+\bibitem[Rodr\'{\i}guez et~al., 2006]{Rodriguez2006}
+Rodr\'{\i}guez, B., Trayanova, N.~A., and Noble, D. (2006).
+\newblock {Modeling cardiac ischemia.}
+\newblock {\em Annals of the New York Academy of Sciences}, 1080:395--414.
+
+\bibitem[Romero et~al., 2009]{Romero2009a}
+Romero, L., Tr\'{e}nor, B., Alonso, J.~M., Tob\'{o}n, C., S\'{a}iz, J., and
+  Ferrero, J.~M. (2009).
+\newblock {The relative role of refractoriness and source-sink relationship in
+  reentry generation during simulated acute ischemia.}
+\newblock {\em Annals of Biomedical Engineering}, 37(8):1560--71.
+
+\bibitem[Shannon et~al., 2004]{Shannon2004}
+Shannon, T.~R., Wang, F., Puglisi, J.~L., Weber, C., and Bers, D.~M. (2004).
+\newblock {A mathematical treatment of integrated Ca dynamics within the
+  ventricular myocyte.}
+\newblock {\em Biophysical Journal}, 87(5):3351--71.
+
+\bibitem[Shannon et~al., 2012]{Shannon2012}
+Shannon, T.~R., Wang, F., Puglisi, J.~L., Weber, C., and Bers, D.~M. (2012).
+\newblock {Correction}.
+\newblock {\em Biophysical Journal}, 102(8):1996--2001.
+
+\bibitem[Sutton et~al., 2000]{Sutton2000}
+Sutton, P. M.~I., Taggart, P., Opthof, T., Coronel, R., Trimlett, R., Pugsley,
+  W., and Kallis, P. (2000).
+\newblock {Repolarisation and refractoriness during early ischaemia in humans.}
+\newblock {\em Heart (British Cardiac Society)}, 84(4):365--9.
+
+\bibitem[Tasaki and Hagiwara, 1957]{Tasaki1957}
+Tasaki, I. and Hagiwara, S. (1957).
+\newblock {Capacity of muscle fiber membrane.}
+\newblock {\em American Journal of Physiology}, 188(3):423--9.
+
+\bibitem[Taylor et~al., 2006]{Taylor2006}
+Taylor, A.~L., Hickey, T.~J., Prinz, A.~A., and Marder, E. (2006).
+\newblock {Structure and visualization of high-dimensional conductance spaces.}
+\newblock {\em Journal of Neurophysiology}, 96(2):891--905.
+
+\bibitem[Tice et~al., 2007]{Tice2007}
+Tice, B.~M., Rodr\'{\i}guez, B., Eason, J.~C., and Trayanova, N.~A. (2007).
+\newblock {Mechanistic investigation into the arrhythmogenic role of transmural
+  heterogeneities in regional ischaemia phase 1A.}
+\newblock {\em Europace : European Pacing, Arrhythmias, and Cardiac
+  Electrophysiology : Journal of the Working Groups on Cardiac Pacing,
+  Arrhythmias, and Cardiac Cellular Electrophysiology of the European Society
+  of Cardiology}, 9 Suppl 6:vi46--58.
+
+\bibitem[Tr\'{e}nor et~al., 2007]{Trenor2007}
+Tr\'{e}nor, B., Romero, L., Ferrero, J.~M., S\'{a}iz, J., Molt\'{o}, G., and
+  Alonso, J.~M. (2007).
+\newblock {Vulnerability to reentry in a regionally ischemic tissue: a
+  simulation study.}
+\newblock {\em Annals of Biomedical Engineering}, 35(10):1756--70.
+
+\bibitem[Walton and Fozzard, 1983]{Walton1983}
+Walton, M.~K. and Fozzard, H.~A. (1983).
+\newblock {The conducted action potential. Models and comparison to
+  experiments.}
+\newblock {\em Biophysical Journal}, 44(1):9--26.
+
+\end{thebibliography}

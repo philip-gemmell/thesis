@@ -392,6 +392,13 @@ Cross, H.~R., Lu, L., Steenbergen, C., Philipson, K.~D., and Murphy, E. (1998).
   transgenic mice.}
 \newblock {\em Circulation Research}, 83(12):1215--23.
 
+\bibitem[Dangerfield et~al., 2012]{Dangerfield2012a}
+Dangerfield, C.~E., Kay, D., and Burrage, K. (2012).
+\newblock {Modeling ion channel dynamics through reflected stochastic
+  differential equations.}
+\newblock {\em Physical Review E, Statistical, Nonlinear, and Soft Matter
+  Physics}, 85(5 Pt 1):051907.
+
 \bibitem[Davies et~al., 2012]{Davies2012}
 Davies, M.~R., Mistry, H.~B., Hussein, L., Pollard, C.~E., Valentin, J.-P.,
   Swinton, J., and Abi-Gerges, N. (2012).
@@ -464,11 +471,14 @@ Fabiato, A. (1992).
 \newblock {\em Advances in Experimental Medicine and Biology}, 311:245--62.
 
 \bibitem[Fauconnier et~al., 2011]{Fauconnier2011}
-Fauconnier, J., Meli, A.~C., Thireau, J., Roberge, S., Shan, J., and Sassi, Y.
-  (2011).
+Fauconnier, J., Meli, A.~C., Thireau, J., Roberge, S., Shan, J., Sassi, Y.,
+  Reiken, S.~R., Rauzier, J.-M., Marchand, A., Chauvier, D., Cassan, C.,
+  Crozier, C., Bideaux, P., Lompr\'{e}, A.-M., Jacotot, E., Marks, A.~R., and
+  Lacampagne, A. (2011).
 \newblock {Ryanodine receptor leak mediated by caspase-8 activation leads to
-  left ventricular injury after myocardial ischemia-reperfusion}.
-\newblock 108(32).
+  left ventricular injury after myocardial ischemia-reperfusion.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(32):13258--63.
 
 \bibitem[Fauconnier et~al., 2013]{Fauconnier2013}
 Fauconnier, J., Roberge, S., Saint, N., and Lacampagne, A. (2013).
@@ -643,6 +653,13 @@ Haverkamp, W., Breithardt, G., Camm, A.~J., Janse, M.~J., Rosen, M.~R.,
   non-anti-arrhythmic drugs: clinical and regulatory implications. Report on a
   Policy Conference of the European Society of Cardiology.}
 \newblock {\em Cardiovascular Research}, 47(2):219--33.
+
+\bibitem[Heijman et~al., 2013]{Heijman2013}
+Heijman, J., Zaza, A., Johnson, D.~M., Rudy, Y., Peeters, R. L.~M., Volders, P.
+  G.~A., and Westra, R.~L. (2013).
+\newblock {Determinants of Beat-to-Beat Variability of Repolarization Duration
+  in the Canine Ventricular Myocyte: A Computational Analysis.}
+\newblock {\em PLoS Computational Biology}, 9(8):e1003202.
 
 \bibitem[Henderson et~al., 2004]{Henderson2004}
 Henderson, S.~A., Goldhaber, J.~I., So, J.~M., Han, T., Motter, C., Ngo, A.,
@@ -897,6 +914,12 @@ Lee, K.~S., Ladinsky, H., and Stuckey, J.~H. (1967).
   Artery Occlusion for 60 and 90 Minutes}.
 \newblock {\em Circulation Research}, 21(4):439--444.
 
+\bibitem[Lemay et~al., 2011]{Lemay2011}
+Lemay, M., de~Lange, E., and Kucera, J.~P. (2011).
+\newblock {Effects of stochastic channel gating and distribution on the cardiac
+  action potential.}
+\newblock {\em Journal of Theoretical Biology}, 281(1):84--96.
+
 \bibitem[Lengyel et~al., 2001]{Lengyel2001}
 Lengyel, C., Iost, N., Vir\'{a}g, L., Varr\'{o}, A., Lathrop, D.~A., and Papp,
   J.~G. (2001).
@@ -951,6 +974,15 @@ Mahajan, A., Shiferaw, Y., Sato, D., Baher, A., Olcese, R., Xie, L.-H., Yang,
 \newblock {A rabbit ventricular action potential model replicating cardiac
   dynamics at rapid heart rates.}
 \newblock {\em Biophysical Journal}, 94(2):392--410.
+
+\bibitem[Malloy et~al., 1990]{Malloy1990}
+Malloy, C.~R., Buster, D.~C., Castro, M. M. C.~A., Geraldes, C. F. G.~C.,
+  Jeffrey, F. M.~H., and Sherry, A.~D. (1990).
+\newblock {Influence of global ischemia on intracellular sodium in the perfused
+  rat heart.}
+\newblock {\em Magnetic Resonance in Medicine : Official Journal of the Society
+  of Magnetic Resonance in Medicine / Society of Magnetic Resonance in
+  Medicine}, 15(1):33--44.
 
 \bibitem[Mandapati et~al., 2000]{Mandapati2000}
 Mandapati, R., Skanes, A., Chen, J., Berenfeld, O., and Jalife, J. (2000).
@@ -1069,6 +1101,11 @@ Noble, D. (1962).
   Purkinje fibre action and pace-maker potentials.}
 \newblock {\em The Journal of Physiology}, 160:317--52.
 
+\bibitem[Noble, 2002]{Noble2002}
+Noble, D. (2002).
+\newblock {Simulation of Na/Ca exchange activity during ischemia.}
+\newblock {\em Annals of the New York Academy of Sciences}, 976:431--7.
+
 \bibitem[Noble, 2011]{Noble2011}
 Noble, D. (2011).
 \newblock {Successes and failures in modeling heart cell electrophysiology.}
@@ -1120,6 +1157,13 @@ Panfilov, A.~V. (2006).
   rabbit and human hearts?}
 \newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
   Society}, 3(7):862--4.
+
+\bibitem[Pike et~al., 1993]{Pike1993}
+Pike, M.~M., Luo, C.~S., Clark, M.~D., Kirk, K.~A., Kitakaze, M., Madden,
+  M.~C., Cragoe, E.~J., and Pohost, G.~M. (1993).
+\newblock {NMR measurements of Na+ and cellular energy in ischemic rat heart:
+  role of Na(+)-H+ exchange.}
+\newblock {\em The American Journal of Physiology}, 265(6 Pt 2):H2017--26.
 
 \bibitem[Pitt-Francis et~al., 2009]{PittFrancis2009}
 Pitt-Francis, J., Pathmanathan, P., Bernabeu, M.~O., Bordas, R., Cooper, J.,
@@ -1227,6 +1271,21 @@ Roden, D.~M., Balser, J.~R., {George Jr.}, A.~L., and Anderson, M.~E. (2002).
 \newblock {Cardiac ion channels.}
 \newblock {\em Annual Review of Physiology}, 64:431--75.
 
+\bibitem[Rodr\'{\i}guez and Ferrero, 2001a]{Rodriguez2001a}
+Rodr\'{\i}guez, B. and Ferrero, J.~M. (2001a).
+\newblock {Integrated mechanisms of K+ loss in myocardial ischemia: a
+  simulation study}.
+\newblock In {\em 2001 Conference Proceedings of the 23rd Annual International
+  Conference of the IEEE Engineering in Medicine and Biology Society},
+  volume~1, pages 48--51. IEEE.
+
+\bibitem[Rodr\'{\i}guez and Ferrero, 2001b]{Rodriguez2001}
+Rodr\'{\i}guez, B. and Ferrero, J.~M. (2001b).
+\newblock {Mechanistic investigation of the causes of cellular K+ loss during
+  acute myocardial ischemia: a simulation study}.
+\newblock In {\em Computers in Cardiology 2001. Vol.28 (Cat. No.01CH37287)},
+  pages 361--364. IEEE.
+
 \bibitem[Rodr\'{\i}guez et~al., 2002]{Rodriguez2002}
 Rodr\'{\i}guez, B., Ferrero, J.~M., and Tr\'{e}nor, B. (2002).
 \newblock {Mechanistic investigation of extracellular K+ accumulation during
@@ -1333,6 +1392,20 @@ Sato, D., Shiferaw, Y., Garfinkel, A., Weiss, J.~N., Qu, Z., and Karma, A.
 \newblock {Spatially discordant alternans in cardiac tissue: role of calcium
   cycling.}
 \newblock {\em Circulation Research}, 99(5):520--7.
+
+\bibitem[Sato et~al., 2010]{Sato2010}
+Sato, D., Xie, L.-H., Nguyen, T.~P., Weiss, J.~N., and Qu, Z. (2010).
+\newblock {Irregularly appearing early afterdepolarizations in cardiac
+  myocytes: random fluctuations or dynamical chaos?}
+\newblock {\em Biophysical Journal}, 99(3):765--73.
+
+\bibitem[Sato et~al., 2009]{Sato2009}
+Sato, D., Xie, L.-H., Sovari, A.~A., Tran, D.~X., Morita, N., Xie, F.,
+  Karagueuzian, H., Garfinkel, A., Weiss, J.~N., and Qu, Z. (2009).
+\newblock {Synchronization of chaotic early afterdepolarizations in the genesis
+  of cardiac arrhythmias.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 106(9):2983--8.
 
 \bibitem[Schulz et~al., 2006]{Schulz2006}
 Schulz, D.~J., Goaillard, J.-M., and Marder, E. (2006).
@@ -1522,6 +1595,12 @@ Tani, M. and Neely, J.~R. (1989).
   of H+-Na+ and Na+-Ca2+ exchange}.
 \newblock {\em Circulation Research}, 65(4):1045--1056.
 
+\bibitem[Tanskanen et~al., 2005]{Tanskanen2005}
+Tanskanen, A.~J., Greenstein, J.~L., O'Rourke, B., and Winslow, R.~L. (2005).
+\newblock {The role of stochastic and modal gating of cardiac L-type Ca2+
+  channels on early after-depolarizations.}
+\newblock {\em Biophysical Journal}, 88(1):85--95.
+
 \bibitem[Tasaki and Hagiwara, 1957]{Tasaki1957}
 Tasaki, I. and Hagiwara, S. (1957).
 \newblock {Capacity of muscle fiber membrane.}
@@ -1608,6 +1687,13 @@ Tr\'{e}nor, B., Romero, L., Ferrero, J.~M., S\'{a}iz, J., Molt\'{o}, G., and
   simulation study.}
 \newblock {\em Annals of Biomedical Engineering}, 35(10):1756--70.
 
+\bibitem[van Echteld et~al., 1991]{VanEchteld1991}
+van Echteld, C. J.~A., Kirkels, J.~H., Eijgelshoven, M. H.~J., van~der Meer,
+  P., and Ruigrok, T. J.~C. (1991).
+\newblock {Intracellular sodium during ischemia and calcium-free perfusion: a
+  23Na NMR study.}
+\newblock {\em Journal of Molecular and Cellular Cardiology}, 23(3):297--307.
+
 \bibitem[Vandenberg et~al., 2001]{Vandenberg2001}
 Vandenberg, J.~I., Walker, B.~D., and Campbell, T.~J. (2001).
 \newblock {HERG K+ channels: friend and foe.}
@@ -1625,6 +1711,12 @@ Varr\'{o}, A., Bal\'{a}ti, B., Iost, N., Tak\'{a}cs, J., Vir\'{a}g, L.,
 \newblock {The role of the delayed rectifier component IKs in dog ventricular
   muscle and Purkinje fibre repolarization.}
 \newblock {\em The Journal of Physiology}, 523 Pt 1(2000):67--81.
+
+\bibitem[Verkerk et~al., 2011]{Verkerk2011}
+Verkerk, A.~O., Baartscheer, A., de~Groot, J.~R., Wilders, R., and Coronel, R.
+  (2011).
+\newblock {Etiology-dependency of ionic remodeling in cardiomyopathic rabbits.}
+\newblock {\em International Journal of Cardiology}, 148(2):154--60.
 
 \bibitem[Verkerk et~al., 2005]{Verkerk2005}
 Verkerk, A.~O., Wilders, R., Veldkamp, M.~W., de~Geringel, W., Kirkels, J.~H.,
@@ -1729,6 +1821,20 @@ Weiss, J.~N., Venkatesh, N., and Lamp, S.~T. (1992).
   ischaemic mammalian ventricle.}
 \newblock {\em The Journal of Physiology}, (447):649--673.
 
+\bibitem[Wilde et~al., 1988]{Wilde1988}
+Wilde, A. A.~M., Peters, R. J.~G., and Janse, M.~J. (1988).
+\newblock {Catecholamine release and potassium accumulation in the isolated
+  globally ischemic rabbit heart.}
+\newblock {\em Journal of Molecular and Cellular Cardiology}, 20(10):887--96.
+
+\bibitem[Wu et~al., 2008a]{Wu2008a}
+Wu, L., Guo, D., Li, H., Hackett, J., Yan, G.-X., Jiao, Z., Antzelevitch, C.,
+  Shryock, J.~C., and Belardinelli, L. (2008a).
+\newblock {Role of late sodium current in modulating the proarrhythmic and
+  antiarrhythmic effects of quinidine.}
+\newblock {\em Heart rhythm : the official journal of the Heart Rhythm
+  Society}, 5(12):1726--34.
+
 \bibitem[Wu et~al., 2011]{Wu2011}
 Wu, L., Ma, J., Li, H., Wang, C., Grandi, E., Zhang, P., Luo, A., Bers, D.~M.,
   Shryock, J.~C., and Belardinelli, L. (2011).
@@ -1736,11 +1842,31 @@ Wu, L., Ma, J., Li, H., Wang, C., Grandi, E., Zhang, P., Luo, A., Bers, D.~M.,
   of IKr inhibition on ventricular repolarization.}
 \newblock {\em Circulation}, 123(16):1713--20.
 
+\bibitem[Wu et~al., 2008b]{Wu2008}
+Wu, L., Rajamani, S., Shryock, J.~C., Li, H., Ruskin, J., Antzelevitch, C., and
+  Belardinelli, L. (2008b).
+\newblock {Augmentation of late sodium current unmasks the proarrhythmic
+  effects of amiodarone.}
+\newblock {\em Cardiovascular Research}, 77(3):481--8.
+
+\bibitem[Wu et~al., 2006]{Wu2006}
+Wu, L., Shryock, J.~C., Song, Y., and Belardinelli, L. (2006).
+\newblock {An increase in late sodium current potentiates the proarrhythmic
+  activities of low-risk QT-prolonging drugs in female rabbit hearts.}
+\newblock {\em The Journal of Pharmacology and Experimental Therapeutics},
+  316(2):718--26.
+
 \bibitem[Xiao et~al., 2008]{Xiao2008}
 Xiao, L., Xiao, J., Luo, X., Lin, H., Wang, Z., and Nattel, S. (2008).
 \newblock {Feedback remodeling of cardiac potassium current expression: a novel
   potential mechanism for control of repolarization reserve.}
 \newblock {\em Circulation}, 118(10):983--92.
+
+\bibitem[Xie et~al., 2007]{Xie2007}
+Xie, Y., Hu, G., Sato, D., Weiss, J.~N., Garfinkel, A., and Qu, Z. (2007).
+\newblock {Dispersion of refractoriness and induction of reentry due to chaos
+  synchronization in a model of cardiac tissue.}
+\newblock {\em Physical Review Letters}, 99(11):118101.
 
 \bibitem[Xu et~al., 1993]{Xu1993}
 Xu, A., Hawkins, C., and Narayanan, N. (1993).
@@ -1807,6 +1933,13 @@ Zabel, M., Woosley, R.~L., and Franz, M.~R. (1997b).
 \newblock {Is dispersion of ventricular repolarization rate dependent?}
 \newblock {\em Pacing and Clinical Electrophysiology : PACE}, 20(10 Pt
   1):2405--11.
+
+\bibitem[Zaniboni et~al., 2000]{Zaniboni2000}
+Zaniboni, M., Pollard, A.~E., Yang, L., and Spitzer, K.~W. (2000).
+\newblock {Beat-to-beat repolarization variability in ventricular myocytes and
+  its suppression by electrical coupling.}
+\newblock {\em American Journal of Physiology - Heart and Circulatory
+  Physiology}, 278(3):H677--87.
 
 \bibitem[Zeng et~al., 1995]{Zeng1995}
 Zeng, J., Laurita, K.~R., Rosenbaum, D.~S., and Rudy, Y. (1995).

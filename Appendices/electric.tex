@@ -1,78 +1,78 @@
 \documentclass[../thesis-main.tex]{subfiles}
 
 \begin{document}
- 
- \chapter{Diffusion}
- \label{ch:diffusion}
 
-  \begin{aquote}{Source}
-    {\fontencoding{T1}\fontfamily{pzc}\selectfont
-    New quote!
-    }
-  \end{aquote}
-  \rule{\linewidth}{0.25mm}
- 
- \begin{quote}
-  This appendix gives greater detail about the ionic movement theories, and electric theory properties generally, of the modelling of electrically active cells---note that this applies equally well to both cardiac cells and to neurons.
- \end{quote}
+\chapter{Diffusion}
+\label{ch:diffusion}
 
- \section{Simple Diffusion}
- \label{sec:simple-diff}
- By simple diffusion, there is a net movement of particles from a region of high concentration to a region of low diffusion with simple thermal movement. This movement is according to Fick's Law,
- \begin{equation}
-  F_X = -D\frac{\partial C_X}{\partial x},
- \end{equation}
- where $F_X$ and $C_X$ represent the flux and concentration of particle $X$ respectively, and $D$ represents the diffusion coefficient. It should be noted that this represents \emph{net} diffusion: there will be movement of particles in both directions. For circumstances where $D$ is constant, this solves to produce
- \begin{equation}
-  F_X = P(C_{X,o}-C_{X,i}),
- \end{equation}
- where $P$ represents the permeability of the membrane, and is equivalent to \nicefrac{D}{d}, where $d$ represents the thickness of the membrane. $C_{X,o}$ and $C_{x,i}$ represent the extracellular and intracellular concentrations of $X$, respectively; thus $F_X$ in this form describes flux from the extra- to the intracellular space. It can be noted that for substances that diffuse through the lipid phase of the membrane, the permeability also depends on the oil/water partition coefficient $\beta$, according to $P = \beta$\nicefrac{D}{d}.
- 
- \section{Facilitated Diffusion, Michaelis-Menten Kinetics}
- \label{sec:facil-diff}
- While Fick's Law can describe the movement of small, uncharged particles and some ions across a membrane very well, it does not serve particularly well for large molecules or charged substances. While ions can move across the membrane via membrane proteins suchs as channels and exchangers, some large molecules such as amino acids and glucose are large enough that pore-based channels would have no selectivity over what moves through them. Thus, they instead make use of \emph{carrier-mediated diffusion}, also called \emph{facilitated diffusion}, where the molecule binds to a transmembrane protein and causes a conformational change that results in the molecule being translocated across the membrane.
- 
- This mechanism obeys Michaelis-Menten kinetics, and can be views as a catalysed reaction, where the reaction is not a chemical one, but rather a translation of substance across the membrane.
- 
- Briefly, Michaelis-Menten kinetics are used to describe a two-stage reaction, the first stage being reversible, the second stage irreversible:
- \begin{center}
-  \ce{C + X_o <=> CX -> C + X_i}
- \end{center}
- The above expression uses X\sub{o}~and X\sub{i}~to represent the extracellular and intracellular molecule respectively, and C the carrier; CX represents the moment when the molecule and the carrier combine for the transport process. It thus proposes that there is a reversible reaction between the extracellular molecule and the carrier, and that the transport process itself is irreversible. By certain assumptions, including that the number of extracellular molecules is far greater than the number of carriers, the rate of this process can be estimated to be
- \begin{equation}
-  v = \frac{\textnormal{dX}_\textnormal{o}}{\textnormal{d}t} = v_\textnormal{max}\frac{[\textnormal{X}_\textnormal{o}]}{K_m + [\textnormal{X}_\textnormal{o}]},
- \end{equation}
- where $v$ represents the velocity of the reaction (\idest, the rate of translocation of X), $v$\sub{max}~represents the maximum velocity at which the translocation can take place, [X\sub{o}] the concentration of X outside the cell, $K_m$ represents the so-called Michaelis-Menten constant, which in turn represents the concentration at which the half-maximum speed occurs. It can be noted that $v$\sub{max}~ is equal to the rate of the final step of the reaction.
- 
- Facilitated diffusion shows saturation (the point at which increasing the extracellular concentration further does not lead to an increase in flux), competitive and non-competitive inhibition, stereo-specificity and a relatively slow turnover.
- 
- \section{Electrodiffusion}
- \label{sec:electrodiffusion}
- This section deals with the form of transportation that is of most interest for this thesis: the passive movement of charged substances (ions) in the presences of an electrochemical gradient. It should be noted that the content in this section, while being in the appendix, is nonetheless vital for almost all mathematical models of electrically active cellular activity.
- 
- \subsection{The Nernst Equeation}
- \label{subsec:nernst}
- A key concept is that of the \emph{Nernst Potential}, derived using the Nernst Equation, which describes the potential difference that is required to oppose the net flow of an ionic species against a specified concentration gradient. The equation shall here be derived in full using statistical mechanics.
- 
- Initially, recall that the probability of a system being in a particular state $\alpha$ is given by
- \begin{equation}
-  P(\alpha) = \frac{1}{Z}e^{-\beta E_\alpha}; \qquad Z = \sum_i e^{\beta E_i},
- \end{equation}
- where $E_i$ is the energy of state $i$, and $\beta = k_\textnormal{B}T$, with $T$ being the temperature of the system.
- 
- For a large number of molecules, $[A] \propto P(A)$. Furthermore, if we consider the diffusion of ions from one location to another to be a reversible reaction according to \ce{A <=>[k_1][k_2] B}, by applying the law of mass action ($F_{A\rightarrow B} \propto [A]$), at steady state we achieve the following equation, which can be manipulated accordingly:
- \begin{align}
-  k_1[A]		& = k_2[B] \\
-  \frac{[A]}{[B]}	& = \frac{k_2}{k_1} \\
-			& = \frac{\frac{1}{Z}e^{-\beta E_A}}{\frac{1}{Z}e^{-\beta E_B}} \\
-			& = e^{-\beta(E_A-E_B)} \\
-  \Delta E		& = k_\textnormal{B}T\ln\frac{[B]}{[A]}
- \end{align}
- At this stage, the electric gradient is introduced to the equation as the reason for the energy difference that maintains the steady state, with $\Delta E = zqV$, where $z$ is the valence of the ionic species being considered, $q_e$ is the charge (in this case equal to the charge of an electron, \idest, the charge of a singly ionised ion), and $V$ is the potential difference.
- \begin{align}
-  zq_eV	& = k_\textnormal{B}T\ln\frac{[B]}{[A]} \\
-  V	& = \frac{k_\textnormal{B}T}{zq_e}\ln\frac{[B]}{[A]} 	\label{eqn:nernst2} \\
-	& = \frac{RT}{zF}\ln\frac{[B]}{[A]} 			\label{eqn:nernst} \\
- \end{align}
- Equations \ref{eqn:nernst2} and \ref{eqn:nernst} are equivalent, the only difference being the constants used in the expression. Eq.~\ref{eqn:nernst} is the more common formulation, using the gas constant $R$ and the Faraday constant $F$ in place of the Boltzmann constant $k_\textnormal{B}$ and the electron charge $q_e$ respectively. The Nernst potential is, therefore, the potential difference that must be applied to maintain a specified concentration gradient, and is given by either equation.
+\begin{aquote}{Source}
+ {\fontencoding{T1}\fontfamily{pzc}\selectfont
+ New quote!
+ }
+\end{aquote}
+\rule{\linewidth}{0.25mm}
+
+\begin{quote}
+ This appendix gives greater detail about the ionic movement theories, and electric theory properties generally, of the modelling of electrically active cells---note that this applies equally well to both cardiac cells and to neurons.
+\end{quote}
+
+\section{Simple Diffusion}
+\label{sec:simple-diff}
+By simple diffusion, there is a net movement of particles from a region of high concentration to a region of low diffusion with simple thermal movement. This movement is according to Fick's Law,
+\begin{equation}
+ F_X = -D\frac{\partial C_X}{\partial x},
+\end{equation}
+where $F_X$ and $C_X$ represent the flux and concentration of particle $X$ respectively, and $D$ represents the diffusion coefficient. It should be noted that this represents \emph{net} diffusion: there will be movement of particles in both directions. For circumstances where $D$ is constant, this solves to produce
+\begin{equation}
+ F_X = P(C_{X,o}-C_{X,i}),
+\end{equation}
+where $P$ represents the permeability of the membrane, and is equivalent to \nicefrac{D}{d}, where $d$ represents the thickness of the membrane. $C_{X,o}$ and $C_{x,i}$ represent the extracellular and intracellular concentrations of $X$, respectively; thus $F_X$ in this form describes flux from the extra- to the intracellular space. It can be noted that for substances that diffuse through the lipid phase of the membrane, the permeability also depends on the oil/water partition coefficient $\beta$, according to $P = \beta$\nicefrac{D}{d}.
+
+\section{Facilitated Diffusion, Michaelis-Menten Kinetics}
+\label{sec:facil-diff}
+While Fick's Law can describe the movement of small, uncharged particles and some ions across a membrane very well, it does not serve particularly well for large molecules or charged substances. While ions can move across the membrane via membrane proteins suchs as channels and exchangers, some large molecules such as amino acids and glucose are large enough that pore-based channels would have no selectivity over what moves through them. Thus, they instead make use of \emph{carrier-mediated diffusion}, also called \emph{facilitated diffusion}, where the molecule binds to a transmembrane protein and causes a conformational change that results in the molecule being translocated across the membrane.
+
+This mechanism obeys Michaelis-Menten kinetics, and can be views as a catalysed reaction, where the reaction is not a chemical one, but rather a translation of substance across the membrane.
+
+Briefly, Michaelis-Menten kinetics are used to describe a two-stage reaction, the first stage being reversible, the second stage irreversible:
+\begin{center}
+ \ce{C + X_o <=> CX -> C + X_i}
+\end{center}
+The above expression uses X\sub{o}~and X\sub{i}~to represent the extracellular and intracellular molecule respectively, and C the carrier; CX represents the moment when the molecule and the carrier combine for the transport process. It thus proposes that there is a reversible reaction between the extracellular molecule and the carrier, and that the transport process itself is irreversible. By certain assumptions, including that the number of extracellular molecules is far greater than the number of carriers, the rate of this process can be estimated to be
+\begin{equation}
+ v = \frac{\textnormal{dX}_\textnormal{o}}{\textnormal{d}t} = v_\textnormal{max}\frac{[\textnormal{X}_\textnormal{o}]}{K_m + [\textnormal{X}_\textnormal{o}]},
+\end{equation}
+where $v$ represents the velocity of the reaction (\idest, the rate of translocation of X), $v$\sub{max}~represents the maximum velocity at which the translocation can take place, [X\sub{o}] the concentration of X outside the cell, $K_m$ represents the so-called Michaelis-Menten constant, which in turn represents the concentration at which the half-maximum speed occurs. It can be noted that $v$\sub{max}~ is equal to the rate of the final step of the reaction.
+
+Facilitated diffusion shows saturation (the point at which increasing the extracellular concentration further does not lead to an increase in flux), competitive and non-competitive inhibition, stereo-specificity and a relatively slow turnover.
+
+\section{Electrodiffusion}
+\label{sec:electrodiffusion}
+This section deals with the form of transportation that is of most interest for this thesis: the passive movement of charged substances (ions) in the presences of an electrochemical gradient. It should be noted that the content in this section, while being in the appendix, is nonetheless vital for almost all mathematical models of electrically active cellular activity.
+
+\subsection{The Nernst Equation}
+\label{subsec:nernst}
+A key concept is that of the \emph{Nernst Potential}, derived using the Nernst Equation, which describes the potential difference that is required to oppose the net flow of an ionic species against a specified concentration gradient. The equation shall here be derived in full using statistical mechanics.
+
+Initially, recall that the probability of a system being in a particular state $\alpha$ is given by
+\begin{equation}
+ P(\alpha) = \frac{1}{Z}e^{-\beta E_\alpha}; \qquad Z = \sum_i e^{\beta E_i},
+\end{equation}
+where $E_i$ is the energy of state $i$, and $\beta = k_\textnormal{B}T$, with $T$ being the temperature of the system.
+
+For a large number of molecules, $[A] \propto P(A)$. Furthermore, if we consider the diffusion of ions from one location to another to be a reversible reaction according to \ce{A <=>[k_1][k_2] B}, by applying the law of mass action ($F_{A\rightarrow B} \propto [A]$), at steady state we achieve the following equation, which can be manipulated accordingly:
+\begin{align}
+ k_1[A]		& = k_2[B] \\
+ \frac{[A]}{[B]}& = \frac{k_2}{k_1} \\
+		& = \frac{\frac{1}{Z}e^{-\beta E_A}}{\frac{1}{Z}e^{-\beta E_B}} \\
+		& = e^{-\beta(E_A-E_B)} \\
+ \Delta E	& = k_\textnormal{B}T\ln\frac{[B]}{[A]}
+\end{align}
+At this stage, the electric gradient is introduced to the equation as the reason for the energy difference that maintains the steady state, with $\Delta E = zqV$, where $z$ is the valence of the ionic species being considered, $q_e$ is the charge (in this case equal to the charge of an electron, \idest, the charge of a singly ionised ion), and $V$ is the potential difference.
+\begin{align}
+ zq_eV	& = k_\textnormal{B}T\ln\frac{[B]}{[A]} \\
+ V	& = \frac{k_\textnormal{B}T}{zq_e}\ln\frac{[B]}{[A]} 	\label{eqn:nernst2} \\
+	& = \frac{RT}{zF}\ln\frac{[B]}{[A]} 			\label{eqn:nernst}
+\end{align}
+Equations \ref{eqn:nernst2} and \ref{eqn:nernst} are equivalent, the only difference being the constants used in the expression. Eq.~\ref{eqn:nernst} is the more common formulation, using the gas constant $R$ and the Faraday constant $F$ in place of the Boltzmann constant $k_\textnormal{B}$ and the electron charge $q_e$ respectively. The Nernst potential is, therefore, the potential difference that must be applied to maintain a specified concentration gradient, and is given by either equation.
 \end{document}

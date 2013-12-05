@@ -5,3 +5,19 @@ mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ggmr8r
 mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ggmr8r
 mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ggmr8r
 mktexpk --mfmode / --bdpi 600 --mag 1+0/600 --dpi 600 ggmr8r
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm EBGaramond12-Regular-osf-sc-t1
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm EBGaramond12-Italic-osf-t1
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm nullfont
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm nullfont
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm nullfont
+mktextfm EBGaramond12-Regular-osf-t1
+mktextfm nullfont

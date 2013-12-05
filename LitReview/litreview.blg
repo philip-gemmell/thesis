@@ -1,54 +1,54 @@
-This is BibTeX, Version 0.99c (Web2C 7.5.6)
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: litreview.aux
 The style file: apalike.bst
-Reallocated field_info (elt_size=4) to 11226 items from 5000.
+Reallocated field_info (elt_size=4) to 11644 items from 5000.
 Database file #1: /users/philg/Documents/library.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--empty institution in WHO2010
-Warning--empty journal in Fauconnier2011
 Warning--can't use both author and editor fields in Keener2009
 Warning--there's a number but no volume in Kurokawa2012
 Warning--there's a number but no volume in Sarkar2012
 Warning--there's a number but no volume in Weiss1992
-You've used 283 entries,
+You've used 302 entries,
             1935 wiz_defined-function locations,
-            2199 strings with 67863 characters,
-and the built_in function-call counts, 131442 in all, are:
-= -- 12746
-> -- 6850
-< -- 100
-+ -- 2415
-- -- 2408
-* -- 12658
-:= -- 22902
-add.period$ -- 852
-call.type$ -- 283
-change.case$ -- 2615
-chr.to.int$ -- 276
-cite$ -- 289
-duplicate$ -- 4070
-empty$ -- 8344
-format.name$ -- 2815
-if$ -- 24928
-int.to.chr$ -- 8
+            2309 strings with 72807 characters,
+and the built_in function-call counts, 141233 in all, are:
+= -- 13676
+> -- 7431
+< -- 106
++ -- 2627
+- -- 2618
+* -- 13616
+:= -- 24605
+add.period$ -- 911
+call.type$ -- 302
+change.case$ -- 2815
+chr.to.int$ -- 293
+cite$ -- 307
+duplicate$ -- 4361
+empty$ -- 8929
+format.name$ -- 3048
+if$ -- 26787
+int.to.chr$ -- 10
 int.to.str$ -- 0
-missing$ -- 284
-newline$ -- 1417
-num.names$ -- 851
-pop$ -- 2028
+missing$ -- 303
+newline$ -- 1512
+num.names$ -- 908
+pop$ -- 2194
 preamble$ -- 1
-purify$ -- 2616
+purify$ -- 2816
 quote$ -- 0
-skip$ -- 3003
+skip$ -- 3213
 stack$ -- 0
-substring$ -- 9804
-swap$ -- 371
-text.length$ -- 14
+substring$ -- 10484
+swap$ -- 408
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1692
-warning$ -- 6
-while$ -- 1111
+type$ -- 1806
+warning$ -- 5
+while$ -- 1188
 width$ -- 0
-write$ -- 3685
-(There were 6 warnings)
+write$ -- 3936
+(There were 5 warnings)

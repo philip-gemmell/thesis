@@ -6,7 +6,8 @@
 
 \begin{document}
 
-\garamond
+% \garamond
+\titleformat{\subsubsection}{\normalfont\itshape\large}{\thesection}{.5em}{}
 
 \def \biblio{}
 
@@ -36,6 +37,9 @@
 \listoftables
 \newpage
 
+\listoflistings
+\newpage
+
 \subfile{acknowledgements}
 \newpage
 
@@ -56,15 +60,16 @@
 %  \dblspace
 \subfile{Intro/intro.tex}
 
-\def \localpath{LitReview}
-%  \rule{\linewidth}{0.25mm}
-%  \dblspace
+% \def \localpath{LitReview}
 \subfile{LitReview/litreview.tex}
 
-\def \localpath{ParamSpace}
+% \def \localpath{CompMethods}
+\subfile{CompMethods/compmethods.tex}
+
+% \def \localpath{ParamSpace}
 \subfile{ParamSpace/paramSpace.tex}
 
-\def \localpath{ischaemia}
+% \def \localpath{ischaemia}
 \subfile{ischaemia/ischaemia.tex}
 
 % Post-thesis details
@@ -76,7 +81,7 @@
 
 \def\localpath{Appendices}
 \subfile{Appendices/electric.tex}
-\subfile{Appendices/models.tex}
+% \subfile{Appendices/models.tex}
 
 \sglspace
 
