@@ -5,9 +5,9 @@
 \chapter{Computational Methods}
 \label{ch:compMethods}
 
-\begin{aquote}{Donald Knuth, \emph{Computer Literacy Bookshops Interview}}
+\begin{aquote}{\emph{Hamlet}, Act 2, Scene 2}
   {\fontencoding{T1}\fontfamily{pzc}\selectfont
-   I can't be as confident about computer science as I can about biology. Biology easily has 500 years of exciting problems to work on. It's at that level.
+   Though this be madness, yet there is method in 't.
   }
 \end{aquote}
 \rule{\linewidth}{0.25mm}
@@ -159,7 +159,9 @@ The extent of increase in \ko{} due to isch\ae{}mic hyperkal\ae{}mia is subject 
 
 The value for \nai{} is clamped, and the change (with fully isch\ae{}mic conditions representing a $30\%$ increase) imposed at the start of the simulation. Inhibition of ion currents (\ina{}, \ica{} and \inak{}) is achieved in the same manner as in the earlier parameter space search: direct reduction of the peak conductance $g_X$.
 
-The simulation protocol is to (i) impose the relevant conditions directly to the model, (ii) stimulate the cell at a CL of 600 ms for 10 APs, (iii) record the data for the last AP, and use these data to calculate the required biomarkers. While preliminary simulations with the Shannon model indicated that the broad strokes of the model response are achieved within this timeframe, tt can be noted that some models are sensitive to simulation duration, especially within the Mahajan population. However, to consider further simulation time worthwhile would be misleading. It must be remembered that these models, and the changes imposed upon them to reproduce isch\ae{}mia, are approximations, and they are most suited to short-term simulations---neither model framework is designed to reproduce the complicated effects of the medium- to long-term effects of isch\ae{}mia. As such, the simulation duration is designed to reproduce most faithfully the short-term impacts of isch\ae{}mia.
+The simulation protocol is to (i) impose the relevant conditions directly to the model, (ii) stimulate the cell at a CL of 600 ms for 10 APs, (iii) record the data for the last AP for subsequent analysis. The model was assessed to be viable if the difference between \vmax{} and \vest{} was greater than 44.0 mV; this value was used based on tests conducting using the Shannon population.
+
+Preliminary simulations with the Shannon model indicated that the broad strokes of the model response are achieved within this timeframe, it can be noted that some models are sensitive to simulation duration, especially within the Mahajan population. However, further simulation time would be misleading: these models, and the changes imposed upon them to reproduce isch\ae{}mia, are approximations, and the models are most suited to short-term simulations---neither model framework is designed to reproduce the complicated effects of the medium- to long-term effects of isch\ae{}mia. As such, the simulation duration is designed to reproduce most faithfully the short-term impacts of isch\ae{}mia.
 
 % Mention importance of Istim, hence importance of making sure it is set correctly
 % Simulation duration - difficlties of short/long simulation and temporal effects in modelling ischæmia

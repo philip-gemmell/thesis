@@ -1,66 +1,61 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Literature Review}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Cardiac Physiology}{2}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Structure of the Mammalian Heart}{2}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Electrophysiological Properties of Cardiomyocytes}{4}{subsection.2.1.2}
-\contentsline {subsubsection}{The Action Potential}{6}{subsubsection*.8}
-\contentsline {subsubsection}{Ion Channel Dynamics}{8}{subsubsection*.11}
-\contentsline {subsubsection}{Excitation-Contraction Coupling}{11}{subsubsection*.12}
-\contentsline {section}{\numberline {2.2}Computational Cell Models}{12}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Key Concepts}{13}{subsection.2.2.1}
-\contentsline {subsubsection}{Nernst Potential}{13}{subsubsection*.13}
-\contentsline {subsubsection}{Hodgkin-Huxley Current}{14}{subsubsection*.14}
-\contentsline {subsubsection}{Markov Models}{14}{subsubsection*.15}
-\contentsline {subsection}{\numberline {2.2.2}Development}{15}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Difficulties in Model Construction}{17}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Variation}{18}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Experimental \& Physiological Variation}{18}{subsection.2.3.1}
-\contentsline {subsubsection}{Action Potential Variation}{18}{subsubsection*.16}
-\contentsline {subsubsection}{Ion Channel Variation}{19}{subsubsection*.17}
-\contentsline {subsection}{\numberline {2.3.2}Computational Modelling of Variation}{20}{subsection.2.3.2}
-\contentsline {subsubsection}{Stochastic Methods}{20}{subsubsection*.19}
-\contentsline {subsubsection}{Deterministic Methods}{21}{subsubsection*.20}
-\contentsline {section}{\numberline {2.4}Cardiac Disease}{24}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Isch\ae {}mia}{25}{subsection.2.4.1}
-\contentsline {subsubsection}{Isch\ae {}mic Changes in AP}{25}{subsubsection*.22}
-\contentsline {subsubsection}{Isch\ae {}mic Changes in [Ca$^{2+}$]$_\textnormal {i}$}{27}{subsubsection*.24}
-\contentsline {subsubsection}{Other Isch\ae {}mic Changes}{30}{subsubsection*.26}
-\contentsline {subsubsection}{Anoxia}{30}{subsubsection*.27}
-\contentsline {subsubsection}{Hyperkal\ae {}mia}{31}{subsubsection*.28}
-\contentsline {subsubsection}{Acidosis}{31}{subsubsection*.29}
-\contentsline {subsection}{\numberline {2.4.2}Arrhythmogenesis}{32}{subsection.2.4.2}
-\contentsline {subsubsection}{Delayed \& Early After Depolarisations}{33}{subsubsection*.30}
-\contentsline {subsubsection}{Alternans}{34}{subsubsection*.31}
-\contentsline {subsubsection}{Spiral Waves \& Rotors}{35}{subsubsection*.33}
-\contentsline {subsubsection}{Re-entry}{36}{subsubsection*.34}
-\contentsline {chapter}{\numberline {3}Computational Methods}{37}{chapter.3}
-\contentsline {section}{\numberline {3.1}Represention of Multi-Dimensional Data}{37}{section.3.1}
-\contentsline {section}{\numberline {3.2}Computational Models \& Simulation Techniques}{39}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Nimrod Distributed Computing Grid}{39}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Parameter Space Simulations}{41}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Isch\ae {}mia Simulations}{42}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Biomarker Calculation}{43}{section.3.3}
-\contentsline {chapter}{\numberline {4}Parameter Space Exploration}{45}{chapter.4}
-\contentsline {section}{\numberline {4.1}Reproduction of Experimental Variation}{45}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Comparison with Alternative Methods}{46}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Caveats}{47}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Construction of the Parameter Space}{48}{section.4.2}
-\contentsline {section}{\numberline {4.3}Accuracy of Biomarkers in Defining Model Fit}{48}{section.4.3}
-\contentsline {section}{\numberline {4.4}Defining a Population of Models to Reproduce Physiological Variation}{49}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Variation within the Population}{49}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Connectivity within the Parameter Space}{56}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Effects of Parameter Variation}{56}{section.4.5}
-\contentsline {section}{\numberline {4.6}Rate Dependence of Biomarkers}{61}{section.4.6}
-\contentsline {chapter}{\numberline {5}Isch\ae {}mic Variation}{63}{chapter.5}
-\contentsline {section}{\numberline {5.1}Variation Within Isch\ae {}mia}{63}{section.5.1}
-\contentsline {section}{\numberline {5.2}Population Response to Isch\ae {}mia}{64}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}APD$_\textnormal {90}$}{64}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}ERP and PRR}{66}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Other Biomarkers}{66}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Effects within Isch\ae {}mic Parameter Space}{66}{section.5.3}
-\contentsline {section}{\numberline {5.4}Model Failure During Isch\ae {}mia}{66}{section.5.4}
-\contentsline {chapter}{\numberline {A}Diffusion}{67}{appendix.A}
-\contentsline {section}{\numberline {A.1}Simple Diffusion}{67}{section.A.1}
-\contentsline {section}{\numberline {A.2}Facilitated Diffusion, Michaelis-Menten Kinetics}{67}{section.A.2}
-\contentsline {section}{\numberline {A.3}Electrodiffusion}{68}{section.A.3}
-\contentsline {subsection}{\numberline {A.3.1}The Nernst Equation}{68}{subsection.A.3.1}
+\contentsline {chapter}{\numberline {2}Physiological Background}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Structure and Function of the Heart}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Structure and Function of the Cardiomyocyte}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Ion Channel Properties}{5}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}The Action Potential}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Excitation-Contraction Coupling}{11}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Cardiac Dysfunction}{12}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Isch\ae {}mia}{12}{subsection.2.4.1}
+\contentsline {subsubsection}{Isch\ae {}mic Changes in the AP}{13}{subsubsection*.10}
+\contentsline {subsubsection}{Isch\ae {}mic Changes in [Ca$^{2+}$]$_\textnormal {i}${}}{16}{subsubsection*.12}
+\contentsline {subsubsection}{Other Isch\ae {}mic Changes}{19}{subsubsection*.14}
+\contentsline {subsection}{\numberline {2.4.2}Arrhythmogenesis}{19}{subsection.2.4.2}
+\contentsline {subsubsection}{Delayed \& Early After Depolarisations}{20}{subsubsection*.15}
+\contentsline {subsubsection}{Alternans}{21}{subsubsection*.16}
+\contentsline {subsubsection}{Spiral Waves \& Rotors}{22}{subsubsection*.18}
+\contentsline {subsubsection}{Re-entry}{23}{subsubsection*.19}
+\contentsline {section}{\numberline {2.5}Experimental \& Physiological Variation}{24}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Action Potential Variation}{25}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Ion Channel Variation}{25}{subsection.2.5.2}
+\contentsline {chapter}{\numberline {3}Modelling Background}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Development}{27}{section.3.1}
+\contentsline {section}{\numberline {3.2}Key Concepts}{29}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Nernst Potential}{30}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Hodgkin-Huxley Current}{30}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Markov Models}{31}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Mono-/Bi-domain Equations}{31}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Computational Modelling of Variability}{31}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Stochastic Modelling}{32}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Parameter Sensitivity \& Fitting}{33}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Model Populations}{35}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Computational Methods}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Represention of Multi-Dimensional Data}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}Computational Models \& Simulation Techniques}{38}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Nimrod Distributed Computing Grid}{38}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Parameter Space Simulations}{40}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Isch\ae {}mia Simulations}{41}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Biomarker Calculation}{42}{section.4.3}
+\contentsline {chapter}{\numberline {5}Parameter Space Exploration}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Reproduction of Experimental Variation}{44}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Comparison with Alternative Methods}{45}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Caveats}{46}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Construction of the Parameter Space}{47}{section.5.2}
+\contentsline {section}{\numberline {5.3}Accuracy of Biomarkers in Defining Model Fit}{47}{section.5.3}
+\contentsline {section}{\numberline {5.4}Defining a Population of Models to Reproduce Physiological Variation}{48}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Variation within the Population}{48}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Connectivity within the Parameter Space}{55}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Effects of Parameter Variation}{55}{section.5.5}
+\contentsline {section}{\numberline {5.6}Rate Dependence of Biomarkers}{60}{section.5.6}
+\contentsline {chapter}{\numberline {6}Isch\ae {}mic Variation}{62}{chapter.6}
+\contentsline {section}{\numberline {6.1}Variation Within Isch\ae {}mia}{62}{section.6.1}
+\contentsline {section}{\numberline {6.2}Population Response to Isch\ae {}mia}{63}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}APD$_\textnormal {90}$}{63}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}ERP and PRR}{65}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Other Biomarkers}{65}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Model Failure During Isch\ae {}mia}{65}{section.6.3}
+\contentsline {chapter}{\numberline {A}Diffusion}{68}{appendix.A}
+\contentsline {section}{\numberline {A.1}Simple Diffusion}{68}{section.A.1}
+\contentsline {section}{\numberline {A.2}Facilitated Diffusion, Michaelis-Menten Kinetics}{68}{section.A.2}
+\contentsline {section}{\numberline {A.3}Electrodiffusion}{69}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}The Nernst Equation}{69}{subsection.A.3.1}

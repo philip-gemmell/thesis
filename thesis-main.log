@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.28)  5 DEC 2013 14:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.15)  7 JAN 2014 02:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **thesis-main
 (./thesis-main.tex
 LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Babel <3.9g> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,7 +25,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (/users/philg/Documents/3_2010-2011/thesis/preamble.tex
-(/home/philip/texmf/tex/latex/Setup/avlthesis.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/Setup/avlthesis.sty
 \chaplen=\skip43
 \chaptitlewidth=\skip44
 \pagewidth=\skip45
@@ -35,38 +35,38 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \imwidththree=\skip49
 \imwidthfour=\skip50
 )
-(/home/philip/texmf/tex/latex/Setup/avldefs.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/Setup/avldefs.sty
 Package: avldefs 
 )
-(/home/philip/texmf/tex/latex/Setup/mydefs.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/Setup/mydefs.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 (/home/philip/texmf/tex/latex/commonstuff/commonstuff/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
 )
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen103
 \extrarowheight=\dimen104
@@ -88,30 +88,30 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 )
 (/home/philip/texmf/tex/latex/commonstuff/commonstuff/xcolor/svgnam.def
 File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen105
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen106
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count90
@@ -155,26 +155,26 @@ Package amsmath Warning: Unable to redefine math accent \vec.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(/home/philip/texmf/tex/latex/Setup/algorithm.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/Setup/algorithm.sty
 \c@algorithm=\count102
 \Blockindent=\skip57
 \algorithmindent=\skip58
 )
-(/home/philip/texmf/tex/latex/Setup/algorithmic.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/Setup/algorithmic.sty
 Package: algorithmic 2005/07/05
 
 Document Style `algorithmic' - environment
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count103
 \calc@Bcount=\count104
@@ -187,7 +187,7 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count105
 \calc@Cskip=\skip61
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks21
 )
@@ -197,7 +197,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \ALC@tlm=\skip62
 \algorithmicindent=\skip63
 )
-(/home/philip/texmf/tex/latex/lm/lmodern.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -232,10 +232,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
@@ -243,23 +243,23 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 Package: ebgaramond 2013/05/22 (Bob Tennent and autoinst) Style file for EB Gar
 amond fonts.
 
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 \XKV@toks=\toks22
 \XKV@tempa@toks=\toks23
 \XKV@depth=\count109
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -274,7 +274,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 266.
@@ -340,7 +340,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 )
 (/home/philip/texmf/tex/latex/fontaxes/fontaxes.sty
@@ -366,16 +366,16 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen119
 \titlewidthfirst=\dimen120
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -383,7 +383,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen123
 \epsfysize=\dimen124
@@ -419,14 +419,14 @@ Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 \c@SC@C=\count113
 \SC@BOX=\box29
 )
-(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(/home/philip/texmf/tex/latex/fullpage/fullpage.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/fullpage/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip66
 )
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip67
 \bibsep=\skip68
@@ -438,14 +438,14 @@ LaTeX Info: Redefining \cite on input line 694.
 \@min=\count116
 \@cite@temp=\count117
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -485,22 +485,22 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen136
 \Hy@linkcounter=\count118
 \Hy@pagecounter=\count119
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count120
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -532,12 +532,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count126
 \c@bookmark@seq@number=\count127
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -547,7 +547,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (/home/philip/texmf/tex/latex/commonstuff/commonstuff/subfiles/subfiles.sty
 Package: subfiles 2012/05/23 Federico Garcia
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks25
 \verbatim@line=\toks26
@@ -559,10 +559,10 @@ Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseTextstyle=\skip71
 \L@UnitsRaiseScriptstyle=\skip72
 )
-(/home/philip/texmf/tex/latex/mhchem/mhchem.sty
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/mhchem/mhchem.sty
 Package: mhchem 2011/06/03 v3.11 for typesetting chemical formulae
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/twoopt.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/twoopt.sty
 Package: twoopt 2008/08/11 v1.5 Definitions with two optional arguments (HO)
 )
 \tok@mhchem@ce@iii=\toks27
@@ -616,31 +616,31 @@ Package: IEEEtrantools 2012/12/27 V1.3 by Michael Shell
 \@IEEEeqncolcnt=\count132
 \@IEEEsubeqnnumrollback=\count133
 \IEEEPARstartletwidth=\dimen151
-) (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 42.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 \mybox=\box31
 
 (/users/philg/Documents/3_2010-2011/thesis/titledata.tex)
-(/usr/share/texlive/texmf-dist/tex/latex/minted/minted.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/minted/minted.sty
 Package: minted 2011/09/17 v1.7 Yet another Pygments shim for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
@@ -651,7 +651,8 @@ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
 \c@FancyVerbLine=\count135
 \FV@StepNumber=\count136
 \FV@OutFile=\write3
-) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count137
 \float@exts=\toks37
@@ -659,10 +660,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks38
 \@floatcapt=\box34
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ifplatform/ifplatform.sty
 Package: ifplatform 2010/10/22 v0.4 Testing for the operating system
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/catchfile.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/catchfile.sty
 Package: catchfile 2011/03/01 v1.6 Catch the contents of a file (HO)
 )
 runsystem(uname -s > "thesis-main.w18")...executed.
@@ -683,7 +684,7 @@ runsystem(rm thesis-main.aex)...executed.
 
 ) (./thesis-main.aux
 
-LaTeX Warning: Label `table:optimum-order' multiply defined.
+LaTeX Warning: Label `subsec:nernst' multiply defined.
 
 )
 \openout1 = `thesis-main.aux'.
@@ -713,7 +714,7 @@ ond-OsF.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 7.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count139
 \scratchdimen=\dimen152
@@ -729,17 +730,17 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 )
 \c@mv@tabular=\count145
 \c@mv@boldtabular=\count146
- (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -749,10 +750,10 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: sidecap package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 
 ABD: EverySelectfont initializing macros
@@ -776,10 +777,10 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \AtBeginShipoutBox=\box37
 Package hyperref Info: Link coloring OFF on input line 7.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count147
@@ -814,7 +815,7 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 10.
 
 </users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest_blue
-_mod.png, id=269, 116.45795pt x 139.4811pt>
+_mod.png, id=249, 116.45795pt x 139.4811pt>
 File: /users/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest
 _blue_mod.png Graphic file (type png)
 
@@ -833,9 +834,9 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
  (./declaration.tex) [1
 
 
-Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </u
-sers/philg/Documents/Presentation_Images/oxford_logos/png_files/oxcrest_blue_mo
-d.png>]) (./Abstract/abstract.tex
+Non-PDF special ignored!{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/upd
+map/pdftex.map} </users/philg/Documents/Presentation_Images/oxford_logos/png_fi
+les/oxcrest_blue_mod.png>]) (./Abstract/abstract.tex
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 14.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bx/n' in size <20.74> not ava
@@ -855,22 +856,22 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 ) [2] (./thesis-main.toc
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3.
 
-(/home/philip/texmf/tex/latex/lm/ot1lmr.fd
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 3.
 
-(/home/philip/texmf/tex/latex/lm/omllmm.fd
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 3.
 
-(/home/philip/texmf/tex/latex/lm/omslmsy.fd
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 3.
 
-(/home/philip/texmf/tex/latex/lm/omxlmex.fd
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -881,23 +882,23 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+rsfs on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 11.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 26.
+(Font)              scaled to size 6.0pt on input line 11.
  [3
 
 ])
@@ -930,7 +931,7 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
 ) [8] (./notation.tex) [9]
 Chapter 1.
 LaTeX Font Info:    Try loading font information for T1+pzc on input line 59.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pzc.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1pzc.fd
 File: t1pzc.fd 2001/06/04 font definitions for T1/pzc.
 )
 LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <150> not available
@@ -958,122 +959,150 @@ LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <18> not available
 ]
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 8.
+(Font)              scaled to size 10.95pt on input line 10.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 8.
+(Font)              scaled to size 10.95pt on input line 10.
 LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <12> not available
-(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 9.
+(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 11.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 17.
-<LitReview/heart_labels.png, id=461, 1135.24126pt x 692.5875pt>
+(Font)              scaled to size 12.0pt on input line 19.
+<LitReview/heart_labels.png, id=441, 1135.24126pt x 692.5875pt>
 File: LitReview/heart_labels.png Graphic file (type png)
 
 <use LitReview/heart_labels.png>
-Package pdftex.def Info: LitReview/heart_labels.png used on input line 28.
+Package pdftex.def Info: LitReview/heart_labels.png used on input line 27.
 (pdftex.def)             Requested size: 339.72592pt x 207.26001pt.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bx/n' in size <10.95> not ava
 ilable
 (Font)              Font shape `T1/EBGaramond-OsF/m/n' tried instead on input l
-ine 29.
+ine 28.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 29.
+(Font)              scaled to size 10.95pt on input line 28.
 
-Overfull \hbox (0.86179pt too wide) in paragraph at lines 32--33
-\T1/EBGaramond-OsF/m/n/12 Fig. []2.1[] shows the anatom-i-cal struc-ture of the
- mam-malian heart---while the size ob-vi-ously varies widely
- []
+
+LaTeX Warning: Reference `subsec:electro-prop' on page 2 undefined on input lin
+e 35.
 
 [2
 
-] <LitReview/myocytes.png, id=470, 4341.21875pt x 2930.95pt>
+] <LitReview/myocytes.png, id=449, 4341.21875pt x 2930.95pt>
 File: LitReview/myocytes.png Graphic file (type png)
 
 <use LitReview/myocytes.png>
-Package pdftex.def Info: LitReview/myocytes.png used on input line 42.
+Package pdftex.def Info: LitReview/myocytes.png used on input line 41.
 (pdftex.def)             Requested size: 203.83417pt x 137.61156pt.
 
-<LitReview/myocyte-image.jpg, id=471, 1284.8pt x 1027.84pt>
+<LitReview/myocyte-image.jpg, id=450, 1284.8pt x 1027.84pt>
 File: LitReview/myocyte-image.jpg Graphic file (type jpg)
 
 <use LitReview/myocyte-image.jpg>
-Package pdftex.def Info: LitReview/myocyte-image.jpg used on input line 48.
+Package pdftex.def Info: LitReview/myocyte-image.jpg used on input line 47.
 (pdftex.def)             Requested size: 203.83417pt x 163.06192pt.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 56.
+LaTeX Warning: Command \r invalid in math mode on input line 55.
 
-
-Underfull \vbox (badness 1231) has occurred while \output is active []
-
-
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [3 <./LitReview/heart_labels.png> <./LitReview/myocytes.png> <./LitReview/myoc
-yte-image.jpg>] <LitReview/cardiac_conduction.png, id=503, 485.815pt x 318.1887
-5pt>
-File: LitReview/cardiac_conduction.png Graphic file (type png)
-
-<use LitReview/cardiac_conduction.png>
-Package pdftex.def Info: LitReview/cardiac_conduction.png used on input line 63
-.
-(pdftex.def)             Requested size: 362.37569pt x 237.33978pt.
-
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [4]
-Overfull \hbox (5.87698pt too wide) in paragraph at lines 78--79
-[]\T1/EBGaramond-OsF/m/n/12 Electrically, the heart can be mod-elled with great
- suc-cess as an ana-logue to an elec-tri-cal cir-cuit ([]Carmeliet
- []
-
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 80.
-<LitReview/ap-structure-full.png, id=529, 1148.29pt x 645.41125pt>
-File: LitReview/ap-structure-full.png Graphic file (type png)
-
-<use LitReview/ap-structure-full.png>
-Package pdftex.def Info: LitReview/ap-structure-full.png used on input line 85.
-
-(pdftex.def)             Requested size: 362.37569pt x 203.67pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [5 <./LitReview/cardiac_conduction.png>]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
+ [3 <./LitReview/heart_labels.png> <./LitReview/myocytes.png> <./LitReview/myoc
+yte-image.jpg>]
 
- [6 <./LitReview/ap-structure-full.png>]
-Underfull \vbox (badness 1448) has occurred while \output is active []
+Package natbib Warning: Citation `Caldwell2009' on page 4 undefined on input li
+ne 57.
+
+
+LaTeX Warning: Reference `subsubsec:ecc' on page 4 undefined on input line 59.
+
+<LitReview/cardiac_conduction.png, id=482, 485.815pt x 318.18875pt>
+File: LitReview/cardiac_conduction.png Graphic file (type png)
+
+<use LitReview/cardiac_conduction.png>
+Package pdftex.def Info: LitReview/cardiac_conduction.png used on input line 62
+.
+(pdftex.def)             Requested size: 362.37569pt x 237.33978pt.
+
+
+LaTeX Warning: Reference `subsubsec:ecc' on page 4 undefined on input line 70.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [4 <./LitReview/cardiac_conduction.png>]
+
+LaTeX Warning: Reference `sec:param-var' on page 5 undefined on input line 76.
+
+
+Overfull \hbox (5.87698pt too wide) in paragraph at lines 78--79
+[]\T1/EBGaramond-OsF/m/n/12 Electrically, the heart can be mod-elled with great
+ suc-cess as an ana-logue to an elec-tri-cal cir-cuit ([]Carmeliet
+ []
+
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [5]
+
+LaTeX Warning: Reference `subsubsec:nernst' on page 6 undefined on input line 8
+6.
+
+
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [6]
+
+LaTeX Warning: Reference `subsubsec:ecc' on page 7 undefined on input line 102.
+
 
 
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
  [7]
-Overfull \hbox (6.34097pt too wide) in paragraph at lines 113--115
+<LitReview/ap-structure-full.png, id=612, 1148.29pt x 645.41125pt>
+File: LitReview/ap-structure-full.png Graphic file (type png)
+
+<use LitReview/ap-structure-full.png>
+Package pdftex.def Info: LitReview/ap-structure-full.png used on input line 115
+.
+(pdftex.def)             Requested size: 362.37569pt x 203.67pt.
+
+
+LaTeX Warning: Reference `subsubsec:channel-dynamics' on page 8 undefined on in
+put line 120.
+
+
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [8 <./LitReview/ap-structure-full.png>]
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (6.34097pt too wide) in paragraph at lines 143--145
 \T1/EBGaramond-OsF/m/n/12 Based on this, it can be seen that a bi-fur-ca-tion e
 x-ists (which man-i-fests as al-ter-nans) when-ever $\OMS/lmsy/m/n/12 j\OML/lmm
 /m/it/12 f[]\OT1/lmr/m/n/12 ([])\OMS/lmsy/m/n/12 j \OML/lmm/m/it/12 >
  []
 
-<LitReview/alternans-restitutionCurve.png, id=588, 188.20313pt x 270.25969pt>
+<LitReview/alternans-restitutionCurve.png, id=654, 188.20313pt x 270.25969pt>
 File: LitReview/alternans-restitutionCurve.png Graphic file (type png)
 
 <use LitReview/alternans-restitutionCurve.png>
 Package pdftex.def Info: LitReview/alternans-restitutionCurve.png used on input
- line 120.
+ line 150.
 (pdftex.def)             Requested size: 226.48395pt x 325.25435pt.
 
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
+Underfull \vbox (badness 4779) has occurred while \output is active []
 
- [8 <./LitReview/alternans-restitutionCurve.png>]
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [9]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [10]
+ [10 <./LitReview/alternans-restitutionCurve.png>]
 Overfull \hbox (1.53127pt too wide) in paragraph at lines 165--166
 []\T1/EBGaramond-OsF/m/n/12 The end [Ca$[]$]$[]$ is heav-ily de-pen-dent on thi
 s up-take/extrusion process---if there is an inhibition/up-
@@ -1083,317 +1112,343 @@ s up-take/extrusion process---if there is an inhibition/up-
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
  [11]
-Underfull \vbox (badness 3118) has occurred while \output is active []
-
-
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
  [12]
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 192.
+
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
  [13]
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-LaTeX Info: Redefining \bond on input line 239.
-LaTeX Info: Redefining \dbond on input line 239.
-LaTeX Info: Redefining \tbond on input line 239.
-
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [14]
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [15]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [16]
-Underfull \vbox (badness 7133) has occurred while \output is active []
-
-
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [17]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [18]
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [19]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [20]
-<LitReview/param-var-effect.png, id=1200, 888.31876pt x 319.1925pt>
-File: LitReview/param-var-effect.png Graphic file (type png)
-
-<use LitReview/param-var-effect.png>
-Package pdftex.def Info: LitReview/param-var-effect.png used on input line 359.
-
-(pdftex.def)             Requested size: 362.37569pt x 130.20738pt.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 360.
-
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [21]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [22 <./LitReview/param-var-effect.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [23]
-Underfull \vbox (badness 2573) has occurred while \output is active []
-
-
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [24]
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [25]
-<LitReview/spatial-ischaemia.png, id=1446, 374.39874pt x 338.26375pt>
+<LitReview/spatial-ischaemia.png, id=838, 374.39874pt x 338.26375pt>
 File: LitReview/spatial-ischaemia.png Graphic file (type png)
 
 <use LitReview/spatial-ischaemia.png>
-Package pdftex.def Info: LitReview/spatial-ischaemia.png used on input line 441
+Package pdftex.def Info: LitReview/spatial-ischaemia.png used on input line 213
 .
 (pdftex.def)             Requested size: 226.48395pt x 204.62697pt.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 444.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 444.
-
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [26]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 448.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 448.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 448.
+(Font)              <10.95> on input line 216.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 448.
+(Font)              scaled to size 8.0pt on input line 216.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 448.
+(Font)              scaled to size 6.0pt on input line 216.
+
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [14 <./LitReview/spatial-ischaemia.png>]
+LaTeX Info: Redefining \bond on input line 234.
+LaTeX Info: Redefining \dbond on input line 234.
+LaTeX Info: Redefining \tbond on input line 234.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 234.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 234.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 234.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 234.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 234.
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [15]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 240.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 240.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 240.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 448.
+(hyperref)                removing `math shift' on input line 240.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 448.
+(hyperref)                removing `superscript' on input line 240.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 448.
+(hyperref)                removing `math shift' on input line 240.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 448.
+(hyperref)                removing `math shift' on input line 240.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 448.
+(hyperref)                removing `subscript' on input line 240.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 448.
+(hyperref)                removing `math shift' on input line 240.
 
 LaTeX Font Info:    Try loading font information for TS1+EBGaramond-OsF on inpu
-t line 452.
+t line 244.
 (/home/philip/texmf/tex/latex/ebgaramond/latex/TS1EBGaramond-OsF.fd
 File: TS1EBGaramond-OsF.fd 2013/02/13 (autoinst) Font definitions for TS1/EBGar
 amond-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 452.
+(Font)              scaled to size 12.0pt on input line 244.
 
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [27 <./LitReview/spatial-ischaemia.png>]
-<LitReview/ca-ischaemia.png, id=1508, 301.125pt x 213.04594pt>
+<LitReview/ca-ischaemia.png, id=1004, 301.125pt x 213.04594pt>
 File: LitReview/ca-ischaemia.png Graphic file (type png)
 
 <use LitReview/ca-ischaemia.png>
-Package pdftex.def Info: LitReview/ca-ischaemia.png used on input line 464.
+Package pdftex.def Info: LitReview/ca-ischaemia.png used on input line 256.
 (pdftex.def)             Requested size: 362.37569pt x 256.40477pt.
 
-Overfull \hbox (1.98pt too wide) in paragraph at lines 471--472
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [16]
+Overfull \hbox (1.98pt too wide) in paragraph at lines 263--264
 []\T1/EBGaramond-OsF/m/n/12 For a fuller sum-mary of the changes in SR func-tio
 n dur-ing is-chæmia, both in terms of up-take (SERCA)
  []
 
 
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [28 <./LitReview/ca-ischaemia.png>]
-Overfull \hbox (8.30104pt too wide) in paragraph at lines 481--482
+ [17 <./LitReview/ca-ischaemia.png>]
+Overfull \hbox (8.30104pt too wide) in paragraph at lines 273--274
 \T1/EBGaramond-OsF/m/n/12 my-ocyte ([]Lee et al.[], []1988[]; []Ka-plan et al.[
 ], []1992[]), ac-com-pa-nied by an in-crease in di-as-tolic ten-sion ([]Mubagwa
 [],
  []
 
 
-Overfull \hbox (8.10226pt too wide) in paragraph at lines 485--486
+Overfull \hbox (8.10226pt too wide) in paragraph at lines 277--278
 \T1/EBGaramond-OsF/m/n/12 coplas-mic retic-u-lum, rather than APD al-ter-nans: 
 the smaller tran-sient fol-lows a higher di-as-tolic [Ca$[]$]$[]$,
  []
 
 
-Underfull \vbox (badness 2478) has occurred while \output is active []
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [18]
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [19]
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [20]
+<LitReview/alternans.png, id=1310, 371.13657pt x 297.36093pt>
+File: LitReview/alternans.png Graphic file (type png)
+
+<use LitReview/alternans.png>
+Package pdftex.def Info: LitReview/alternans.png used on input line 333.
+(pdftex.def)             Requested size: 226.48395pt x 181.46703pt.
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [21 <./LitReview/alternans.png>]
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [22]
+
+LaTeX Warning: Reference `subsubsec:spiralWaves-rotors' on page 23 undefined on
+ input line 358.
+
+
+LaTeX Warning: Reference `subsec:comp-var' on page 23 undefined on input line 3
+66.
+
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [24]
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [25]
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [26]
+Chapter 3.
+
+LaTeX Warning: Reference `subsec:model-concepts' on page 27 undefined on input 
+line 436.
+
+[27
+
+]
+
+LaTeX Warning: Reference `subsubsec:markov' on page 28 undefined on input line 
+442.
+
+
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [28]
+
+LaTeX Warning: Reference `subsubsec:nernst' on page 29 undefined on input line 
+466.
 
 
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
  [29]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
  [30]
-LaTeX Info: Redefining \bond on input line 517.
-LaTeX Info: Redefining \dbond on input line 517.
-LaTeX Info: Redefining \tbond on input line 517.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
+LaTeX Info: Redefining \bond on input line 506.
+LaTeX Info: Redefining \dbond on input line 506.
+LaTeX Info: Redefining \tbond on input line 506.
 
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
  [31]
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
 
- [32]
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
+LaTeX Warning: Reference `subsubsec:ead-dad' on page 32 undefined on input line
+ 533.
 
- [33]
-<LitReview/alternans.png, id=1919, 371.13657pt x 297.36093pt>
-File: LitReview/alternans.png Graphic file (type png)
 
-<use LitReview/alternans.png>
-Package pdftex.def Info: LitReview/alternans.png used on input line 567.
-(pdftex.def)             Requested size: 226.48395pt x 181.46703pt.
-
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [34 <./LitReview/alternans.png>]
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [35])
-(./CompMethods/compmethods.tex
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [36]
-Chapter 3.
+ [32]
+<LitReview/param-var-effect.png, id=1845, 888.31876pt x 319.1925pt>
+File: LitReview/param-var-effect.png Graphic file (type png)
+
+<use LitReview/param-var-effect.png>
+Package pdftex.def Info: LitReview/param-var-effect.png used on input line 542.
+
+(pdftex.def)             Requested size: 362.37569pt x 130.20738pt.
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [33 <./LitReview/param-var-effect.png>]
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [34])
+(./CompMethods/compmethods.tex
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [35]
+Chapter 4.
 
 Overfull \hbox (10.58557pt too wide) in paragraph at lines 16--17
 []\T1/EBGaramond-OsF/m/it/12 This chap-ter presents the com-pu-ta-tional meth-o
 ds that are used through-out this dissertation---
  []
 
-[37
+[36
 
 ]
 Overfull \hbox (16.6223pt too wide) in paragraph at lines 25--26
@@ -1403,22 +1458,22 @@ ep-re-sented by $\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 x[]; [] []; x[]\OT1/lmr/m/n/
 12 )$\T1/EBGaramond-OsF/m/n/12 )
  []
 
-<CompMethods/dimStack.png, id=2033, 236.5638pt x 193.6836pt>
+<CompMethods/dimStack.png, id=1958, 236.5638pt x 193.6836pt>
 File: CompMethods/dimStack.png Graphic file (type png)
 
 <use CompMethods/dimStack.png>
 Package pdftex.def Info: CompMethods/dimStack.png used on input line 34.
 (pdftex.def)             Requested size: 339.72592pt x 278.1446pt.
 
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
-
- [38 <./CompMethods/dimStack.png>]
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [39]
+ [37 <./CompMethods/dimStack.png>]
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [38]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 57.
 
-(/home/philip/texmf/tex/latex/lm/t1lmtt.fd
+(/home/philip/texmf/tex/latex/commonstuff/commonstuff/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package hyperref Info: bookmark level for unknown listing defaults to 0 on inpu
@@ -1428,57 +1483,94 @@ t line 68.
 runsystem(pygmentize -l cpp -f latex -F tokenmerge  -F gobble:n=2           -P 
 "verboptions= " -o thesis-main.out.pyg thesis-main.pyg)...executed.
 
- (./thesis-main.out.pyg)
+
+(./thesis-main.out.pyg)
 runsystem(rm thesis-main.out.pyg)...executed.
 
 runsystem(rm thesis-main.pyg)...executed.
 
 
+
+LaTeX Warning: Reference `subsec:comp-var' on page 39 undefined on input line 8
+9.
+
+
+Underfull \vbox (badness 2828) has occurred while \output is active []
+
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [39]
+
+LaTeX Warning: Reference `subsec:model-development' on page 40 undefined on inp
+ut line 108.
+
+
+LaTeX Warning: Reference `subsubsec:channel-dynamics' on page 40 undefined on i
+nput line 110.
+
+
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
  [40]
+
+LaTeX Warning: Reference `subsubsec:ischaemia-ap' on page 41 undefined on input
+ line 136.
+
+
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
  [41]
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [42]
-
-LaTeX Warning: Reference `subsubsec:anoxia' on page 43 undefined on input line 
+LaTeX Warning: Reference `subsubsec:anoxia' on page 42 undefined on input line 
 150.
 
-<CompMethods/gkatp-effect.png, id=2115, 3246.1275pt x 945.5325pt>
+<CompMethods/gkatp-effect.png, id=2035, 3246.1275pt x 945.5325pt>
 File: CompMethods/gkatp-effect.png Graphic file (type png)
 
 <use CompMethods/gkatp-effect.png>
 Package pdftex.def Info: CompMethods/gkatp-effect.png used on input line 153.
 (pdftex.def)             Requested size: 385.02547pt x 112.14609pt.
 
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [43 <./CompMethods/gkatp-effect.png>]
+ [42 <./CompMethods/gkatp-effect.png>]
 
-LaTeX Warning: Reference `subsec:biomarker-accuracy' on page 44 undefined on in
+LaTeX Warning: Reference `subsec:biomarker-accuracy' on page 43 undefined on in
 put line 180.
 
 ) (./ParamSpace/paramSpace.tex
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [44]
-Chapter 4.
-[45
+ [43]
+Chapter 5.
+
+LaTeX Warning: Reference `sec:param-var' on page 44 undefined on input line 21.
+
+
+[44
 
 ]
+
+LaTeX Warning: Reference `subsec:comp-var' on page 45 undefined on input line 4
+3.
+
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [45]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
  [46]
+
+LaTeX Warning: Reference `sec:param-var' on page 47 undefined on input line 70.
+
+
+
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
  [47]
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
-
- [48]
-<ParamSpace/biomarker-compare.png, id=2265, 233.4321pt x 243.5499pt>
+<ParamSpace/biomarker-compare.png, id=2184, 233.4321pt x 243.5499pt>
 File: ParamSpace/biomarker-compare.png Graphic file (type png)
 
 <use ParamSpace/biomarker-compare.png>
@@ -1486,8 +1578,13 @@ Package pdftex.def Info: ParamSpace/biomarker-compare.png used on input line 85
 .
 (pdftex.def)             Requested size: 317.07614pt x 330.85185pt.
 
+Overfull \hbox (9.00197pt too wide) in paragraph at lines 90--90
+ |[]\T1/EBGaramond-OsF/m/n/17.28 Defining a Pop-u-la-tion of Mod-els to Re-pro-
+duce Phys-i-o-log-i-cal Vari-
+ []
 
-LaTeX Warning: Reference `population-minMeanMax' on page 49 undefined on input 
+
+LaTeX Warning: Reference `population-minMeanMax' on page 48 undefined on input 
 line 110.
 
 
@@ -1496,13 +1593,13 @@ Overfull \hbox (28.3839pt too wide) in paragraph at lines 113--122
  []
 
 
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [49]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [50 <./ParamSpace/biomarker-compare.png>]
-<ParamSpace/expandedMahajan.png, id=2307, 236.082pt x 101.178pt>
+ [48]
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [49 <./ParamSpace/biomarker-compare.png>]
+<ParamSpace/expandedMahajan.png, id=2225, 236.082pt x 101.178pt>
 File: ParamSpace/expandedMahajan.png Graphic file (type png)
 
 <use ParamSpace/expandedMahajan.png>
@@ -1510,46 +1607,38 @@ Package pdftex.def Info: ParamSpace/expandedMahajan.png used on input line 186.
 
 (pdftex.def)             Requested size: 317.07614pt x 135.90045pt.
 
-<ParamSpace/shannon-population.png, id=2312, 351.2322pt x 624.1719pt>
+<ParamSpace/shannon-population.png, id=2230, 351.2322pt x 624.1719pt>
 File: ParamSpace/shannon-population.png Graphic file (type png)
 
 <use ParamSpace/shannon-population.png>
 Package pdftex.def Info: ParamSpace/shannon-population.png used on input line 1
 94.
-(pdftex.def)             Requested size: 452.9679pt x 804.9851pt.
+(pdftex.def)             Requested size: 317.07614pt x 563.49243pt.
 
-
-LaTeX Warning: Float too large for page by 217.75948pt on input line 197.
-
-
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [51 <./ParamSpace/expandedMahajan.png>]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [52]
-<ParamSpace/mahajan-population.png, id=2326, 368.577pt x 628.9899pt>
+ [50 <./ParamSpace/expandedMahajan.png>]
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [51]
+<ParamSpace/mahajan-population.png, id=2243, 368.577pt x 628.9899pt>
 File: ParamSpace/mahajan-population.png Graphic file (type png)
 
 <use ParamSpace/mahajan-population.png>
 Package pdftex.def Info: ParamSpace/mahajan-population.png used on input line 2
 04.
-(pdftex.def)             Requested size: 452.9679pt x 773.02914pt.
+(pdftex.def)             Requested size: 317.07614pt x 541.11272pt.
 
-
-LaTeX Warning: Float too large for page by 185.80351pt on input line 207.
-
-
-Overfull \vbox (4.98pt too high) has occurred while \output is active []
-
- [53]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [54 <./ParamSpace/shannon-population.png>]
+ [52]
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [55 <./ParamSpace/mahajan-population.png>]
-<ParamSpace/space-connectivity.png, id=2353, 1435.3625pt x 1679.27374pt>
+ [53 <./ParamSpace/shannon-population.png>]
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [54 <./ParamSpace/mahajan-population.png>]
+<ParamSpace/space-connectivity.png, id=2272, 1435.3625pt x 1679.27374pt>
 File: ParamSpace/space-connectivity.png Graphic file (type png)
 
 <use ParamSpace/space-connectivity.png>
@@ -1558,10 +1647,10 @@ Package pdftex.def Info: ParamSpace/space-connectivity.png used on input line 2
 (pdftex.def)             Requested size: 317.07614pt x 370.95316pt.
 
 
-LaTeX Warning: Reference `fig:mahajan-parameffect' on page 56 undefined on inpu
+LaTeX Warning: Reference `fig:mahajan-parameffect' on page 55 undefined on inpu
 t line 229.
 
-<ParamSpace/shannon-paramEffect.png, id=2356, 493.6041pt x 522.0303pt>
+<ParamSpace/shannon-paramEffect.png, id=2275, 493.6041pt x 522.0303pt>
 File: ParamSpace/shannon-paramEffect.png Graphic file (type png)
 
 <use ParamSpace/shannon-paramEffect.png>
@@ -1569,7 +1658,7 @@ Package pdftex.def Info: ParamSpace/shannon-paramEffect.png used on input line
 232.
 (pdftex.def)             Requested size: 452.9679pt x 479.05498pt.
 
-<ParamSpace/mahajan-paramEffect.png, id=2359, 2133.571pt x 2309.428pt>
+<ParamSpace/mahajan-paramEffect.png, id=2278, 2133.571pt x 2309.428pt>
 File: ParamSpace/mahajan-paramEffect.png Graphic file (type png)
 
 <use ParamSpace/mahajan-paramEffect.png>
@@ -1577,22 +1666,25 @@ Package pdftex.def Info: ParamSpace/mahajan-paramEffect.png used on input line
 239.
 (pdftex.def)             Requested size: 452.9679pt x 490.28004pt.
 
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
-
- [56]
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [57 <./ParamSpace/space-connectivity.png>]
+ [55]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [58 <./ParamSpace/shannon-paramEffect.png>]
+ [56 <./ParamSpace/space-connectivity.png>]
 Overfull \vbox (4.98pt too high) has occurred while \output is active []
 
- [59 <./ParamSpace/mahajan-paramEffect.png>]
+ [57 <./ParamSpace/shannon-paramEffect.png>]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [60]
-<ParamSpace/biomarker-rateEffect.png, id=2392, 493.6041pt x 532.1481pt>
+ [58 <./ParamSpace/mahajan-paramEffect.png>]
+Underfull \vbox (badness 1888) has occurred while \output is active []
+
+
+Overfull \vbox (4.98pt too high) has occurred while \output is active []
+
+ [59]
+<ParamSpace/biomarker-rateEffect.png, id=2310, 493.6041pt x 532.1481pt>
 File: ParamSpace/biomarker-rateEffect.png Graphic file (type png)
 
 <use ParamSpace/biomarker-rateEffect.png>
@@ -1600,66 +1692,73 @@ Package pdftex.def Info: ParamSpace/biomarker-rateEffect.png used on input line
  292.
 (pdftex.def)             Requested size: 452.9679pt x 488.33984pt.
 ) (./ischaemia/ischaemia.tex
-Overfull \vbox (7.728pt too high) has occurred while \output is active []
-
- [61]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [62 <./ParamSpace/biomarker-rateEffect.png>]
-Chapter 5.
-[63
+ [60]
+Overfull \vbox (7.728pt too high) has occurred while \output is active []
 
-]
+ [61 <./ParamSpace/biomarker-rateEffect.png>]
+Chapter 6.
 
-LaTeX Warning: Reference `table:isch-params' on page 64 undefined on input line
- 29.
+LaTeX Warning: Reference `sec:disease' on page 62 undefined on input line 25.
 
-<ischaemia/isch-ap-apd90.png, id=2411, 1625.07124pt x 1846.9pt>
-File: ischaemia/isch-ap-apd90.png Graphic file (type png)
+[62
 
-<use ischaemia/isch-ap-apd90.png>
-Package pdftex.def Info: ischaemia/isch-ap-apd90.png used on input line 58.
+] <ischaemia/isch17-ap-apd90.png, id=2333, 1625.07124pt x 1846.9pt>
+File: ischaemia/isch17-ap-apd90.png Graphic file (type png)
+
+<use ischaemia/isch17-ap-apd90.png>
+Package pdftex.def Info: ischaemia/isch17-ap-apd90.png used on input line 60.
 (pdftex.def)             Requested size: 362.37569pt x 411.81464pt.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bx/n' in size <10> not availa
 ble
 (Font)              Font shape `T1/EBGaramond-OsF/m/n' tried instead on input l
-ine 63.
+ine 65.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 10.0pt on input line 65.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bx/n' in size <7> not availab
 le
 (Font)              Font shape `T1/EBGaramond-OsF/m/n' tried instead on input l
-ine 63.
+ine 65.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 63.
+(Font)              scaled to size 7.0pt on input line 65.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 63.
+(hyperref)                removing `math shift' on input line 65.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 63.
+(hyperref)                removing `subscript' on input line 65.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 63.
+(hyperref)                removing `math shift' on input line 65.
 
-) (./Appendices/electric.tex
-Underfull \vbox (badness 6110) has occurred while \output is active []
+<ischaemia/ko_isch17-ap.png, id=2336, 1623.06375pt x 1980.39874pt>
+File: ischaemia/ko_isch17-ap.png Graphic file (type png)
 
+<use ischaemia/ko_isch17-ap.png>
+Package pdftex.def Info: ischaemia/ko_isch17-ap.png used on input line 109.
+(pdftex.def)             Requested size: 362.37569pt x 442.15582pt.
 
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
-
- [64]
 Overfull \vbox (7.728pt too high) has occurred while \output is active []
 
- [65 <./ischaemia/isch-ap-apd90.png>]
+ [63]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [66]
+ [64 <./ischaemia/isch17-ap-apd90.png>]) (./Appendices/electric.tex
+Overfull \vbox (7.728pt too high) has occurred while \output is active []
+
+ [65]
+Overfull \vbox (8.454pt too high) has occurred while \output is active []
+
+ [66 <./ischaemia/ko_isch17-ap.png>]
+Overfull \vbox (7.728pt too high) has occurred while \output is active []
+
+ [67]
 Appendix A.
-[67
+[68
 
 ]
 LaTeX Info: Redefining \bond on input line 39.
@@ -1690,19 +1789,16 @@ LaTeX Info: Redefining \bond on input line 63.
 LaTeX Info: Redefining \dbond on input line 63.
 LaTeX Info: Redefining \tbond on input line 63.
 
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
+Overfull \vbox (7.728pt too high) has occurred while \output is active []
 
- [68])
+ [69])
 (./thesis-main.bbl
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
- [69]
-[70
+ [70]
+[71
 
 ]
-Overfull \vbox (8.454pt too high) has occurred while \output is active []
-
- [71]
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
  [72]
@@ -1754,6 +1850,9 @@ Overfull \vbox (8.454pt too high) has occurred while \output is active []
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
 
  [88])
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
 
 Overfull \vbox (8.454pt too high) has occurred while \output is active []
@@ -1765,7 +1864,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
 Package rerunfilecheck Info: File `thesis-main.out' has not changed.
-(rerunfilecheck)             Checksum: D119422D4CF4993728FE7E0C9FCF84E3;5056.
+(rerunfilecheck)             Checksum: 984B58563355A816889522F6E8B59448;4606.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1780,46 +1879,51 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 13565 strings out of 493307
- 213385 string characters out of 6139904
- 326047 words of memory out of 5000000
- 16065 multiletter control sequences out of 15000+600000
+ 13548 strings out of 493308
+ 214578 string characters out of 6137815
+ 325905 words of memory out of 5000000
+ 16059 multiletter control sequences out of 15000+600000
  113283 words of font info for 142 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 57i,28n,92p,2566b,1064s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{listing.3.2} has been referenced but does not exi
+ 56i,28n,92p,2566b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{listing.4.2} has been referenced but does not exi
 st, replaced by a fixed one
 
-pdfTeX warning (dest): name{listing.3.1} has been referenced but does not exist
+pdfTeX warning (dest): name{listing.4.1} has been referenced but does not exist
 , replaced by a fixed one
 
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist/f
-onts/enc/dvips/ebgaramond/ebgm_i7zvqf.enc}{/usr/share/texmf/fonts/enc/dvips/lm/
-lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/
-fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy
-.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_zaj4rc.enc}
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/
-texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_6w53db.enc}{/usr/share/texlive/texmf
--dist/fonts/enc/dvips/ebgaramond/ebgm_i4qnsr.enc}</usr/share/texlive/texmf-dist
-/fonts/type1/public/ebgaramond/EBGaramond12-Italic.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/ebgaramond/EBGaramond12-Regular.pfb></usr/share/texmf
-/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx8
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts
-/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1
-/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmtt12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtti10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on thesis-main.pdf (98 pages, 5539608 bytes).
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
+xlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2013/tex
+mf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2013/texmf-dist/fo
+nts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgara
+mond/ebgm_i7zvqf.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgara
+mond/ebgm_zaj4rc.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8
+r.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_6w53d
+b.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_i4qns
+r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaram
+ond12-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaram
+ond/EBGaramond12-Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
+blic/lm/lmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lm
+bx8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmex10.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
+pe1/public/lm/lmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+lm/lmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmr6.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local
+/texlive/2013/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2013/texmf-d
+ist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/public/lm/lmtt12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
+c/lm/lmtti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/rsfs/rs
+fs10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on thesis-main.pdf (98 pages, 6016779 bytes).
 PDF statistics:
- 2743 PDF objects out of 2984 (max. 8388607)
- 2545 compressed objects within 26 object streams
- 554 named destinations out of 1000 (max. 500000)
- 639 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2669 PDF objects out of 2984 (max. 8388607)
+ 2470 compressed objects within 25 object streams
+ 545 named destinations out of 1000 (max. 500000)
+ 604 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,14 +1,16 @@
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {table}{\numberline {2.1}{\ignorespaces Summary of current density results from \citet {Szentadrassy2005}.}}{19}{table.caption.18}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Summary of current density results from \citet {Szentadrassy2005}.}}{25}{table.caption.20}
 \addvspace {10pt}
-\contentsline {table}{\numberline {3.1}{\ignorespaces Models used to train isch\ae {}mia conditions}}{42}{table.caption.36}
 \addvspace {10pt}
-\contentsline {table}{\numberline {4.1}{\ignorespaces Physiological Ranges for APD$_\textnormal {50}$ and APD$_\textnormal {90}$}}{50}{table.caption.39}
-\contentsline {table}{\numberline {4.2}{\ignorespaces Number of parameter sets producing both APD$_\textnormal {50}$ and APD$_\textnormal {90}$ values within the physiological range.}}{51}{table.caption.40}
-\contentsline {table}{\numberline {4.3}{\ignorespaces Minimum, mean, and maximum values of all computed biomarkers produced with the physiological parameter sets.}}{52}{table.caption.41}
-\contentsline {table}{\numberline {4.4}{\ignorespaces Optimum stack order for APD$_\textnormal {50}$, APD$_\textnormal {90}$, and CaT for the Shannon and Mahajan frameworks}}{60}{table.caption.48}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Models used to train isch\ae {}mia conditions}}{41}{table.caption.23}
 \addvspace {10pt}
-\contentsline {table}{\numberline {5.1}{\ignorespaces Isch\ae {}mic environment parameters}}{64}{table.caption.50}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Isch\ae {}mic Effect on Model Populations}}{66}{table.caption.52}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Physiological Ranges for APD$_\textnormal {50}$ and APD$_\textnormal {90}$}}{49}{table.caption.26}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Number of parameter sets producing both APD$_\textnormal {50}$ and APD$_\textnormal {90}$ values within the physiological range.}}{50}{table.caption.27}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Minimum, mean, and maximum values of all computed biomarkers produced with the physiological parameter sets.}}{51}{table.caption.28}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Optimum stack order for APD$_\textnormal {50}$, APD$_\textnormal {90}$, and CaT for the Shannon and Mahajan frameworks}}{59}{table.caption.35}
+\addvspace {10pt}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Isch\ae {}mic environment parameters}}{63}{table.caption.37}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Isch\ae {}mic Effect on Model Populations}}{65}{table.caption.39}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Model failure \& ERP prolongation.}}{67}{table.caption.41}
 \addvspace {10pt}

@@ -202,10 +202,13 @@ Bourdillon, P.~D. and Poole-Wilson, P.~A. (1982).
   exchange and mechanical function in ischemic rabbit myocardium.}
 \newblock {\em Circulation Research}, 50(3):360--8.
 
-\bibitem[Bueno-Orovio et~al., 2008]{Bueno-Orovio2008}
-Bueno-Orovio, A., Cherry, E.~M., and Fenton, F.~H. (2008).
-\newblock {Minimal model for human ventricular action potentials in tissue.}
-\newblock {\em Journal of Theoretical Biology}, 253(3):544--60.
+\bibitem[Britton et~al., 2013]{Britton2013}
+Britton, O.~J., Bueno-Orovio, A., {Van Ammel}, K., Lu, H.~R., Towart, R.,
+  Gallacher, D.~J., and Rodr\'{\i}guez, B. (2013).
+\newblock {Experimentally calibrated population of models predicts and explains
+  intersubject variability in cardiac cellular electrophysiology.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}.
 
 \bibitem[Cabo et~al., 1996]{Cabo1996}
 Cabo, C., Pertsov, A.~M., Davidenko, J.~M., Baxter, W.~T., Gray, R.~A., and
@@ -252,13 +255,6 @@ Carmeliet, E. (2006).
 Carmeliet, E. and Vereecke, J. (2002).
 \newblock {\em {Cardiac Cellular Electrophysiology}}.
 \newblock Springer.
-
-\bibitem[Carusi et~al., 2012]{Carusi2012}
-Carusi, A., Burrage, K., and Rodr\'{\i}guez, B. (2012).
-\newblock {Bridging experiments, models and simulations: an integrative
-  approach to validation in computational cardiac electrophysiology.}
-\newblock {\em American Journal of Physiology - Heart and Circulatory
-  Physiology}, 303(2):H144--55.
 
 \bibitem[Ch'en et~al., 1998]{Chen1998}
 Ch'en, F. F.-T., Vaughan-Jones, R.~D., Clarke, K., and Noble, D. (1998).
@@ -570,6 +566,12 @@ Garfinkel, A., Kim, Y.-H., Voroshilovsky, O., Qu, Z., Kil, J.~R., Lee, M.-H.,
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 97(11):6061--6.
 
+\bibitem[Gasser and Vaughan-Jones, 1990]{Gasser1990}
+Gasser, R. N.~A. and Vaughan-Jones, R.~D. (1990).
+\newblock {Mechanism of potassium efflux and action potential shortening during
+  ischaemia in isolated mammalian cardiac muscle.}
+\newblock {\em The Journal of Physiology}, 431:713--41.
+
 \bibitem[Giles and Imaizumi, 1988]{Giles1988}
 Giles, W.~R. and Imaizumi, Y. (1988).
 \newblock {Comparison of potassium currents in rabbit atrial and ventricular
@@ -592,12 +594,6 @@ Goldhaber, J.~I., Xie, L.-H., Duong, T., Motter, C., Khuu, K., and Weiss, J.~N.
 \newblock {Action potential duration restitution and alternans in rabbit
   ventricular myocytes: the key role of intracellular calcium cycling.}
 \newblock {\em Circulation Research}, 96(4):459--66.
-
-\bibitem[Golowasch et~al., 2002]{Golowasch2002}
-Golowasch, J., Goldman, M.~S., Abbott, L.~F., and Marder, E. (2002).
-\newblock {Failure of averaging in the construction of a conductance-based
-  neuron model.}
-\newblock {\em Journal of Neurophysiology}, 87(2):1129--31.
 
 \bibitem[Gough et~al., 1985]{Gough1985}
 Gough, W.~B., Mehra, R., Restivo, M., Zeiler, R.~H., and El-Sherif, N. (1985).
@@ -740,12 +736,6 @@ Jalife, J. (2009).
 \newblock {\em Heart Rhythm : the Official Journal of the Heart Rhythm
   Society}, 6(11 Suppl):S44--8.
 
-\bibitem[Jalife, 2013]{Jalife2013}
-Jalife, J. (2013).
-\newblock {Introduction to the Series on Computational Approaches to Cardiac
-  Arrhythmias: Translation Into Diagnostics and Therapy}.
-\newblock {\em Circulation Research}, 112(5):831--833.
-
 \bibitem[Janse et~al., 2001]{Janse2001}
 Janse, M.~J., Vermeulen, J.~T., Opthof, T., Coronel, R., Wilms-Schopman, F.
   J.~G., Rademaker, H. M.~E., Baartscheer, A., and Dekker, L. R.~C. (2001).
@@ -811,12 +801,6 @@ Kaplan, P., Hendrikx, M., Mattheussen, M., Mubagwa, K., and Flameng, W. (1992).
 \newblock {Effect of ischemia and reperfusion on sarcoplasmic reticulum calcium
   uptake}.
 \newblock {\em Circulation Research}, 71(5):1123--1130.
-
-\bibitem[Keener and Sneyd, 2009]{Keener2009}
-Keener, J. and Sneyd, J. (2009).
-\newblock {\em {Mathematical Physiology}}, volume 8/2 of {\em Interdisciplinary
-  Applied Mathematics}.
-\newblock Springer New York, New York, NY, 2nd edition.
 
 \bibitem[Kherlopian et~al., 2011]{Kherlopian2011}
 Kherlopian, A.~R., Ortega, F.~A., and Christini, D.~J. (2011).
@@ -1234,19 +1218,6 @@ Qu, Z., Garfinkel, A., Chen, P.-S., and Weiss, J.~N. (2000).
 \newblock {Mechanisms of Discordant Alternans and Induction of Reentry in
   Simulated Cardiac Tissue}.
 \newblock {\em Circulation}, 102(14):1664--1670.
-
-\bibitem[Quinn and Kohl, 2013]{Quinn2013}
-Quinn, T.~A. and Kohl, P. (2013).
-\newblock {Combining wet and dry research: experience with model development
-  for cardiac mechano-electric structure-function studies.}
-\newblock {\em Cardiovascular Research}, 97(4):601--11.
-
-\bibitem[Relan et~al., 2011]{Relan2011}
-Relan, J., Pop, M., Delingette, H., Wright, G.~A., Ayache, N., and Sermesant,
-  M. (2011).
-\newblock {Personalization of a cardiac electrophysiology model using optical
-  mapping and MRI for prediction of changes with pacing.}
-\newblock {\em IEEE Transactions on Biomedical Engineering}, 58(12):3339--49.
 
 \bibitem[Restrepo et~al., 2008]{Restrepo2008}
 Restrepo, J.~G., Weiss, J.~N., and Karma, A. (2008).
@@ -1914,12 +1885,6 @@ Yang, T., Snyders, D.~J., and Roden, D.~M. (1997).
 \newblock {Rapid inactivation determines the rectification and [K+]o dependence
   of the rapid component of the delayed rectifier K+ current in cardiac cells.}
 \newblock {\em Circulation Research}, 80(6):782--9.
-
-\bibitem[Yue et~al., 1996]{Yue1996}
-Yue, L., Feng, J., Li, G.~R., and Nattel, S. (1996).
-\newblock {Transient outward and delayed rectifier currents in canine atrium:
-  properties and role of isolation methods.}
-\newblock {\em The American Journal of Physiology}, 270(6 Pt 2):H2157--68.
 
 \bibitem[Zabel et~al., 1997a]{Zabel1997a}
 Zabel, M., Hohnloser, S.~H., Behrens, S., Woosley, R.~L., and Franz, M.~R.
